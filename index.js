@@ -15,17 +15,17 @@ function parseAgenda(root, category) {
             entry.todo = props['todo-type'] === 'todo' || entry.done;
 
             if ('scheduled' in props) {
-                entry.scheduled = new Date(props.scheduled.start);
+                entry.scheduled = new Date(props.scheduled.start.replace('T', ' ') + ' GMT-0600');
             }
 
             if ('deadline' in props) {
-                entry.deadline = new Date(props.deadline.start);
+                entry.deadline = new Date(props.deadline.start.replace('T', ' ') + ' GMT-0600');
             }
 
             const potentialTimestamp = section?.contents[0]?.contents[0]?.contents[0];
 
             if (potentialTimestamp?.type === 'timestamp') {
-                entry.timestamp = new Date(potentialTimestamp.properties.start);
+                entry.timestamp = new Date(potentialTimestamp.properties.start.replace('T', ' ') + ' GMT-0600');
             }
 
             if ('scheduled' in entry || 'deadline' in entry || 'timestamp' in entry) {
