@@ -1919,7 +1919,7 @@ const data = {
 },
 "properties": {
 "tags-all": [],
-"raw-value": "Clean house",
+"raw-value": "Clean",
 "pre-blank": 0,
 "level": 3,
 "priority": null,
