@@ -12,6 +12,7 @@ html, body {
 #agenda {
     width: 100%;
     padding: 2em;
+    margin: 0;
 }
 
 .section {
