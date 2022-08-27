@@ -1949,7 +1949,7 @@ const data = {
 }
 },
 "title": [
-"Clean house"
+"Clean"
 ]
 },
 "contents": [
@@ -2325,7 +2325,7 @@ const data = {
 },
 "properties": {
 "tags-all": [],
-"raw-value": "Advisor appointment",
+"raw-value": "Advisor",
 "pre-blank": 0,
 "level": 3,
 "priority": null,
@@ -2355,7 +2355,7 @@ const data = {
 }
 },
 "title": [
-"Advisor appointment"
+"Advisor"
 ]
 },
 "contents": [
