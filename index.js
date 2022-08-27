@@ -50,8 +50,6 @@ function sortAgenda(agenda) {
         const date = entry?.timestamp || entry?.scheduled || entry?.deadline;
 
         if (date >= today || (entry.todo && !entry.done)) {
-            console.log(date, today)
-
             if (date < today) {
                 date.setDate(today.getDate());
                 date.setMonth(today.getMonth());
@@ -152,6 +150,14 @@ function render(agenda) {
 }
 
 const agenda = sortAgenda(parseAgenda(data));
-console.log(agenda);
 
 render(agenda);
+
+window.addEventListener('load', function(e) {
+    window.applicationCache.addEventListener('updateready', function(e) {
+        if (window.applicationCache.status == window.applicationCache.UPDATEREADY) {
+            window.applicationCache.swapCache();
+            window.location.reload();
+        }
+    }, false);
+}, false);
