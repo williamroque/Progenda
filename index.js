@@ -1,4 +1,24 @@
 const container = document.querySelector('#agenda');
+const datePattern = /(\d{4})-(\d{1,2})-(\d{1,2})(?:T(\d{2}):(\d{2}):(\d{2}))?/;
+
+
+function parseDate(rawDate) {
+    const date = new Date();
+
+    const [
+        year, month, day,
+        hour, minute, second,
+        ...rest
+    ] = rawDate.match(datePattern).slice(1);
+
+    date.setFullYear(year);
+    date.setMonth((month | 0) - 1);
+    date.setDate(day);
+
+    date.setHours(hour || 0, minute || 0, second || 0);
+
+    return date;
+}
 
 function parseAgenda(root, category) {
     let agenda = [];
@@ -15,17 +35,17 @@ function parseAgenda(root, category) {
             entry.todo = props['todo-type'] === 'todo' || entry.done;
 
             if ('scheduled' in props) {
-                entry.scheduled = new Date(props.scheduled.start.replace('T', ' ') + ' GMT-0600');
+                entry.scheduled = parseDate(props.scheduled.start);
             }
 
             if ('deadline' in props) {
-                entry.deadline = new Date(props.deadline.start.replace('T', ' ') + ' GMT-0600');
+                entry.deadline = parseDate(props.deadline.start);
             }
 
             const potentialTimestamp = section?.contents[0]?.contents[0]?.contents[0];
 
             if (potentialTimestamp?.type === 'timestamp') {
-                entry.timestamp = new Date(potentialTimestamp.properties.start.replace('T', ' ') + ' GMT-0600');
+                entry.timestamp = parseDate(potentialTimestamp.properties.start);
             }
 
             if ('scheduled' in entry || 'deadline' in entry || 'timestamp' in entry) {
@@ -56,7 +76,7 @@ function sortAgenda(agenda) {
                 date.setFullYear(today.getFullYear());
             }
 
-            const key = date.getTime();
+            const key = Math.floor(date.getTime() / 1000) * 1000;
 
             if (key in sorted) {
                 sorted[key].push(entry);
@@ -132,6 +152,12 @@ function render(agenda) {
             const rightContainer = document.createElement('div');
             rightContainer.classList.add('right-container');
 
+            const date = entry?.timestamp || entry?.scheduled || entry?.deadline;
+            const rowTimeElement = document.createElement('div');
+            rowTimeElement.classList.add('row-time');
+            rowTimeElement.innerText = `${String(date.getHours()).padStart(2, '0')}:${String(date.getMinutes()).padStart(2, '0')}`;
+            rightContainer.appendChild(rowTimeElement);
+
             if (entry.todo) {
                 const rowTODOElement = document.createElement('div');
                 rowTODOElement.classList.add('row-todo');
@@ -152,4 +178,3 @@ function render(agenda) {
 const agenda = sortAgenda(parseAgenda(data));
 
 render(agenda);
-

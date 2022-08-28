@@ -45,6 +45,10 @@ html, body {
     color: #101010;
     font-size: 110%;
     font-weight: 300;
+    overflow-x: scroll;
+    width: 100%;
+    display: inline-block;
+    white-space: nowrap;
 }
 
 .row-category {
@@ -60,12 +64,25 @@ html, body {
     font-size: 80%;
     font-weight: 300;
     background: #ceb88a;
+    border: solid 2px #ceb88a;
     padding: .5em;
+    display: inline-block;
+}
+
+.row-time {
+    font-family: 'Helvetica';
+    color: #101010;
+    font-size: 80%;
+    font-weight: 300;
+    border: solid 2px #ceb88a;
+    padding: .5em;
+    display: inline-block;
 }
 
 .left-container {
     display: inline-block;
     height: 100%;
+    width: 60%;
 }
 
 .right-container {
