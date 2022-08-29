@@ -18,7 +18,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgb615e2f",
+"ref": "org6b50b95",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 1
@@ -27,7 +27,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "keyword",
-"ref": "org1f238ed",
+"ref": "orga2ff9de",
 "properties": {
 "key": "TITLE",
 "value": "Schedule",
@@ -39,7 +39,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "keyword",
-"ref": "org9144f4c",
+"ref": "orgdbae623",
 "properties": {
 "key": "STARTUP",
 "value": "content",
@@ -51,7 +51,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "keyword",
-"ref": "org7c557d5",
+"ref": "org19a1308",
 "properties": {
 "key": "DFREE",
 "value": "nil",
@@ -65,7 +65,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org7ade12b",
+"ref": "org17e430d",
 "drawer": {
 
 },
@@ -91,7 +91,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgfa3fa42",
+"ref": "org0e57a6d",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 65
@@ -100,7 +100,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table",
-"ref": "orge0926ab",
+"ref": "org2e9ecac",
 "properties": {
 "type": "org",
 "tblfm": null,
@@ -112,7 +112,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "org6a49143",
+"ref": "org4bdd905",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -122,7 +122,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org6c8efdb",
+"ref": "orgc42f336",
 "properties": {
 "post-blank": 0
 },
@@ -133,7 +133,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org7d54e42",
+"ref": "org4ac6cee",
 "properties": {
 "post-blank": 0
 },
@@ -144,7 +144,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orga52c981",
+"ref": "orgbeac39d",
 "properties": {
 "post-blank": 0
 },
@@ -155,7 +155,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org1e90bd6",
+"ref": "org9d3a719",
 "properties": {
 "post-blank": 0
 },
@@ -166,7 +166,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org0670e72",
+"ref": "orgaba1e51",
 "properties": {
 "post-blank": 0
 },
@@ -177,7 +177,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org898292b",
+"ref": "orgc1ba603",
 "properties": {
 "post-blank": 0
 },
@@ -188,7 +188,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgcb74c73",
+"ref": "orge554257",
 "properties": {
 "post-blank": 0
 },
@@ -199,7 +199,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org1bfd64a",
+"ref": "org0669b5d",
 "properties": {
 "post-blank": 0
 },
@@ -212,7 +212,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "org13c5b2a",
+"ref": "org586d940",
 "properties": {
 "type": "rule",
 "post-blank": 0,
@@ -223,7 +223,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "orgf1d25bc",
+"ref": "org5c4988b",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -233,7 +233,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orga2b4ba1",
+"ref": "orgb95ab3f",
 "properties": {
 "post-blank": 0
 },
@@ -244,7 +244,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org2726de1",
+"ref": "orgdcbc4f4",
 "properties": {
 "post-blank": 0
 },
@@ -255,7 +255,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orga19a078",
+"ref": "orgfeaa0d1",
 "properties": {
 "post-blank": 0
 },
@@ -266,7 +266,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgca2625d",
+"ref": "orga955a92",
 "properties": {
 "post-blank": 0
 },
@@ -277,7 +277,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org9f411d8",
+"ref": "org6b8cae3",
 "properties": {
 "post-blank": 0
 },
@@ -288,7 +288,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgd99c5b3",
+"ref": "org25ef1f0",
 "properties": {
 "post-blank": 0
 },
@@ -299,7 +299,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org3360e49",
+"ref": "org21b3bcb",
 "properties": {
 "post-blank": 0
 },
@@ -310,7 +310,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org62ca354",
+"ref": "orgeb3ab98",
 "properties": {
 "post-blank": 0
 },
@@ -323,7 +323,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "orge137af2",
+"ref": "org6cfe09d",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -333,7 +333,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org6bcb64f",
+"ref": "orgcd32751",
 "properties": {
 "post-blank": 0
 },
@@ -344,7 +344,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgfcfca4e",
+"ref": "orgc65a575",
 "properties": {
 "post-blank": 0
 },
@@ -353,7 +353,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org67be568",
+"ref": "org86b1f8a",
 "properties": {
 "post-blank": 0
 },
@@ -362,7 +362,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgfa8172e",
+"ref": "org8bf7d64",
 "properties": {
 "post-blank": 0
 },
@@ -371,7 +371,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgb6a7863",
+"ref": "org18bb6ec",
 "properties": {
 "post-blank": 0
 },
@@ -380,7 +380,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgedee35a",
+"ref": "org4933dbf",
 "properties": {
 "post-blank": 0
 },
@@ -389,7 +389,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org0b8cfd6",
+"ref": "orga926a20",
 "properties": {
 "post-blank": 0
 },
@@ -398,7 +398,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org66afc1e",
+"ref": "org167e469",
 "properties": {
 "post-blank": 0
 },
@@ -409,7 +409,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "org6a10004",
+"ref": "org6c6bfda",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -419,7 +419,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org557fbd7",
+"ref": "orge4645ef",
 "properties": {
 "post-blank": 0
 },
@@ -430,7 +430,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org7925b55",
+"ref": "org4487c1c",
 "properties": {
 "post-blank": 0
 },
@@ -441,7 +441,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orga93e38e",
+"ref": "org72fb552",
 "properties": {
 "post-blank": 0
 },
@@ -452,7 +452,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org5771fb2",
+"ref": "org1aef8ad",
 "properties": {
 "post-blank": 0
 },
@@ -463,7 +463,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org234b157",
+"ref": "org4f92a4a",
 "properties": {
 "post-blank": 0
 },
@@ -474,7 +474,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgd109de4",
+"ref": "orgd51c615",
 "properties": {
 "post-blank": 0
 },
@@ -483,7 +483,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org091bafc",
+"ref": "org68ca6d7",
 "properties": {
 "post-blank": 0
 },
@@ -492,7 +492,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org8cf489b",
+"ref": "orge3c1121",
 "properties": {
 "post-blank": 0
 },
@@ -503,7 +503,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "orgde6df02",
+"ref": "org20a7368",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -513,7 +513,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgbd5a113",
+"ref": "orgee12095",
 "properties": {
 "post-blank": 0
 },
@@ -524,7 +524,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgd887f3d",
+"ref": "org31472f8",
 "properties": {
 "post-blank": 0
 },
@@ -535,7 +535,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orge1ddf1d",
+"ref": "org985e5f2",
 "properties": {
 "post-blank": 0
 },
@@ -546,7 +546,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgcbeeb76",
+"ref": "org1e7a40f",
 "properties": {
 "post-blank": 0
 },
@@ -557,7 +557,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org152382e",
+"ref": "org2abad3e",
 "properties": {
 "post-blank": 0
 },
@@ -568,7 +568,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgcccf1c3",
+"ref": "org97ef4a7",
 "properties": {
 "post-blank": 0
 },
@@ -579,7 +579,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgac943b9",
+"ref": "orgedd171e",
 "properties": {
 "post-blank": 0
 },
@@ -588,7 +588,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org1db2588",
+"ref": "org99c156b",
 "properties": {
 "post-blank": 0
 },
@@ -599,7 +599,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "org9c975e2",
+"ref": "orga0f824d",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -609,7 +609,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org2c3d0af",
+"ref": "org088665f",
 "properties": {
 "post-blank": 0
 },
@@ -620,7 +620,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org6fe9efe",
+"ref": "org7563bc6",
 "properties": {
 "post-blank": 0
 },
@@ -631,7 +631,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org8e193f3",
+"ref": "orge984476",
 "properties": {
 "post-blank": 0
 },
@@ -642,7 +642,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org82e73c0",
+"ref": "orgfa74a7d",
 "properties": {
 "post-blank": 0
 },
@@ -653,7 +653,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orga48a664",
+"ref": "org319c1e9",
 "properties": {
 "post-blank": 0
 },
@@ -664,7 +664,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org009aa7f",
+"ref": "orgc55ed54",
 "properties": {
 "post-blank": 0
 },
@@ -673,7 +673,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgf6b2ac2",
+"ref": "orgac3f6de",
 "properties": {
 "post-blank": 0
 },
@@ -682,7 +682,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org732bdbe",
+"ref": "org617d827",
 "properties": {
 "post-blank": 0
 },
@@ -693,7 +693,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "orgc5cd02f",
+"ref": "org84ee348",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -703,7 +703,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org19ea532",
+"ref": "orgc793f59",
 "properties": {
 "post-blank": 0
 },
@@ -714,7 +714,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgab78d2b",
+"ref": "org0a676fc",
 "properties": {
 "post-blank": 0
 },
@@ -725,7 +725,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org6df1efc",
+"ref": "org7a65ede",
 "properties": {
 "post-blank": 0
 },
@@ -736,7 +736,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgd2c3918",
+"ref": "orgfb14388",
 "properties": {
 "post-blank": 0
 },
@@ -747,7 +747,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org0f90ad2",
+"ref": "org7ffb7ba",
 "properties": {
 "post-blank": 0
 },
@@ -758,7 +758,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org8dca037",
+"ref": "org57c097d",
 "properties": {
 "post-blank": 0
 },
@@ -769,7 +769,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org3dc37b5",
+"ref": "orgd1e1a3b",
 "properties": {
 "post-blank": 0
 },
@@ -778,7 +778,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgb43ab00",
+"ref": "org0c5c6ac",
 "properties": {
 "post-blank": 0
 },
@@ -789,7 +789,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "orgdc9dc1a",
+"ref": "orge3646bc",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -799,7 +799,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgeff570b",
+"ref": "org8d30982",
 "properties": {
 "post-blank": 0
 },
@@ -810,7 +810,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org9b1eeb9",
+"ref": "org84adb43",
 "properties": {
 "post-blank": 0
 },
@@ -821,7 +821,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgc323fee",
+"ref": "org5d9cce4",
 "properties": {
 "post-blank": 0
 },
@@ -832,7 +832,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org55afa77",
+"ref": "org4415ebb",
 "properties": {
 "post-blank": 0
 },
@@ -843,7 +843,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org77115b1",
+"ref": "orgfc222ab",
 "properties": {
 "post-blank": 0
 },
@@ -854,7 +854,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org6ecea78",
+"ref": "orgb624528",
 "properties": {
 "post-blank": 0
 },
@@ -863,7 +863,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org9415c97",
+"ref": "org3a0a761",
 "properties": {
 "post-blank": 0
 },
@@ -872,7 +872,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgfb2c14b",
+"ref": "org9d04637",
 "properties": {
 "post-blank": 0
 },
@@ -883,7 +883,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "org98359ac",
+"ref": "orga8dbdb9",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -893,7 +893,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org0f9ed03",
+"ref": "org8ba19bd",
 "properties": {
 "post-blank": 0
 },
@@ -904,7 +904,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org8c7173c",
+"ref": "orgd4bec94",
 "properties": {
 "post-blank": 0
 },
@@ -915,7 +915,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgc4a8892",
+"ref": "org2654745",
 "properties": {
 "post-blank": 0
 },
@@ -926,7 +926,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org6d1c6e3",
+"ref": "org07745b0",
 "properties": {
 "post-blank": 0
 },
@@ -937,7 +937,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org86982fd",
+"ref": "orgdb90c62",
 "properties": {
 "post-blank": 0
 },
@@ -948,7 +948,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgd09457e",
+"ref": "orgdcf422a",
 "properties": {
 "post-blank": 0
 },
@@ -959,7 +959,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org78c8a55",
+"ref": "org56e8dd6",
 "properties": {
 "post-blank": 0
 },
@@ -968,7 +968,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org948149f",
+"ref": "org9a39c57",
 "properties": {
 "post-blank": 0
 },
@@ -979,7 +979,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "org12c07f8",
+"ref": "org0cd855e",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -989,7 +989,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgfac5160",
+"ref": "org28505e5",
 "properties": {
 "post-blank": 0
 },
@@ -1000,7 +1000,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org6813fad",
+"ref": "orgf53f934",
 "properties": {
 "post-blank": 0
 },
@@ -1009,7 +1009,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgb0bea44",
+"ref": "org8179774",
 "properties": {
 "post-blank": 0
 },
@@ -1018,7 +1018,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orga0d58a0",
+"ref": "org61646ea",
 "properties": {
 "post-blank": 0
 },
@@ -1027,7 +1027,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org4c52f79",
+"ref": "orgbf560f5",
 "properties": {
 "post-blank": 0
 },
@@ -1036,7 +1036,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org02678bc",
+"ref": "orgab67f53",
 "properties": {
 "post-blank": 0
 },
@@ -1047,7 +1047,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org207c723",
+"ref": "org2158d25",
 "properties": {
 "post-blank": 0
 },
@@ -1056,7 +1056,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orge7dbc14",
+"ref": "org850f9ac",
 "properties": {
 "post-blank": 0
 },
@@ -1067,7 +1067,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "org4b80ff8",
+"ref": "org8815aba",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -1077,7 +1077,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org95544d9",
+"ref": "orgdae5ad9",
 "properties": {
 "post-blank": 0
 },
@@ -1088,7 +1088,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgcf4744c",
+"ref": "org1b81304",
 "properties": {
 "post-blank": 0
 },
@@ -1099,7 +1099,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgeba351a",
+"ref": "org0d8de16",
 "properties": {
 "post-blank": 0
 },
@@ -1108,7 +1108,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgc239a0d",
+"ref": "orga52ae7f",
 "properties": {
 "post-blank": 0
 },
@@ -1119,7 +1119,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org7e9171d",
+"ref": "org2f7bbd7",
 "properties": {
 "post-blank": 0
 },
@@ -1128,7 +1128,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org213ad0a",
+"ref": "org2456478",
 "properties": {
 "post-blank": 0
 },
@@ -1139,7 +1139,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgf60ae5c",
+"ref": "org77ee9e4",
 "properties": {
 "post-blank": 0
 },
@@ -1148,7 +1148,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org1be19be",
+"ref": "org72adee9",
 "properties": {
 "post-blank": 0
 },
@@ -1159,7 +1159,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "org3fb467c",
+"ref": "orge654413",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -1169,7 +1169,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org30b9b7e",
+"ref": "orga4b4827",
 "properties": {
 "post-blank": 0
 },
@@ -1180,7 +1180,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org297689f",
+"ref": "org7ee8960",
 "properties": {
 "post-blank": 0
 },
@@ -1191,7 +1191,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgc5fdff2",
+"ref": "org7c41cb4",
 "properties": {
 "post-blank": 0
 },
@@ -1200,7 +1200,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org0b38157",
+"ref": "orgdc5fba6",
 "properties": {
 "post-blank": 0
 },
@@ -1209,7 +1209,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org3c275a7",
+"ref": "org3444106",
 "properties": {
 "post-blank": 0
 },
@@ -1218,7 +1218,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org8b8ca31",
+"ref": "orgd9a4daa",
 "properties": {
 "post-blank": 0
 },
@@ -1229,7 +1229,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org00d2196",
+"ref": "org5cd34fd",
 "properties": {
 "post-blank": 0
 },
@@ -1238,7 +1238,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgfca3899",
+"ref": "orgc7f8e09",
 "properties": {
 "post-blank": 0
 },
@@ -1249,7 +1249,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "org7cf5f57",
+"ref": "orgc9237d3",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -1259,7 +1259,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org4f5d404",
+"ref": "orgb7619ca",
 "properties": {
 "post-blank": 0
 },
@@ -1270,7 +1270,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org62b98e2",
+"ref": "org288b267",
 "properties": {
 "post-blank": 0
 },
@@ -1279,7 +1279,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org038a7bd",
+"ref": "org6bb3fc2",
 "properties": {
 "post-blank": 0
 },
@@ -1290,7 +1290,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgcaf5749",
+"ref": "orge899321",
 "properties": {
 "post-blank": 0
 },
@@ -1299,7 +1299,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgd9b1357",
+"ref": "org88cea5b",
 "properties": {
 "post-blank": 0
 },
@@ -1308,7 +1308,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org1fb9887",
+"ref": "org971c267",
 "properties": {
 "post-blank": 0
 },
@@ -1319,7 +1319,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orge30aa98",
+"ref": "orgfa7be2d",
 "properties": {
 "post-blank": 0
 },
@@ -1328,7 +1328,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgf9a5fe5",
+"ref": "orge87f105",
 "properties": {
 "post-blank": 0
 },
@@ -1339,7 +1339,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "org8219c9c",
+"ref": "org2b634f5",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -1349,7 +1349,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgb3d0250",
+"ref": "orga99cdb8",
 "properties": {
 "post-blank": 0
 },
@@ -1360,7 +1360,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org55df4a6",
+"ref": "org229f783",
 "properties": {
 "post-blank": 0
 },
@@ -1369,7 +1369,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org010b1e9",
+"ref": "org6c92d32",
 "properties": {
 "post-blank": 0
 },
@@ -1380,7 +1380,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org195efa3",
+"ref": "org547d434",
 "properties": {
 "post-blank": 0
 },
@@ -1389,7 +1389,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org73afd69",
+"ref": "orgbbf0662",
 "properties": {
 "post-blank": 0
 },
@@ -1398,7 +1398,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgcf25d89",
+"ref": "org6198aba",
 "properties": {
 "post-blank": 0
 },
@@ -1407,7 +1407,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgcb92ca6",
+"ref": "orgb401a15",
 "properties": {
 "post-blank": 0
 },
@@ -1416,7 +1416,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org086475c",
+"ref": "orgee110ec",
 "properties": {
 "post-blank": 0
 },
@@ -1427,7 +1427,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "org3c43fc5",
+"ref": "org094cfe4",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -1437,7 +1437,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org6fcc071",
+"ref": "orgd8c79b4",
 "properties": {
 "post-blank": 0
 },
@@ -1448,7 +1448,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgf31967a",
+"ref": "org3c270ff",
 "properties": {
 "post-blank": 0
 },
@@ -1457,7 +1457,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org242eff5",
+"ref": "org4869d19",
 "properties": {
 "post-blank": 0
 },
@@ -1466,7 +1466,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgccee925",
+"ref": "org62c5449",
 "properties": {
 "post-blank": 0
 },
@@ -1475,7 +1475,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgf06ca35",
+"ref": "org539f4a9",
 "properties": {
 "post-blank": 0
 },
@@ -1484,7 +1484,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org7284ddb",
+"ref": "org0e02211",
 "properties": {
 "post-blank": 0
 },
@@ -1493,7 +1493,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgd3c35d3",
+"ref": "orgc5f6684",
 "properties": {
 "post-blank": 0
 },
@@ -1502,7 +1502,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org55db308",
+"ref": "org1725c63",
 "properties": {
 "post-blank": 0
 },
@@ -1513,7 +1513,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "org91c7d03",
+"ref": "org9d91774",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -1523,7 +1523,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org90c11e2",
+"ref": "orgd078620",
 "properties": {
 "post-blank": 0
 },
@@ -1534,7 +1534,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org53d7459",
+"ref": "orge617ede",
 "properties": {
 "post-blank": 0
 },
@@ -1543,7 +1543,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orge781c2a",
+"ref": "org67a304d",
 "properties": {
 "post-blank": 0
 },
@@ -1552,7 +1552,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org023f9be",
+"ref": "orga537f78",
 "properties": {
 "post-blank": 0
 },
@@ -1561,7 +1561,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org13d4565",
+"ref": "org92476df",
 "properties": {
 "post-blank": 0
 },
@@ -1570,7 +1570,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgf21dff5",
+"ref": "orga66b652",
 "properties": {
 "post-blank": 0
 },
@@ -1579,7 +1579,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org14eb4c0",
+"ref": "orgf2aca82",
 "properties": {
 "post-blank": 0
 },
@@ -1588,7 +1588,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org6b7ff45",
+"ref": "orga5f5316",
 "properties": {
 "post-blank": 0
 },
@@ -1599,7 +1599,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "org29a55d5",
+"ref": "org069becc",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -1609,7 +1609,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orge08609a",
+"ref": "org1b9ed92",
 "properties": {
 "post-blank": 0
 },
@@ -1620,7 +1620,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgcf96187",
+"ref": "org4f0b102",
 "properties": {
 "post-blank": 0
 },
@@ -1629,7 +1629,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgb11eea2",
+"ref": "org6ef8829",
 "properties": {
 "post-blank": 0
 },
@@ -1638,7 +1638,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orga4fbc97",
+"ref": "org098c491",
 "properties": {
 "post-blank": 0
 },
@@ -1647,7 +1647,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org31e95c2",
+"ref": "orgc08c6cc",
 "properties": {
 "post-blank": 0
 },
@@ -1656,7 +1656,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgdfc7ba2",
+"ref": "org1f164a0",
 "properties": {
 "post-blank": 0
 },
@@ -1665,7 +1665,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org1a49b6a",
+"ref": "org5542e5e",
 "properties": {
 "post-blank": 0
 },
@@ -1674,7 +1674,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org00e71a7",
+"ref": "orgfec8f9b",
 "properties": {
 "post-blank": 0
 },
@@ -1685,7 +1685,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "org5143f31",
+"ref": "org14a9679",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -1695,7 +1695,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgf295524",
+"ref": "orge0a9090",
 "properties": {
 "post-blank": 0
 },
@@ -1706,7 +1706,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org16f4dfa",
+"ref": "orgd102116",
 "properties": {
 "post-blank": 0
 },
@@ -1715,7 +1715,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org7c55847",
+"ref": "org1e250f8",
 "properties": {
 "post-blank": 0
 },
@@ -1724,7 +1724,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org966e65a",
+"ref": "orge44578c",
 "properties": {
 "post-blank": 0
 },
@@ -1733,7 +1733,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org39ded76",
+"ref": "orgaef1a66",
 "properties": {
 "post-blank": 0
 },
@@ -1742,7 +1742,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org60fa030",
+"ref": "org070b500",
 "properties": {
 "post-blank": 0
 },
@@ -1751,7 +1751,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org7d3fad0",
+"ref": "orgbef2cb9",
 "properties": {
 "post-blank": 0
 },
@@ -1760,7 +1760,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org4abd64d",
+"ref": "orgf630093",
 "properties": {
 "post-blank": 0
 },
@@ -1777,7 +1777,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org0ed0c36",
+"ref": "org7320a2c",
 "drawer": {
 
 },
@@ -1803,7 +1803,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org8e4d0d9",
+"ref": "org525878f",
 "drawer": {
 "CATEGORY": "General"
 },
@@ -1829,7 +1829,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgf2e25e7",
+"ref": "org65c92d0",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 1776
@@ -1839,7 +1839,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org918d609",
+"ref": "org86162b0",
 "drawer": {
 
 },
@@ -1882,7 +1882,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org29c6ae5",
+"ref": "orge8c8585",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 1839
@@ -1894,7 +1894,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org346d8cd",
+"ref": "orgf997765",
 "drawer": {
 
 },
@@ -1937,7 +1937,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgb558913",
+"ref": "orgdf97d86",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 1883
@@ -1949,7 +1949,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgcbdad10",
+"ref": "orgc5a2554",
 "drawer": {
 
 },
@@ -1992,7 +1992,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org67de0ed",
+"ref": "org510e864",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 1938
@@ -2004,7 +2004,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org25408f4",
+"ref": "orgec2420a",
 "drawer": {
 
 },
@@ -2047,7 +2047,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgbb25780",
+"ref": "orga42b2f0",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 1987
@@ -2059,7 +2059,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org98c9dbd",
+"ref": "orga86d0c1",
 "drawer": {
 
 },
@@ -2102,7 +2102,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org8a4a064",
+"ref": "orga4566bd",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2047
@@ -2114,7 +2114,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orga41a63c",
+"ref": "org274f7a1",
 "drawer": {
 
 },
@@ -2157,7 +2157,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org4f81e14",
+"ref": "org02cbed7",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2098
@@ -2169,7 +2169,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgdbcc7ad",
+"ref": "org0446443",
 "drawer": {
 
 },
@@ -2212,7 +2212,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgca6dbc7",
+"ref": "org787e0a2",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2152
@@ -2226,7 +2226,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgb942529",
+"ref": "orgc6b249f",
 "drawer": {
 "CATEGORY": "MATH-314"
 },
@@ -2252,7 +2252,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org6f38e37",
+"ref": "orge344845",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2192
@@ -2262,7 +2262,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orged1f87c",
+"ref": "org2032a4d",
 "drawer": {
 
 },
@@ -2273,8 +2273,8 @@ const data = {
 "level": 3,
 "priority": null,
 "tags": [],
-"todo-keyword": "TODO",
-"todo-type": "todo",
+"todo-keyword": "DONE",
+"todo-type": "done",
 "post-blank": 0,
 "footnote-section-p": false,
 "archivedp": false,
@@ -2305,7 +2305,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org7e23ab7",
+"ref": "org6e2b0da",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2266
@@ -2319,7 +2319,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org3c79897",
+"ref": "orgfa20187",
 "drawer": {
 "CATEGORY": "Major"
 },
@@ -2345,7 +2345,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org7d0357a",
+"ref": "org061f97c",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2303
@@ -2355,7 +2355,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org0940198",
+"ref": "org17baa21",
 "drawer": {
 
 },
@@ -2398,7 +2398,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orge64d324",
+"ref": "orgcd3bc48",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2374
@@ -2410,7 +2410,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org1f1c873",
+"ref": "org8836caa",
 "drawer": {
 
 },
@@ -2430,10 +2430,10 @@ const data = {
 "post-affiliated": 2402,
 "scheduled": {
 "$$data_type": "timestamp",
-"start": "2022-08-29",
-"end": "2022-08-29",
+"start": "2022-08-30",
+"end": "2022-08-30",
 "type": "active",
-"raw-value": "<2022-08-29 Mon>",
+"raw-value": "<2022-08-30 Tue>",
 "repeater": {
 "type": null,
 "unit": null,
@@ -2453,7 +2453,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orga80e2b4",
+"ref": "org2634c9a",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2431
@@ -2467,7 +2467,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org6a0e595",
+"ref": "org3ca4d46",
 "drawer": {
 "CATEGORY": "PHSCS-127"
 },
@@ -2493,7 +2493,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgc77d07f",
+"ref": "org98a82b2",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2472
@@ -2503,7 +2503,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgffbdb71",
+"ref": "org2d26a75",
 "drawer": {
 
 },
@@ -2546,7 +2546,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgb4f0834",
+"ref": "orgcb00bf0",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2534
@@ -2558,7 +2558,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orga9274f7",
+"ref": "orgc5f8702",
 "drawer": {
 
 },
@@ -2601,7 +2601,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org496263d",
+"ref": "org40317c8",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2588
@@ -2613,7 +2613,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org2bcf793",
+"ref": "org05782d3",
 "drawer": {
 
 },
@@ -2656,10 +2656,65 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org0aa29cb",
+"ref": "org9929f6f",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2655
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org04b7bb1",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Take syllabus quiz",
+"pre-blank": 0,
+"level": 3,
+"priority": null,
+"tags": [],
+"todo-keyword": "TODO",
+"todo-type": "todo",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 2683,
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-08-29",
+"end": "2022-08-29",
+"type": "active",
+"raw-value": "<2022-08-29 Mon>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"Take syllabus quiz"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org0bfb448",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 2711
 },
 "contents": []
 }
@@ -2670,7 +2725,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org2c7dfb1",
+"ref": "org4e65104",
 "drawer": {
 "CATEGORY": "MATH-215"
 },
@@ -2687,7 +2742,7 @@ const data = {
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 2683,
+"post-affiliated": 2739,
 "title": [
 "Comp. L.A."
 ]
@@ -2696,19 +2751,74 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgfe5d686",
+"ref": "orgcfb4d4f",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 2697
+"post-affiliated": 2753
 },
 "contents": []
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org16ea2e4",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Start looking into 250",
+"pre-blank": 0,
+"level": 3,
+"priority": null,
+"tags": [],
+"todo-keyword": "TODO",
+"todo-type": "todo",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 2792,
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-08-29",
+"end": "2022-08-29",
+"type": "active",
+"raw-value": "<2022-08-29 Mon>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"Start looking into 250"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "orgc245b64",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 2824
+},
+"contents": []
+}
+]
 }
 ]
 },
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org2d0d2ab",
+"ref": "orgeeb0156",
 "drawer": {
 "CATEGORY": "MATH-213"
 },
@@ -2725,7 +2835,7 @@ const data = {
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 2736,
+"post-affiliated": 2852,
 "title": [
 "Linear Algebra"
 ]
@@ -2734,17 +2844,17 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org5acdae5",
+"ref": "org6e2f273",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 2754
+"post-affiliated": 2870
 },
 "contents": []
 },
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org98a7e1b",
+"ref": "orga1a92ce",
 "drawer": {
 
 },
@@ -2761,7 +2871,7 @@ const data = {
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 2793,
+"post-affiliated": 2909,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-08-29",
@@ -2787,10 +2897,10 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orge663c66",
+"ref": "orgda0e951",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 2819
+"post-affiliated": 2935
 },
 "contents": []
 }
@@ -2801,7 +2911,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgf9976b6",
+"ref": "org67ba837",
 "drawer": {
 "CATEGORY": "CS-111"
 },
@@ -2818,7 +2928,7 @@ const data = {
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 2847,
+"post-affiliated": 2963,
 "title": [
 "Programming"
 ]
@@ -2827,19 +2937,74 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgd86316f",
+"ref": "org384ee3e",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 2862
+"post-affiliated": 2978
 },
 "contents": []
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org98fa95b",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Start looking into homework",
+"pre-blank": 0,
+"level": 3,
+"priority": null,
+"tags": [],
+"todo-keyword": "TODO",
+"todo-type": "todo",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 3015,
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-08-29",
+"end": "2022-08-29",
+"type": "active",
+"raw-value": "<2022-08-29 Mon>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"Start looking into homework"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org5196b68",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 3052
+},
+"contents": []
+}
+]
 }
 ]
 },
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orge101702",
+"ref": "org28a0651",
 "drawer": {
 "CATEGORY": "REL-C-200"
 },
@@ -2856,7 +3021,7 @@ const data = {
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 2899,
+"post-affiliated": 3080,
 "title": [
 "Eternal Families"
 ]
@@ -2865,17 +3030,17 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orge4df896",
+"ref": "org668fc4c",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 2919
+"post-affiliated": 3100
 },
 "contents": []
 },
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org3ddd050",
+"ref": "org9583c3f",
 "drawer": {
 
 },
@@ -2894,7 +3059,7 @@ const data = {
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 2959,
+"post-affiliated": 3140,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-08-28",
@@ -2920,10 +3085,10 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgf221ab1",
+"ref": "orge65dab1",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 3029
+"post-affiliated": 3210
 },
 "contents": []
 }
@@ -2934,7 +3099,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org329cee3",
+"ref": "orge4a45f2",
 "drawer": {
 "CATEGORY": "PHSCS-123"
 },
@@ -2951,7 +3116,7 @@ const data = {
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 3057,
+"post-affiliated": 3238,
 "title": [
 "Waves, Optics, Thermo."
 ]
@@ -2960,17 +3125,17 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org9599243",
+"ref": "org84c4125",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 3083
+"post-affiliated": 3264
 },
 "contents": []
 },
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgc8e0763",
+"ref": "org7675000",
 "drawer": {
 
 },
@@ -2987,7 +3152,7 @@ const data = {
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 3123,
+"post-affiliated": 3304,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-08-26",
@@ -3013,10 +3178,10 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org0fb0668",
+"ref": "org0d83440",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 3145
+"post-affiliated": 3326
 },
 "contents": []
 }
@@ -3025,7 +3190,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org39bee97",
+"ref": "orge9e70d5",
 "drawer": {
 
 },
@@ -3044,7 +3209,7 @@ const data = {
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 3173,
+"post-affiliated": 3354,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-08-28",
@@ -3070,10 +3235,270 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org0e45118",
+"ref": "org387d8b7",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 3243
+"post-affiliated": 3424
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "orge91df6e",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Warmup 1",
+"pre-blank": 0,
+"level": 3,
+"priority": null,
+"tags": [
+"quiz"
+],
+"todo-keyword": "TODO",
+"todo-type": "todo",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 3452,
+"deadline": {
+"$$data_type": "timestamp",
+"start": "2022-08-31T12:50:00",
+"end": "2022-08-31T12:50:00",
+"type": "active",
+"raw-value": "<2022-08-31 Wed 12:50>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-08-29",
+"end": "2022-08-29",
+"type": "active",
+"raw-value": "<2022-08-29 Mon>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"Warmup 1"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org3183635",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 3518
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "orgaa72bc8",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Reading for Wednesday",
+"pre-blank": 0,
+"level": 3,
+"priority": null,
+"tags": [],
+"todo-keyword": "TODO",
+"todo-type": "todo",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 3579,
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-08-29",
+"end": "2022-08-29",
+"type": "active",
+"raw-value": "<2022-08-29 Mon>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"Reading for Wednesday"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org0f6ca6c",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 3610
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org356a4fa",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Homework 1",
+"pre-blank": 0,
+"level": 3,
+"priority": null,
+"tags": [
+"homework"
+],
+"todo-keyword": "TODO",
+"todo-type": "todo",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 3638,
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-08-29",
+"end": "2022-08-29",
+"type": "active",
+"raw-value": "<2022-08-29 Mon>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"Homework 1"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org8d4261c",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 3709
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org508ae27",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Warmup 2",
+"pre-blank": 0,
+"level": 3,
+"priority": null,
+"tags": [
+"quiz"
+],
+"todo-keyword": "TODO",
+"todo-type": "todo",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 3737,
+"deadline": {
+"$$data_type": "timestamp",
+"start": "2022-08-31T12:50:00",
+"end": "2022-08-31T12:50:00",
+"type": "active",
+"raw-value": "<2022-08-31 Wed 12:50>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-08-29",
+"end": "2022-08-29",
+"type": "active",
+"raw-value": "<2022-08-29 Mon>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"Warmup 2"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org6bfa92e",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 3804
 },
 "contents": []
 }
@@ -3084,7 +3509,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orga4e5478",
+"ref": "org8863136",
 "drawer": {
 "CATEGORY": "PHSCS-191"
 },
@@ -3101,7 +3526,7 @@ const data = {
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 3271,
+"post-affiliated": 3865,
 "title": [
 "Career Seminar"
 ]
@@ -3110,10 +3535,10 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org98e8aeb",
+"ref": "org61831f1",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 3289
+"post-affiliated": 3883
 },
 "contents": []
 }
@@ -3124,7 +3549,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org8ca7974",
+"ref": "org9dde312",
 "drawer": {
 "CATEGORY": "Work"
 },
@@ -3141,7 +3566,7 @@ const data = {
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 3329,
+"post-affiliated": 3923,
 "title": [
 "Work"
 ]
@@ -3150,17 +3575,17 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org4d13b64",
+"ref": "orgbd2d6c6",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 3336
+"post-affiliated": 3930
 },
 "contents": []
 },
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org3889769",
+"ref": "orgcd10839",
 "drawer": {
 
 },
@@ -3177,7 +3602,7 @@ const data = {
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 3371,
+"post-affiliated": 3965,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-08-27",
@@ -3203,10 +3628,10 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgfe2c9c0",
+"ref": "org7902676",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 3397
+"post-affiliated": 3991
 },
 "contents": []
 }
@@ -3217,7 +3642,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org0650044",
+"ref": "org66cc839",
 "drawer": {
 
 },
@@ -3234,7 +3659,7 @@ const data = {
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 3425,
+"post-affiliated": 4019,
 "title": [
 "Emacs"
 ]
@@ -3244,7 +3669,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgddcc7c7",
+"ref": "orgb923cab",
 "drawer": {
 "CATEGORY": "Research"
 },
@@ -3261,7 +3686,7 @@ const data = {
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 3433,
+"post-affiliated": 4027,
 "title": [
 "Research"
 ]
@@ -3270,17 +3695,17 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org0b288a4",
+"ref": "orgb6cbce5",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 3444
+"post-affiliated": 4038
 },
 "contents": []
 },
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgd1a13e3",
+"ref": "orge996b88",
 "drawer": {
 
 },
@@ -3299,7 +3724,7 @@ const data = {
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 3483,
+"post-affiliated": 4077,
 "title": [
 "Research meeting"
 ]
@@ -3308,25 +3733,25 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org0be2fb0",
+"ref": "orgee2092c",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 3553
+"post-affiliated": 4147
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org725018a",
+"ref": "orgb660938",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 3553
+"post-affiliated": 4147
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "timestamp",
-"ref": "org623ad26",
+"ref": "org3cb52c7",
 "properties": {
 "type": "active",
 "raw-value": "<2022-07-28 Thu 15:30>",
