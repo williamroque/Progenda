@@ -16,7 +16,7 @@ html, body {
 }
 
 .section {
-    margin: 3em 0;
+    margin-bottom: 3em;
     width: 100%;
 }
 
@@ -93,4 +93,45 @@ html, body {
 
 .done div {
     opacity: 0.5;
+}
+
+#table-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    width: 90%;
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
+tr:nth-child(even) {
+    background: #f9f0e8;
+}
+
+th {
+    font-family: 'CMU Serif';
+}
+
+th {
+    border-bottom: solid 2px #ccc;
+}
+
+th:nth-child(1) {
+    border-right: solid 1px #ccc;
+}
+
+td:nth-child(1) {
+    font-family: 'CMU Serif';
+    border-right: solid 1px #ccc;
+}
+
+td {
+    font-family: 'Helvetica';
+    color: #101010;
+    font-size: 100%;
+    font-weight: 300;
 }
