@@ -18,7 +18,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orge0752ae",
+"ref": "orgc62a265",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 1
@@ -27,7 +27,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "keyword",
-"ref": "orgbfc2069",
+"ref": "orgf7eb9b8",
 "properties": {
 "key": "TITLE",
 "value": "Schedule",
@@ -39,7 +39,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "keyword",
-"ref": "org6821832",
+"ref": "orgcea9650",
 "properties": {
 "key": "DFREE",
 "value": "nil",
@@ -53,7 +53,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org8e5f3a7",
+"ref": "org33e36e7",
 "drawer": {
 
 },
@@ -79,7 +79,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org4a7e89e",
+"ref": "org31d55ce",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 46
@@ -88,7 +88,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table",
-"ref": "org38d930b",
+"ref": "orgda4b055",
 "properties": {
 "type": "org",
 "tblfm": null,
@@ -100,7 +100,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "org640dfd6",
+"ref": "org37e051a",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -110,7 +110,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org4251c3c",
+"ref": "orgb3e1e6d",
 "properties": {
 "post-blank": 0
 },
@@ -121,7 +121,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org5fdeba4",
+"ref": "org8e01b24",
 "properties": {
 "post-blank": 0
 },
@@ -132,7 +132,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org9d7af84",
+"ref": "org694a25f",
 "properties": {
 "post-blank": 0
 },
@@ -143,7 +143,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgc700793",
+"ref": "orge0a300b",
 "properties": {
 "post-blank": 0
 },
@@ -154,7 +154,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org5c33611",
+"ref": "orgc4b6824",
 "properties": {
 "post-blank": 0
 },
@@ -165,7 +165,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org6d51348",
+"ref": "org8cca88e",
 "properties": {
 "post-blank": 0
 },
@@ -176,7 +176,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org5324f09",
+"ref": "orgd5db201",
 "properties": {
 "post-blank": 0
 },
@@ -187,7 +187,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orge0d1574",
+"ref": "org5c09040",
 "properties": {
 "post-blank": 0
 },
@@ -200,7 +200,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "orgdab0f00",
+"ref": "orgbd7c79d",
 "properties": {
 "type": "rule",
 "post-blank": 0,
@@ -211,7 +211,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "org2274900",
+"ref": "org6f152bf",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -221,7 +221,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgd9ab6f7",
+"ref": "orgcc8a229",
 "properties": {
 "post-blank": 0
 },
@@ -232,7 +232,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgb12e7fd",
+"ref": "orga5f2014",
 "properties": {
 "post-blank": 0
 },
@@ -243,7 +243,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org97b9c1a",
+"ref": "org180d7a8",
 "properties": {
 "post-blank": 0
 },
@@ -254,7 +254,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgdce8599",
+"ref": "orgbf8b28e",
 "properties": {
 "post-blank": 0
 },
@@ -265,7 +265,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org2d79c60",
+"ref": "org355e66f",
 "properties": {
 "post-blank": 0
 },
@@ -276,7 +276,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgc113c5a",
+"ref": "org1cf6e7c",
 "properties": {
 "post-blank": 0
 },
@@ -287,7 +287,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgbac979d",
+"ref": "org1c77c84",
 "properties": {
 "post-blank": 0
 },
@@ -298,7 +298,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orge720446",
+"ref": "org82f0a0e",
 "properties": {
 "post-blank": 0
 },
@@ -311,7 +311,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "orgb58b780",
+"ref": "org5281675",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -321,7 +321,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org2298f50",
+"ref": "org28d130b",
 "properties": {
 "post-blank": 0
 },
@@ -332,7 +332,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org3711ce7",
+"ref": "org449c1af",
 "properties": {
 "post-blank": 0
 },
@@ -341,7 +341,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orge172cf3",
+"ref": "orgd119c9d",
 "properties": {
 "post-blank": 0
 },
@@ -350,7 +350,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org7f1a145",
+"ref": "org63d36ed",
 "properties": {
 "post-blank": 0
 },
@@ -359,7 +359,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orga855535",
+"ref": "org7711b7a",
 "properties": {
 "post-blank": 0
 },
@@ -368,7 +368,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org2cc66c0",
+"ref": "org4c433d8",
 "properties": {
 "post-blank": 0
 },
@@ -377,7 +377,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgb474ab6",
+"ref": "orgc14ff6c",
 "properties": {
 "post-blank": 0
 },
@@ -386,7 +386,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgc2a1e98",
+"ref": "orgd089e9c",
 "properties": {
 "post-blank": 0
 },
@@ -397,7 +397,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "org01a7755",
+"ref": "orge3a1eff",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -407,7 +407,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org0c85ad1",
+"ref": "org6807ecb",
 "properties": {
 "post-blank": 0
 },
@@ -418,7 +418,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org79f66aa",
+"ref": "orga228b3b",
 "properties": {
 "post-blank": 0
 },
@@ -429,7 +429,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org4c45635",
+"ref": "orgf4e8fad",
 "properties": {
 "post-blank": 0
 },
@@ -440,7 +440,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgfb27e54",
+"ref": "orgb15e857",
 "properties": {
 "post-blank": 0
 },
@@ -451,7 +451,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orga2b9d93",
+"ref": "org59dc9fc",
 "properties": {
 "post-blank": 0
 },
@@ -462,7 +462,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgf54656a",
+"ref": "orga49cce7",
 "properties": {
 "post-blank": 0
 },
@@ -471,7 +471,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org2a3dcce",
+"ref": "org8c1d47a",
 "properties": {
 "post-blank": 0
 },
@@ -480,7 +480,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgd3106e0",
+"ref": "org39d4355",
 "properties": {
 "post-blank": 0
 },
@@ -491,7 +491,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "orgab0dc42",
+"ref": "orga260d10",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -501,7 +501,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgcd27593",
+"ref": "orgcefb91a",
 "properties": {
 "post-blank": 0
 },
@@ -512,7 +512,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org7caf377",
+"ref": "org0668a79",
 "properties": {
 "post-blank": 0
 },
@@ -523,7 +523,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org7885a1c",
+"ref": "org4a6eb3c",
 "properties": {
 "post-blank": 0
 },
@@ -534,7 +534,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org470cf7f",
+"ref": "org9d5412f",
 "properties": {
 "post-blank": 0
 },
@@ -545,7 +545,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgf7916cc",
+"ref": "org21ec317",
 "properties": {
 "post-blank": 0
 },
@@ -556,7 +556,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orga3c44c1",
+"ref": "org62ae2e1",
 "properties": {
 "post-blank": 0
 },
@@ -567,7 +567,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgd3dc8df",
+"ref": "orgf6c02db",
 "properties": {
 "post-blank": 0
 },
@@ -576,7 +576,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orga83f95c",
+"ref": "org13d2a34",
 "properties": {
 "post-blank": 0
 },
@@ -587,7 +587,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "org84e225e",
+"ref": "orgd16bc66",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -597,7 +597,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org859f3dc",
+"ref": "orgb78ab9e",
 "properties": {
 "post-blank": 0
 },
@@ -608,7 +608,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org49162d3",
+"ref": "org9276ef5",
 "properties": {
 "post-blank": 0
 },
@@ -619,7 +619,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orga817d2d",
+"ref": "org9ccdbaf",
 "properties": {
 "post-blank": 0
 },
@@ -630,7 +630,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org26995a9",
+"ref": "orga225cd8",
 "properties": {
 "post-blank": 0
 },
@@ -641,7 +641,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org41762f9",
+"ref": "org1114eb1",
 "properties": {
 "post-blank": 0
 },
@@ -652,7 +652,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org8dd1200",
+"ref": "orgf2cdf03",
 "properties": {
 "post-blank": 0
 },
@@ -661,7 +661,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org2bbaa8e",
+"ref": "org45a6c9f",
 "properties": {
 "post-blank": 0
 },
@@ -670,7 +670,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org3172fa1",
+"ref": "org13a181a",
 "properties": {
 "post-blank": 0
 },
@@ -681,7 +681,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "org9114b3f",
+"ref": "orgd9b3ea0",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -691,7 +691,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgf80e33c",
+"ref": "org9794bb3",
 "properties": {
 "post-blank": 0
 },
@@ -702,7 +702,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org5c4091b",
+"ref": "orgb9e0fb3",
 "properties": {
 "post-blank": 0
 },
@@ -713,7 +713,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgc43a27c",
+"ref": "org6fa9886",
 "properties": {
 "post-blank": 0
 },
@@ -724,7 +724,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgc9bed0b",
+"ref": "org617b88b",
 "properties": {
 "post-blank": 0
 },
@@ -735,7 +735,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org22dc724",
+"ref": "orgc5934e6",
 "properties": {
 "post-blank": 0
 },
@@ -746,7 +746,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org1d93415",
+"ref": "orgef036f0",
 "properties": {
 "post-blank": 0
 },
@@ -757,7 +757,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgec830c7",
+"ref": "orgb5b752b",
 "properties": {
 "post-blank": 0
 },
@@ -766,7 +766,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org2cce1f7",
+"ref": "orgf189a5c",
 "properties": {
 "post-blank": 0
 },
@@ -777,7 +777,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "org5f3e9c2",
+"ref": "orgf05fd3f",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -787,7 +787,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgd8df30b",
+"ref": "orgbf864f0",
 "properties": {
 "post-blank": 0
 },
@@ -798,7 +798,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org5b5ceaf",
+"ref": "orgd20a376",
 "properties": {
 "post-blank": 0
 },
@@ -809,7 +809,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org1f366f4",
+"ref": "org15c3425",
 "properties": {
 "post-blank": 0
 },
@@ -820,7 +820,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org5c60ee4",
+"ref": "orgfdf8263",
 "properties": {
 "post-blank": 0
 },
@@ -831,7 +831,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org718ca33",
+"ref": "org0753401",
 "properties": {
 "post-blank": 0
 },
@@ -842,7 +842,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org86e3a9c",
+"ref": "org98d5aee",
 "properties": {
 "post-blank": 0
 },
@@ -853,7 +853,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org0d401a5",
+"ref": "org0da9778",
 "properties": {
 "post-blank": 0
 },
@@ -862,7 +862,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org28d7d02",
+"ref": "org58dcd3c",
 "properties": {
 "post-blank": 0
 },
@@ -873,7 +873,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "org7697529",
+"ref": "orga435982",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -883,7 +883,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgc503ad6",
+"ref": "org56c6521",
 "properties": {
 "post-blank": 0
 },
@@ -894,7 +894,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgd14411e",
+"ref": "org6f4596a",
 "properties": {
 "post-blank": 0
 },
@@ -905,7 +905,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org40f2ff1",
+"ref": "orgc11501d",
 "properties": {
 "post-blank": 0
 },
@@ -916,7 +916,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org2b808dd",
+"ref": "org155807c",
 "properties": {
 "post-blank": 0
 },
@@ -927,7 +927,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgbb2fff0",
+"ref": "orga6ca317",
 "properties": {
 "post-blank": 0
 },
@@ -938,7 +938,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgc05f4c6",
+"ref": "org081a8d3",
 "properties": {
 "post-blank": 0
 },
@@ -949,7 +949,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgbf20da4",
+"ref": "org53bba6b",
 "properties": {
 "post-blank": 0
 },
@@ -958,7 +958,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org67a82e4",
+"ref": "orgd789115",
 "properties": {
 "post-blank": 0
 },
@@ -969,7 +969,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "orgd4ea924",
+"ref": "org152a170",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -979,7 +979,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org97c88e6",
+"ref": "org0067932",
 "properties": {
 "post-blank": 0
 },
@@ -990,7 +990,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgd18fe45",
+"ref": "orgbea3d72",
 "properties": {
 "post-blank": 0
 },
@@ -999,7 +999,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org4b2e480",
+"ref": "org2721375",
 "properties": {
 "post-blank": 0
 },
@@ -1008,7 +1008,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgae66e90",
+"ref": "orgbe5d735",
 "properties": {
 "post-blank": 0
 },
@@ -1017,7 +1017,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgb747eb8",
+"ref": "org5b5d743",
 "properties": {
 "post-blank": 0
 },
@@ -1026,7 +1026,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org10252ef",
+"ref": "org5210b3a",
 "properties": {
 "post-blank": 0
 },
@@ -1037,7 +1037,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org0d8da88",
+"ref": "orgddaeec4",
 "properties": {
 "post-blank": 0
 },
@@ -1046,7 +1046,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orga883851",
+"ref": "orgec1e45c",
 "properties": {
 "post-blank": 0
 },
@@ -1057,7 +1057,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "orge838754",
+"ref": "org96dcd1c",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -1067,7 +1067,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgac900da",
+"ref": "orgce366c1",
 "properties": {
 "post-blank": 0
 },
@@ -1078,7 +1078,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org4cab411",
+"ref": "orgc082fb6",
 "properties": {
 "post-blank": 0
 },
@@ -1089,7 +1089,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org5d9197d",
+"ref": "org2504d26",
 "properties": {
 "post-blank": 0
 },
@@ -1098,7 +1098,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgbbb7370",
+"ref": "org7711d8e",
 "properties": {
 "post-blank": 0
 },
@@ -1109,7 +1109,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org2bb4f87",
+"ref": "org9a1edaf",
 "properties": {
 "post-blank": 0
 },
@@ -1118,7 +1118,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgbc1cc80",
+"ref": "org902817a",
 "properties": {
 "post-blank": 0
 },
@@ -1129,7 +1129,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgc84fabf",
+"ref": "orgbf45f82",
 "properties": {
 "post-blank": 0
 },
@@ -1138,7 +1138,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org7af7318",
+"ref": "org65b1c99",
 "properties": {
 "post-blank": 0
 },
@@ -1149,7 +1149,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "orgb31a77b",
+"ref": "orgae0cdd4",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -1159,7 +1159,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgadbb480",
+"ref": "org5ff8a41",
 "properties": {
 "post-blank": 0
 },
@@ -1170,7 +1170,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org50d4f7e",
+"ref": "org7678d49",
 "properties": {
 "post-blank": 0
 },
@@ -1179,7 +1179,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org6490d37",
+"ref": "orgb2bae74",
 "properties": {
 "post-blank": 0
 },
@@ -1190,7 +1190,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgdc01e92",
+"ref": "org358c1d0",
 "properties": {
 "post-blank": 0
 },
@@ -1199,7 +1199,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org521adb7",
+"ref": "orgc09a204",
 "properties": {
 "post-blank": 0
 },
@@ -1208,7 +1208,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org8123932",
+"ref": "org6436846",
 "properties": {
 "post-blank": 0
 },
@@ -1219,7 +1219,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org235008b",
+"ref": "org6ceb92f",
 "properties": {
 "post-blank": 0
 },
@@ -1228,7 +1228,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgcd592a5",
+"ref": "orgd50e05b",
 "properties": {
 "post-blank": 0
 },
@@ -1239,7 +1239,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "orgafe8c41",
+"ref": "org235f977",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -1249,7 +1249,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgee684a7",
+"ref": "orge4d226d",
 "properties": {
 "post-blank": 0
 },
@@ -1260,7 +1260,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgcf3f80e",
+"ref": "orge18615c",
 "properties": {
 "post-blank": 0
 },
@@ -1269,7 +1269,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org23e0e5d",
+"ref": "orgc6ac05a",
 "properties": {
 "post-blank": 0
 },
@@ -1280,7 +1280,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org3f9624e",
+"ref": "orgec1af13",
 "properties": {
 "post-blank": 0
 },
@@ -1289,7 +1289,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org0f098a3",
+"ref": "orgc1f5ae2",
 "properties": {
 "post-blank": 0
 },
@@ -1298,7 +1298,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org04fb128",
+"ref": "orga68e4e8",
 "properties": {
 "post-blank": 0
 },
@@ -1309,7 +1309,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org26d609d",
+"ref": "orgf4761b2",
 "properties": {
 "post-blank": 0
 },
@@ -1318,7 +1318,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgdb4d0c9",
+"ref": "org87296f8",
 "properties": {
 "post-blank": 0
 },
@@ -1329,7 +1329,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "org2ee899f",
+"ref": "orgeaae701",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -1339,7 +1339,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgf444c95",
+"ref": "org5e9d3a9",
 "properties": {
 "post-blank": 0
 },
@@ -1350,7 +1350,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgbfe2c25",
+"ref": "org8ff740d",
 "properties": {
 "post-blank": 0
 },
@@ -1359,7 +1359,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org95bb32e",
+"ref": "orgb0693a6",
 "properties": {
 "post-blank": 0
 },
@@ -1370,7 +1370,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org6c03b2c",
+"ref": "orgd23d190",
 "properties": {
 "post-blank": 0
 },
@@ -1381,7 +1381,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org2553b6d",
+"ref": "org11182c8",
 "properties": {
 "post-blank": 0
 },
@@ -1390,7 +1390,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org9c2ca51",
+"ref": "org19149cf",
 "properties": {
 "post-blank": 0
 },
@@ -1399,7 +1399,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org2e2571a",
+"ref": "org3366a19",
 "properties": {
 "post-blank": 0
 },
@@ -1408,7 +1408,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org4793dc9",
+"ref": "org7a110db",
 "properties": {
 "post-blank": 0
 },
@@ -1419,7 +1419,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "org4397242",
+"ref": "org993bea0",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -1429,7 +1429,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgd5c42bf",
+"ref": "orgc0c985b",
 "properties": {
 "post-blank": 0
 },
@@ -1440,7 +1440,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgdd0dbfa",
+"ref": "orgc80e568",
 "properties": {
 "post-blank": 0
 },
@@ -1449,7 +1449,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgd31dbe7",
+"ref": "org27decf2",
 "properties": {
 "post-blank": 0
 },
@@ -1458,7 +1458,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org5be988d",
+"ref": "org5614e19",
 "properties": {
 "post-blank": 0
 },
@@ -1467,7 +1467,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgd96de87",
+"ref": "org3a4a71a",
 "properties": {
 "post-blank": 0
 },
@@ -1476,7 +1476,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org2b052de",
+"ref": "org54563f3",
 "properties": {
 "post-blank": 0
 },
@@ -1485,7 +1485,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org69b3308",
+"ref": "org92f22cd",
 "properties": {
 "post-blank": 0
 },
@@ -1494,7 +1494,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org455d891",
+"ref": "org8a1fe10",
 "properties": {
 "post-blank": 0
 },
@@ -1505,7 +1505,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "orgcf27fc5",
+"ref": "orgca76209",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -1515,7 +1515,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgbc306e4",
+"ref": "org53e512e",
 "properties": {
 "post-blank": 0
 },
@@ -1526,7 +1526,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org8cd5b42",
+"ref": "org1d1fa71",
 "properties": {
 "post-blank": 0
 },
@@ -1537,7 +1537,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org7ee1672",
+"ref": "org8876db8",
 "properties": {
 "post-blank": 0
 },
@@ -1548,7 +1548,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org1359a30",
+"ref": "org2ff1832",
 "properties": {
 "post-blank": 0
 },
@@ -1559,7 +1559,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgb51f203",
+"ref": "orgf8e1b95",
 "properties": {
 "post-blank": 0
 },
@@ -1570,7 +1570,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orge8948c9",
+"ref": "org0a1085f",
 "properties": {
 "post-blank": 0
 },
@@ -1581,7 +1581,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org9c83219",
+"ref": "org0a96f5e",
 "properties": {
 "post-blank": 0
 },
@@ -1590,7 +1590,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org924e123",
+"ref": "orgc1a5e82",
 "properties": {
 "post-blank": 0
 },
@@ -1601,7 +1601,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "orgddfa285",
+"ref": "orgccd75b4",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -1611,7 +1611,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org7ee31bd",
+"ref": "org242191c",
 "properties": {
 "post-blank": 0
 },
@@ -1622,7 +1622,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org13431f6",
+"ref": "org28e250c",
 "properties": {
 "post-blank": 0
 },
@@ -1631,7 +1631,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orga305587",
+"ref": "orgcf4a8e7",
 "properties": {
 "post-blank": 0
 },
@@ -1640,7 +1640,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgf3020ef",
+"ref": "orgfa3925f",
 "properties": {
 "post-blank": 0
 },
@@ -1649,7 +1649,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgb700fa5",
+"ref": "orgdda74a9",
 "properties": {
 "post-blank": 0
 },
@@ -1658,7 +1658,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org60990b9",
+"ref": "orgbaab159",
 "properties": {
 "post-blank": 0
 },
@@ -1667,7 +1667,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org58023f3",
+"ref": "org1e6a2d2",
 "properties": {
 "post-blank": 0
 },
@@ -1676,7 +1676,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orge42bb4e",
+"ref": "org476b14f",
 "properties": {
 "post-blank": 0
 },
@@ -1687,7 +1687,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "orgdcd6e3c",
+"ref": "orga1e3b9c",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -1697,7 +1697,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgeb80e48",
+"ref": "org3b3f5f8",
 "properties": {
 "post-blank": 0
 },
@@ -1708,7 +1708,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org210b949",
+"ref": "org64e5e73",
 "properties": {
 "post-blank": 0
 },
@@ -1717,7 +1717,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org1c8abec",
+"ref": "org940b225",
 "properties": {
 "post-blank": 0
 },
@@ -1726,7 +1726,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orga2878de",
+"ref": "orgdff0bd6",
 "properties": {
 "post-blank": 0
 },
@@ -1735,7 +1735,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org8bfc9d2",
+"ref": "orgf10eac7",
 "properties": {
 "post-blank": 0
 },
@@ -1744,7 +1744,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgf9f0ea7",
+"ref": "orgf72aefa",
 "properties": {
 "post-blank": 0
 },
@@ -1753,7 +1753,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org095a35f",
+"ref": "orgd34946f",
 "properties": {
 "post-blank": 0
 },
@@ -1762,7 +1762,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org3714aa4",
+"ref": "org33f60ca",
 "properties": {
 "post-blank": 0
 },
@@ -1777,7 +1777,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org349a443",
+"ref": "orgb0d0d9c",
 "drawer": {
 
 },
@@ -1803,7 +1803,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgb9e10e9",
+"ref": "org0a88f9c",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 1826
@@ -1812,7 +1812,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "plain-list",
-"ref": "org1a82832",
+"ref": "org5a7e0f5",
 "properties": {
 "type": "unordered",
 "structure": [
@@ -1878,7 +1878,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "item",
-"ref": "org694f439",
+"ref": "orgf7921a7",
 "properties": {
 "bullet": "- ",
 "checkbox": null,
@@ -1892,7 +1892,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orgbe228b7",
+"ref": "orgdfa68fe",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 1828
@@ -1906,7 +1906,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "item",
-"ref": "org4753bef",
+"ref": "org40c8d8a",
 "properties": {
 "bullet": "- ",
 "checkbox": null,
@@ -1920,7 +1920,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org8d7dbf9",
+"ref": "org4c64e79",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 1837
@@ -1934,7 +1934,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "item",
-"ref": "org60d043f",
+"ref": "orgface0b7",
 "properties": {
 "bullet": "- ",
 "checkbox": null,
@@ -1948,7 +1948,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orgdfff8d7",
+"ref": "org8efe2a8",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 1848
@@ -1962,7 +1962,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "item",
-"ref": "org5951e8c",
+"ref": "org7a64239",
 "properties": {
 "bullet": "- ",
 "checkbox": null,
@@ -1976,7 +1976,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org2561cfa",
+"ref": "orgbcbdd56",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 1859
@@ -1990,7 +1990,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "item",
-"ref": "org7275a05",
+"ref": "org32e2427",
 "properties": {
 "bullet": "- ",
 "checkbox": null,
@@ -2004,7 +2004,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org6de0dfc",
+"ref": "org184e62e",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 1871
@@ -2018,7 +2018,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "item",
-"ref": "orgf4e59af",
+"ref": "orgaafa8f9",
 "properties": {
 "bullet": "- ",
 "checkbox": null,
@@ -2032,7 +2032,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org117f2fa",
+"ref": "org922d0be",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 1883
@@ -2054,7 +2054,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org2cc2fb3",
+"ref": "org34ec36c",
 "drawer": {
 "CATEGORY": "General"
 },
@@ -2080,7 +2080,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org37c3618",
+"ref": "org45c62c7",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 1904
@@ -2090,7 +2090,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgbded2cb",
+"ref": "orgdd242e4",
 "drawer": {
 
 },
@@ -2133,7 +2133,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org01d76d2",
+"ref": "org1ba647d",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 1966
@@ -2145,7 +2145,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org4749c63",
+"ref": "org8844985",
 "drawer": {
 
 },
@@ -2171,7 +2171,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org371fc11",
+"ref": "orgb9b3bbc",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2004
@@ -2180,7 +2180,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org6f541bc",
+"ref": "org815f2c3",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2004
@@ -2189,7 +2189,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "timestamp",
-"ref": "org8f12228",
+"ref": "orga94fb82",
 "properties": {
 "type": "active",
 "raw-value": "<2022-11-04 Fri 19:00>",
@@ -2209,7 +2209,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org0f769ab",
+"ref": "orgd5adf5f",
 "drawer": {
 
 },
@@ -2252,7 +2252,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org4617f56",
+"ref": "org34dfbed",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2047
@@ -2264,7 +2264,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org6738000",
+"ref": "org82522cd",
 "drawer": {
 
 },
@@ -2307,7 +2307,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org8e990af",
+"ref": "org3a3eedb",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2106
@@ -2319,7 +2319,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org318044c",
+"ref": "orgd9b84ca",
 "drawer": {
 
 },
@@ -2362,7 +2362,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org1a900fa",
+"ref": "org2aaf411",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2156
@@ -2374,7 +2374,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org231c671",
+"ref": "org7a42a4d",
 "drawer": {
 
 },
@@ -2417,7 +2417,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgc3bc129",
+"ref": "org4c9beeb",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2209
@@ -2429,7 +2429,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org4cf9bb9",
+"ref": "orgbe9798a",
 "drawer": {
 
 },
@@ -2472,7 +2472,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org1c83277",
+"ref": "orgc2ccc3b",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2287
@@ -2481,7 +2481,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org92bb7bf",
+"ref": "org30f1a77",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2316
@@ -2497,7 +2497,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgb705d96",
+"ref": "orgb67a1bc",
 "drawer": {
 
 },
@@ -2540,7 +2540,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org51c75e7",
+"ref": "org07ae955",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2390
@@ -2552,7 +2552,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org3e55497",
+"ref": "org9482080",
 "drawer": {
 
 },
@@ -2595,7 +2595,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org376eedf",
+"ref": "orgc15a51f",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2444
@@ -2607,7 +2607,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org240b3ea",
+"ref": "orgca85658",
 "drawer": {
 
 },
@@ -2650,7 +2650,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org5a17d73",
+"ref": "org376d664",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2503
@@ -2662,7 +2662,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgcd51cce",
+"ref": "org0e30807",
 "drawer": {
 
 },
@@ -2705,7 +2705,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org8063010",
+"ref": "orgbbfbf76",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2562
@@ -2717,7 +2717,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org351d805",
+"ref": "orgba2bae8",
 "drawer": {
 
 },
@@ -2760,7 +2760,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org4f5bb93",
+"ref": "org3cf2328",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2628
@@ -2772,7 +2772,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgb8cd448",
+"ref": "org5157f13",
 "drawer": {
 
 },
@@ -2815,7 +2815,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgb173523",
+"ref": "org3065fa1",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2688
@@ -2827,7 +2827,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org8609479",
+"ref": "orgf9f572b",
 "drawer": {
 
 },
@@ -2870,7 +2870,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orge2f1dfe",
+"ref": "org0624d8b",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2745
@@ -2882,7 +2882,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgdabf9fa",
+"ref": "orgefc82b8",
 "drawer": {
 
 },
@@ -2925,7 +2925,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgaa720dc",
+"ref": "orga8d3bad",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2802
@@ -2937,7 +2937,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org6e04091",
+"ref": "orge7447d4",
 "drawer": {
 
 },
@@ -2965,7 +2965,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgeb83bc4",
+"ref": "org3b62b8e",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2900
@@ -2974,7 +2974,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orgecb5ce0",
+"ref": "org2bed88c",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2900
@@ -2983,7 +2983,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "timestamp",
-"ref": "org83881bc",
+"ref": "org2db57ef",
 "properties": {
 "type": "active",
 "raw-value": "<2022-10-04 Tue 20:30>",
@@ -3003,7 +3003,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org6b88951",
+"ref": "org782eb39",
 "drawer": {
 "ATTENDEES": "",
 "ATTENDING": "UNSET",
@@ -3032,7 +3032,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org348f3e8",
+"ref": "org4265070",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 2964
@@ -3041,7 +3041,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org4f984c8",
+"ref": "org015a230",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 3098
@@ -3050,7 +3050,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "timestamp",
-"ref": "org8346910",
+"ref": "org2cd5cf3",
 "properties": {
 "type": "active",
 "raw-value": "<2022-10-11 Tue>",
@@ -3070,7 +3070,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orge963306",
+"ref": "org84f1294",
 "drawer": {
 
 },
@@ -3096,7 +3096,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org95c6a22",
+"ref": "orga0421f7",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 3127
@@ -3105,7 +3105,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org6fde409",
+"ref": "org00a368b",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 3127
@@ -3114,7 +3114,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "timestamp",
-"ref": "org6f99e96",
+"ref": "org1fc861a",
 "properties": {
 "type": "active",
 "raw-value": "<2022-10-20 Thu 15:00>",
@@ -3134,7 +3134,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org33de7a5",
+"ref": "org44921fa",
 "drawer": {
 
 },
@@ -3162,7 +3162,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org370bc67",
+"ref": "org097c336",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 3218
@@ -3171,7 +3171,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orgc4e6256",
+"ref": "org6eceadc",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 3218
@@ -3180,7 +3180,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "timestamp",
-"ref": "org5af3746",
+"ref": "org92f56b5",
 "properties": {
 "type": "active",
 "raw-value": "<2022-10-18 Tue 20:30>",
@@ -3200,7 +3200,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org74de4c2",
+"ref": "org6488441",
 "drawer": {
 
 },
@@ -3228,7 +3228,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org6898996",
+"ref": "org9ddb106",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 3309
@@ -3237,7 +3237,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org0761bd5",
+"ref": "orgb388c85",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 3309
@@ -3246,7 +3246,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "timestamp",
-"ref": "org984edf8",
+"ref": "org3811c91",
 "properties": {
 "type": "active",
 "raw-value": "<2022-10-25 Tue 17:00>",
@@ -3266,7 +3266,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org6f907c6",
+"ref": "org426b236",
 "drawer": {
 
 },
@@ -3309,7 +3309,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgff63edd",
+"ref": "org1785674",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 3369
@@ -3321,7 +3321,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org93fc1e4",
+"ref": "orge8f06b9",
 "drawer": {
 
 },
@@ -3347,7 +3347,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org489b7e2",
+"ref": "org8421ea7",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 3408
@@ -3356,7 +3356,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org055f5a4",
+"ref": "org9f8c894",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 3408
@@ -3365,7 +3365,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "timestamp",
-"ref": "orgf2b6ea6",
+"ref": "orgfc041ea",
 "properties": {
 "type": "active",
 "raw-value": "<2022-11-09 Wed 11:30>",
@@ -3385,7 +3385,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org4d905d6",
+"ref": "org6ac50f7",
 "drawer": {
 
 },
@@ -3411,7 +3411,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orga12d2d6",
+"ref": "orgf8c266a",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 3448
@@ -3420,7 +3420,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orgc2b05b7",
+"ref": "orgc281482",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 3448
@@ -3429,7 +3429,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "timestamp",
-"ref": "org5260332",
+"ref": "orge6644b6",
 "properties": {
 "type": "active",
 "raw-value": "<2022-11-04 Fri 21:00>",
@@ -3449,7 +3449,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgc0b2fe4",
+"ref": "orgbd1b7e6",
 "drawer": {
 
 },
@@ -3492,7 +3492,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgf03b842",
+"ref": "orgde64382",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 3514
@@ -3504,7 +3504,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orga57759e",
+"ref": "org7fbd536",
 "drawer": {
 
 },
@@ -3532,7 +3532,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org6048246",
+"ref": "orgdd4ef10",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 3612
@@ -3541,7 +3541,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org4d31819",
+"ref": "orgace21eb",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 3612
@@ -3550,7 +3550,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "timestamp",
-"ref": "org95472a8",
+"ref": "org0685917",
 "properties": {
 "type": "active",
 "raw-value": "<2022-11-10 Thu 17:30>",
@@ -3570,7 +3570,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org2a9e569",
+"ref": "org6fffc6b",
 "drawer": {
 
 },
@@ -3613,7 +3613,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgeceb37f",
+"ref": "org6267bab",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 3686
@@ -3625,7 +3625,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org333f0a7",
+"ref": "org16b3fbf",
 "drawer": {
 
 },
@@ -3653,7 +3653,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org99bfe28",
+"ref": "orgf0628de",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 3782
@@ -3662,7 +3662,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org7d1b86a",
+"ref": "org25a4810",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 3782
@@ -3671,7 +3671,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "timestamp",
-"ref": "org368f541",
+"ref": "org7bd9a69",
 "properties": {
 "type": "active",
 "raw-value": "<2022-11-15 Tue 20:30>",
@@ -3687,13 +3687,161 @@ null,
 ]
 }
 ]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org21fced8",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Food",
+"pre-blank": 0,
+"level": 2,
+"priority": null,
+"tags": [],
+"todo-keyword": null,
+"todo-type": null,
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 3805,
+"title": [
+"Food"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "orgb3a7a55",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 3813
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org0685df4",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 3813
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "timestamp",
+"ref": "org79542f7",
+"properties": {
+"type": "active",
+"raw-value": "<2022-12-08 Thu 14:00>",
+"post-blank": 0,
+"start": "2022-12-08T14:00:00",
+"end": "2022-12-08T14:00:00"
+},
+"contents": []
+},
+"\n"
+]
+}
+]
 }
 ]
 },
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org010eac2",
+"ref": "org949c5f8",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "",
+"pre-blank": 0,
+"level": 2,
+"priority": null,
+"tags": [
+"meeting"
+],
+"todo-keyword": null,
+"todo-type": null,
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 3836,
+"title": [
+""
+]
+},
+"contents": []
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "orgfe3110a",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Find out departure day and work schedule",
+"pre-blank": 0,
+"level": 2,
+"priority": 65,
+"tags": [],
+"todo-keyword": "TODO",
+"todo-type": "todo",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 3851,
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-12-08",
+"end": "2022-12-08",
+"type": "active",
+"raw-value": "<2022-12-08 Thu>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"Find out departure day and work schedule"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org314c9bf",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 3905
+},
+"contents": []
+}
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org4936c4e",
 "drawer": {
 "CATEGORY": "MATH-314"
 },
@@ -3710,7 +3858,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 3805,
+"post-affiliated": 3933,
 "title": [
 "Calculus"
 ]
@@ -3719,17 +3867,17 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org644df46",
+"ref": "org27981af",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 3816
+"post-affiliated": 3944
 },
 "contents": []
 },
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgad7c714",
+"ref": "org63232dc",
 "drawer": {
 
 },
@@ -3746,7 +3894,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 3855,
+"post-affiliated": 3983,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-08-29",
@@ -3772,10 +3920,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org7249b0d",
+"ref": "org2b299c9",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 3889
+"post-affiliated": 4017
 },
 "contents": []
 }
@@ -3786,7 +3934,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org920b881",
+"ref": "org1591443",
 "drawer": {
 "CATEGORY": "Major"
 },
@@ -3803,7 +3951,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 3917,
+"post-affiliated": 4045,
 "title": [
 "Major"
 ]
@@ -3812,17 +3960,17 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org467f1d9",
+"ref": "org02b2873",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 3925
+"post-affiliated": 4053
 },
 "contents": []
 },
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org401ba7e",
+"ref": "org78f2a87",
 "drawer": {
 
 },
@@ -3839,7 +3987,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 3961,
+"post-affiliated": 4089,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-07-17",
@@ -3865,10 +4013,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org1ba03b7",
+"ref": "org087b466",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 3995
+"post-affiliated": 4123
 },
 "contents": []
 }
@@ -3877,7 +4025,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org13d39e1",
+"ref": "orga215b45",
 "drawer": {
 
 },
@@ -3894,7 +4042,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 4023,
+"post-affiliated": 4151,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-08-30",
@@ -3920,10 +4068,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org0405d44",
+"ref": "org0cd6c48",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 4051
+"post-affiliated": 4179
 },
 "contents": []
 }
@@ -3932,7 +4080,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgbcdc2cd",
+"ref": "orgb0f7617",
 "drawer": {
 
 },
@@ -3949,7 +4097,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 4079,
+"post-affiliated": 4207,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-05",
@@ -3975,10 +4123,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org6565404",
+"ref": "org4ea85fe",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 4124
+"post-affiliated": 4252
 },
 "contents": []
 }
@@ -3987,7 +4135,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgc6c0513",
+"ref": "orge08b4f2",
 "drawer": {
 
 },
@@ -4004,7 +4152,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 4152,
+"post-affiliated": 4280,
 "title": [
 "Colloquium & Activities 1 (PHSCS 191)"
 ]
@@ -4013,25 +4161,25 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org5da97bb",
+"ref": "orgfe115c6",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 4198
+"post-affiliated": 4326
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org1a18be4",
+"ref": "orge2cbb0b",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 4198
+"post-affiliated": 4326
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "timestamp",
-"ref": "orgc0b5636",
+"ref": "orgf66006f",
 "properties": {
 "type": "active",
 "raw-value": "<2022-09-09 Fri 12:00>",
@@ -4051,7 +4199,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgba5b119",
+"ref": "org2643017",
 "drawer": {
 
 },
@@ -4068,7 +4216,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 4221,
+"post-affiliated": 4349,
 "title": [
 "Meet with Shane"
 ]
@@ -4077,25 +4225,25 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgf74a348",
+"ref": "orgdc5e6ae",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 4240
+"post-affiliated": 4368
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orga55151a",
+"ref": "orgc33e297",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 4240
+"post-affiliated": 4368
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "timestamp",
-"ref": "orgda327b1",
+"ref": "org01ee61a",
 "properties": {
 "type": "active",
 "raw-value": "<2022-09-13 Tue 14:00>",
@@ -4115,7 +4263,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org18b04b7",
+"ref": "orgdde8307",
 "drawer": {
 
 },
@@ -4132,7 +4280,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 4263,
+"post-affiliated": 4391,
 "title": [
 "Midweek munchies"
 ]
@@ -4141,25 +4289,25 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org3ff2ab1",
+"ref": "orgd78d999",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 4283
+"post-affiliated": 4411
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orgec0e6db",
+"ref": "orgdf79673",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 4283
+"post-affiliated": 4411
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "timestamp",
-"ref": "org7f8816e",
+"ref": "org4f853f5",
 "properties": {
 "type": "active",
 "raw-value": "<2022-09-14 Wed 14:00>",
@@ -4179,7 +4327,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org6d28fb8",
+"ref": "org5ee79b4",
 "drawer": {
 
 },
@@ -4196,7 +4344,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 4306,
+"post-affiliated": 4434,
 "title": [
 "Star party"
 ]
@@ -4205,25 +4353,25 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orge572988",
+"ref": "org46625d3",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 4320
+"post-affiliated": 4448
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org152b09d",
+"ref": "orgdce6aff",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 4320
+"post-affiliated": 4448
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "timestamp",
-"ref": "orgc96c7b0",
+"ref": "org63bff5b",
 "properties": {
 "type": "active",
 "raw-value": "<2022-09-16 Fri>",
@@ -4243,7 +4391,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org3e82285",
+"ref": "orgdd2296d",
 "drawer": {
 
 },
@@ -4260,7 +4408,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 4337,
+"post-affiliated": 4465,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-13",
@@ -4286,12 +4434,76 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org16a7dcc",
+"ref": "orge9c4623",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 4366
+"post-affiliated": 4494
 },
 "contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org015eb4c",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Underground Lunch",
+"pre-blank": 0,
+"level": 2,
+"priority": null,
+"tags": [],
+"todo-keyword": null,
+"todo-type": null,
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 4522,
+"title": [
+"Underground Lunch"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org5694125",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 4543
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org92be12f",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 4543
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "timestamp",
+"ref": "org1841fe9",
+"properties": {
+"type": "active",
+"raw-value": "<2022-12-09 Fri 12:00>",
+"post-blank": 0,
+"start": "2022-12-09T12:00:00",
+"end": "2022-12-09T12:00:00"
+},
+"contents": []
+},
+"\n"
+]
+}
+]
 }
 ]
 }
@@ -4300,7 +4512,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgcfbca34",
+"ref": "org6be2791",
 "drawer": {
 "CATEGORY": "PHSCS-127"
 },
@@ -4317,7 +4529,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 4394,
+"post-affiliated": 4566,
 "title": [
 "PHSCS 127"
 ]
@@ -4326,17 +4538,17 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgd197870",
+"ref": "org9f4f2e3",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 4406
+"post-affiliated": 4578
 },
 "contents": []
 },
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgb0106dc",
+"ref": "org8382646",
 "drawer": {
 
 },
@@ -4353,7 +4565,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 4446,
+"post-affiliated": 4618,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-08-26",
@@ -4379,10 +4591,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org44ff669",
+"ref": "orgc1e7706",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 4467
+"post-affiliated": 4639
 },
 "contents": []
 }
@@ -4391,7 +4603,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org25bb694",
+"ref": "org3e8bc56",
 "drawer": {
 
 },
@@ -4408,7 +4620,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 4495,
+"post-affiliated": 4667,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-08-26",
@@ -4434,10 +4646,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgba34928",
+"ref": "orgd14f742",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 4520
+"post-affiliated": 4692
 },
 "contents": []
 }
@@ -4446,7 +4658,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orge84d754",
+"ref": "org5f18323",
 "drawer": {
 
 },
@@ -4463,7 +4675,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 4548,
+"post-affiliated": 4720,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-08-28",
@@ -4489,10 +4701,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org6637536",
+"ref": "org95e7b0e",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 4586
+"post-affiliated": 4758
 },
 "contents": []
 }
@@ -4501,7 +4713,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org5b17d18",
+"ref": "org8f4f005",
 "drawer": {
 
 },
@@ -4518,7 +4730,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 4614,
+"post-affiliated": 4786,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-09-03",
@@ -4561,10 +4773,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgedb3222",
+"ref": "orgcc792ef",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 4636
+"post-affiliated": 4808
 },
 "contents": []
 }
@@ -4573,7 +4785,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org76ab8c2",
+"ref": "orgf921f6f",
 "drawer": {
 
 },
@@ -4592,7 +4804,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 4691,
+"post-affiliated": 4863,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-09-03",
@@ -4635,10 +4847,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org9ad5bd7",
+"ref": "org4519bb7",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 4758
+"post-affiliated": 4930
 },
 "contents": []
 }
@@ -4647,7 +4859,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org70697b1",
+"ref": "org1441b72",
 "drawer": {
 
 },
@@ -4666,7 +4878,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 4813,
+"post-affiliated": 4985,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-08-29",
@@ -4709,10 +4921,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org872584b",
+"ref": "org0a815ea",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 4883
+"post-affiliated": 5055
 },
 "contents": []
 }
@@ -4721,7 +4933,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgdb7f166",
+"ref": "org7be32c3",
 "drawer": {
 
 },
@@ -4740,7 +4952,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 4938,
+"post-affiliated": 5110,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-08-29",
@@ -4783,10 +4995,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgb6908ba",
+"ref": "org8573949",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 5005
+"post-affiliated": 5177
 },
 "contents": []
 }
@@ -4795,7 +5007,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgc7d387e",
+"ref": "org34970f7",
 "drawer": {
 
 },
@@ -4814,7 +5026,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 5060,
+"post-affiliated": 5232,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-08-30",
@@ -4857,10 +5069,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgb3ad7df",
+"ref": "org34218ba",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 5128
+"post-affiliated": 5300
 },
 "contents": []
 }
@@ -4869,7 +5081,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgca9ca67",
+"ref": "org27b2343",
 "drawer": {
 
 },
@@ -4888,7 +5100,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 5183,
+"post-affiliated": 5355,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-09-02",
@@ -4931,10 +5143,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgdd01430",
+"ref": "org84a5e35",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 5251
+"post-affiliated": 5423
 },
 "contents": []
 }
@@ -4943,7 +5155,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgd7f26d9",
+"ref": "orgc5f8efe",
 "drawer": {
 
 },
@@ -4962,7 +5174,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 5306,
+"post-affiliated": 5478,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-03",
@@ -5005,10 +5217,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org17a7668",
+"ref": "org5e5583b",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 5377
+"post-affiliated": 5549
 },
 "contents": []
 }
@@ -5017,7 +5229,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orge43a785",
+"ref": "org16d8168",
 "drawer": {
 
 },
@@ -5036,7 +5248,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 5432,
+"post-affiliated": 5604,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-02",
@@ -5079,10 +5291,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org3034a74",
+"ref": "org264336a",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 5498
+"post-affiliated": 5670
 },
 "contents": []
 }
@@ -5091,7 +5303,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgd5ded61",
+"ref": "orge035080",
 "drawer": {
 
 },
@@ -5108,7 +5320,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 5553,
+"post-affiliated": 5725,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-03",
@@ -5134,10 +5346,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org1fd7cf5",
+"ref": "org77b4178",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 5586
+"post-affiliated": 5758
 },
 "contents": []
 }
@@ -5146,7 +5358,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org6ee607b",
+"ref": "org316a5fc",
 "drawer": {
 
 },
@@ -5165,7 +5377,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 5614,
+"post-affiliated": 5786,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-08-30",
@@ -5208,10 +5420,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orge73dc08",
+"ref": "org42a9ae8",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 5682
+"post-affiliated": 5854
 },
 "contents": []
 }
@@ -5220,7 +5432,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org6dd9947",
+"ref": "org8c1a781",
 "drawer": {
 
 },
@@ -5237,7 +5449,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 5737,
+"post-affiliated": 5909,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-08-31",
@@ -5263,10 +5475,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org6eacac5",
+"ref": "orga5a0128",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 5770
+"post-affiliated": 5942
 },
 "contents": []
 }
@@ -5275,7 +5487,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orged76029",
+"ref": "orgd04ead3",
 "drawer": {
 
 },
@@ -5292,7 +5504,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 5798,
+"post-affiliated": 5970,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-09",
@@ -5318,10 +5530,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgb157812",
+"ref": "org5a3a04e",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 5843
+"post-affiliated": 6015
 },
 "contents": []
 }
@@ -5330,7 +5542,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org9e32542",
+"ref": "org41361b3",
 "drawer": {
 
 },
@@ -5347,7 +5559,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 5871,
+"post-affiliated": 6043,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-02",
@@ -5373,10 +5585,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgf87b0f8",
+"ref": "org9a099fc",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 5898
+"post-affiliated": 6070
 },
 "contents": []
 }
@@ -5385,7 +5597,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgf8211b0",
+"ref": "org6195303",
 "drawer": {
 
 },
@@ -5402,7 +5614,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 5926,
+"post-affiliated": 6098,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-03",
@@ -5428,10 +5640,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgc66eea3",
+"ref": "orge4a9b29",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 5959
+"post-affiliated": 6131
 },
 "contents": []
 }
@@ -5440,7 +5652,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgfcfbfed",
+"ref": "org748ab85",
 "drawer": {
 
 },
@@ -5457,7 +5669,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 5987,
+"post-affiliated": 6159,
 "title": [
 "Research Meeting"
 ]
@@ -5466,25 +5678,25 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgcf5b356",
+"ref": "orgc904a83",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 6097
+"post-affiliated": 6269
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org1f49489",
+"ref": "orgcdd906f",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 6097
+"post-affiliated": 6269
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "timestamp",
-"ref": "org4221c1d",
+"ref": "org2f431e8",
 "properties": {
 "type": "active",
 "raw-value": "<2022-09-27 Tue 16:00 +2w>",
@@ -5507,7 +5719,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org6c1e143",
+"ref": "org3516a65",
 "drawer": {
 
 },
@@ -5524,7 +5736,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 6124,
+"post-affiliated": 6296,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-09",
@@ -5567,10 +5779,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org2ffa487",
+"ref": "orgaef018d",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 6136
+"post-affiliated": 6308
 },
 "contents": []
 }
@@ -5579,7 +5791,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org48a3d43",
+"ref": "org392e1d7",
 "drawer": {
 
 },
@@ -5596,7 +5808,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 6191,
+"post-affiliated": 6363,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-06",
@@ -5639,10 +5851,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org8b95961",
+"ref": "org5f8c26d",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 6217
+"post-affiliated": 6389
 },
 "contents": []
 }
@@ -5651,7 +5863,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org1d4d330",
+"ref": "org905f95d",
 "drawer": {
 
 },
@@ -5668,7 +5880,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 6272,
+"post-affiliated": 6444,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-06",
@@ -5711,10 +5923,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org0281c7c",
+"ref": "org03a940a",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 6285
+"post-affiliated": 6457
 },
 "contents": []
 }
@@ -5723,7 +5935,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org1cdf948",
+"ref": "orgc167411",
 "drawer": {
 
 },
@@ -5740,7 +5952,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 6340,
+"post-affiliated": 6512,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-08",
@@ -5783,10 +5995,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgb4ce666",
+"ref": "org27f6d90",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 6353
+"post-affiliated": 6525
 },
 "contents": []
 }
@@ -5795,7 +6007,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org28e93be",
+"ref": "org7ecb6de",
 "drawer": {
 
 },
@@ -5812,7 +6024,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 6408,
+"post-affiliated": 6580,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-09-10",
@@ -5855,10 +6067,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org89b572b",
+"ref": "orgcd637fd",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 6427
+"post-affiliated": 6599
 },
 "contents": []
 }
@@ -5867,7 +6079,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org0dded19",
+"ref": "orgcbe81c2",
 "drawer": {
 
 },
@@ -5884,7 +6096,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 6482,
+"post-affiliated": 6654,
 "title": [
 "Talk to P. Mosenkov"
 ]
@@ -5893,25 +6105,25 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgcf54975",
+"ref": "org7a98392",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 6510
+"post-affiliated": 6682
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org0c54852",
+"ref": "orgba62e91",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 6510
+"post-affiliated": 6682
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "timestamp",
-"ref": "orgd96a96a",
+"ref": "org622d29b",
 "properties": {
 "type": "active",
 "raw-value": "<2022-09-08 Thu 15:00>",
@@ -5931,7 +6143,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org4cba62c",
+"ref": "orgef0d788",
 "drawer": {
 
 },
@@ -5948,7 +6160,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 6533,
+"post-affiliated": 6705,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-11",
@@ -5991,10 +6203,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org27540a5",
+"ref": "orgc008261",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 6553
+"post-affiliated": 6725
 },
 "contents": []
 }
@@ -6003,7 +6215,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org6edd5aa",
+"ref": "orgcc93b61",
 "drawer": {
 
 },
@@ -6020,7 +6232,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 6608,
+"post-affiliated": 6780,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-11",
@@ -6063,10 +6275,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org3188577",
+"ref": "org15489d8",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 6620
+"post-affiliated": 6792
 },
 "contents": []
 }
@@ -6075,7 +6287,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org1f576ee",
+"ref": "orgf9c3a29",
 "drawer": {
 
 },
@@ -6092,7 +6304,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 6675,
+"post-affiliated": 6847,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-13",
@@ -6135,10 +6347,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgf9f1cb9",
+"ref": "orgbe7aaa5",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 6695
+"post-affiliated": 6867
 },
 "contents": []
 }
@@ -6147,7 +6359,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgbb61d60",
+"ref": "orgcbe2654",
 "drawer": {
 
 },
@@ -6164,7 +6376,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 6750,
+"post-affiliated": 6922,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-13",
@@ -6207,10 +6419,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org93f0125",
+"ref": "org32cd7c8",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 6762
+"post-affiliated": 6934
 },
 "contents": []
 }
@@ -6219,7 +6431,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org9e41ffb",
+"ref": "orgd2a21cc",
 "drawer": {
 
 },
@@ -6236,7 +6448,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 6817,
+"post-affiliated": 6989,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-16",
@@ -6279,10 +6491,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org8cb54be",
+"ref": "org0a85630",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 6829
+"post-affiliated": 7001
 },
 "contents": []
 }
@@ -6291,7 +6503,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orge74e163",
+"ref": "orgf7a23f2",
 "drawer": {
 
 },
@@ -6308,7 +6520,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 6884,
+"post-affiliated": 7056,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-17",
@@ -6351,10 +6563,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org20299d0",
+"ref": "org1d4668b",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 6896
+"post-affiliated": 7068
 },
 "contents": []
 }
@@ -6363,7 +6575,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgabbda49",
+"ref": "orga371c3f",
 "drawer": {
 
 },
@@ -6380,7 +6592,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 6951,
+"post-affiliated": 7123,
 "title": [
 "Constellation Lab"
 ]
@@ -6389,25 +6601,25 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgeb7c456",
+"ref": "org8305b9a",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 6972
+"post-affiliated": 7144
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org50de128",
+"ref": "org37b3e58",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 6972
+"post-affiliated": 7144
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "timestamp",
-"ref": "org3b73ab7",
+"ref": "org388c944",
 "properties": {
 "type": "active",
 "raw-value": "<2022-09-14 Wed 16:00>",
@@ -6427,7 +6639,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org3d6c5e3",
+"ref": "org71c5ffc",
 "drawer": {
 
 },
@@ -6444,7 +6656,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 6995,
+"post-affiliated": 7167,
 "title": [
 "Astronomical Society, Planetarium"
 ]
@@ -6453,25 +6665,25 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgc16a2d5",
+"ref": "org22487b2",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 7122
+"post-affiliated": 7294
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org952a02a",
+"ref": "orgabe4b49",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 7122
+"post-affiliated": 7294
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "timestamp",
-"ref": "org7211c62",
+"ref": "org3a58f30",
 "properties": {
 "type": "active",
 "raw-value": "<2022-09-20 Tue 20:30>",
@@ -6491,7 +6703,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgf148778",
+"ref": "org45a446d",
 "drawer": {
 
 },
@@ -6508,7 +6720,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 7145,
+"post-affiliated": 7317,
 "title": [
 "Constellation Lab"
 ]
@@ -6517,25 +6729,25 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org5e67624",
+"ref": "org750c7b1",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 7166
+"post-affiliated": 7338
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org32d87d9",
+"ref": "org5ed3436",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 7166
+"post-affiliated": 7338
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "timestamp",
-"ref": "org003ee3c",
+"ref": "orgcbe05b7",
 "properties": {
 "type": "active",
 "raw-value": "<2022-09-21 Wed 16:00>",
@@ -6555,7 +6767,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgfd884d1",
+"ref": "org81b3145",
 "drawer": {
 
 },
@@ -6572,7 +6784,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 7189,
+"post-affiliated": 7361,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-09-18",
@@ -6615,10 +6827,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgd8c40b0",
+"ref": "org1fb2dfa",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 7200
+"post-affiliated": 7372
 },
 "contents": []
 }
@@ -6627,7 +6839,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org401b4fb",
+"ref": "org474670f",
 "drawer": {
 
 },
@@ -6644,7 +6856,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 7255,
+"post-affiliated": 7427,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-09-18",
@@ -6687,10 +6899,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orge4e0b2d",
+"ref": "org69bf136",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 7267
+"post-affiliated": 7439
 },
 "contents": []
 }
@@ -6699,7 +6911,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org72b632e",
+"ref": "org81f8717",
 "drawer": {
 
 },
@@ -6716,7 +6928,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 7322,
+"post-affiliated": 7494,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-20",
@@ -6759,10 +6971,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org85397f9",
+"ref": "org03359bb",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 7333
+"post-affiliated": 7505
 },
 "contents": []
 }
@@ -6771,7 +6983,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org2c4c549",
+"ref": "orgdd34b22",
 "drawer": {
 
 },
@@ -6788,7 +7000,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 7388,
+"post-affiliated": 7560,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-20",
@@ -6831,10 +7043,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgf7bc773",
+"ref": "orged1760e",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 7400
+"post-affiliated": 7572
 },
 "contents": []
 }
@@ -6843,7 +7055,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgc1d490a",
+"ref": "org8468ed2",
 "drawer": {
 
 },
@@ -6860,7 +7072,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 7455,
+"post-affiliated": 7627,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-23",
@@ -6903,10 +7115,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org406d288",
+"ref": "orgb1ee4e1",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 7467
+"post-affiliated": 7639
 },
 "contents": []
 }
@@ -6915,7 +7127,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org0d188ff",
+"ref": "orgeb65920",
 "drawer": {
 
 },
@@ -6932,7 +7144,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 7522,
+"post-affiliated": 7694,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-24",
@@ -6975,10 +7187,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org14ff0ac",
+"ref": "org346f71f",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 7534
+"post-affiliated": 7706
 },
 "contents": []
 }
@@ -6987,7 +7199,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org818965b",
+"ref": "orgd0a83bd",
 "drawer": {
 
 },
@@ -7004,7 +7216,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 7589,
+"post-affiliated": 7761,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-24",
@@ -7047,10 +7259,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orge468470",
+"ref": "org7e36302",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 7609
+"post-affiliated": 7781
 },
 "contents": []
 }
@@ -7059,7 +7271,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgcf0b45b",
+"ref": "org86e5a74",
 "drawer": {
 
 },
@@ -7076,7 +7288,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 7664,
+"post-affiliated": 7836,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-24",
@@ -7119,10 +7331,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org243ba28",
+"ref": "org98243f8",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 7676
+"post-affiliated": 7848
 },
 "contents": []
 }
@@ -7131,7 +7343,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org6d9943f",
+"ref": "orga4d5eb3",
 "drawer": {
 
 },
@@ -7148,7 +7360,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 7731,
+"post-affiliated": 7903,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-27",
@@ -7191,10 +7403,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgfe68aa6",
+"ref": "orgb9558ea",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 7751
+"post-affiliated": 7923
 },
 "contents": []
 }
@@ -7203,7 +7415,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgacddee7",
+"ref": "org55053c1",
 "drawer": {
 
 },
@@ -7220,7 +7432,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 7806,
+"post-affiliated": 7978,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-27",
@@ -7263,10 +7475,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgfd40c50",
+"ref": "org64e9b05",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 7818
+"post-affiliated": 7990
 },
 "contents": []
 }
@@ -7275,7 +7487,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org08957f0",
+"ref": "orga4870d9",
 "drawer": {
 
 },
@@ -7292,7 +7504,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 7873,
+"post-affiliated": 8045,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-10-01",
@@ -7335,10 +7547,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org663f699",
+"ref": "orgd424f88",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 7885
+"post-affiliated": 8057
 },
 "contents": []
 }
@@ -7347,7 +7559,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org67f82db",
+"ref": "org15294be",
 "drawer": {
 
 },
@@ -7364,7 +7576,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 7940,
+"post-affiliated": 8112,
 "title": [
 "Review session"
 ]
@@ -7373,25 +7585,25 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgc330d45",
+"ref": "orgb4c2933",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 7958
+"post-affiliated": 8130
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orgf7830d1",
+"ref": "org15fb454",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 7958
+"post-affiliated": 8130
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "timestamp",
-"ref": "org634ded2",
+"ref": "org527c08e",
 "properties": {
 "type": "active",
 "raw-value": "<2022-09-30 Fri 16:00>",
@@ -7411,7 +7623,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orged71658",
+"ref": "org47f98d5",
 "drawer": {
 
 },
@@ -7428,7 +7640,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 7981,
+"post-affiliated": 8153,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-10-02",
@@ -7471,10 +7683,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgc94674b",
+"ref": "orgdd04954",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 8006
+"post-affiliated": 8178
 },
 "contents": []
 }
@@ -7483,7 +7695,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orge5fec8e",
+"ref": "org94356e7",
 "drawer": {
 
 },
@@ -7500,7 +7712,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 8061,
+"post-affiliated": 8233,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-03",
@@ -7543,10 +7755,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org1e572fd",
+"ref": "org048df61",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 8078
+"post-affiliated": 8250
 },
 "contents": []
 }
@@ -7555,7 +7767,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org0fa4e6e",
+"ref": "org09a244f",
 "drawer": {
 
 },
@@ -7572,7 +7784,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 8133,
+"post-affiliated": 8305,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-10-02",
@@ -7615,10 +7827,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orge5f8895",
+"ref": "org6a4c0bb",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 8151
+"post-affiliated": 8323
 },
 "contents": []
 }
@@ -7627,7 +7839,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgfc2a9af",
+"ref": "org70c00d0",
 "drawer": {
 
 },
@@ -7644,7 +7856,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 8206,
+"post-affiliated": 8378,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-04",
@@ -7687,10 +7899,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org12cd89c",
+"ref": "org001d95f",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 8226
+"post-affiliated": 8398
 },
 "contents": []
 }
@@ -7699,7 +7911,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org5b16bdf",
+"ref": "org463fd99",
 "drawer": {
 
 },
@@ -7716,7 +7928,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 8281,
+"post-affiliated": 8453,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-04",
@@ -7759,10 +7971,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orga28eeec",
+"ref": "org8c068a6",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 8306
+"post-affiliated": 8478
 },
 "contents": []
 }
@@ -7771,7 +7983,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org28f103b",
+"ref": "org81702c4",
 "drawer": {
 
 },
@@ -7788,7 +8000,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 8361,
+"post-affiliated": 8533,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-04",
@@ -7831,10 +8043,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgc30f7ae",
+"ref": "org16b2926",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 8379
+"post-affiliated": 8551
 },
 "contents": []
 }
@@ -7843,7 +8055,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgdfd1896",
+"ref": "org27cc678",
 "drawer": {
 
 },
@@ -7860,7 +8072,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 8434,
+"post-affiliated": 8606,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-07",
@@ -7903,10 +8115,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org08ac6af",
+"ref": "org3464c0a",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 8451
+"post-affiliated": 8623
 },
 "contents": []
 }
@@ -7915,7 +8127,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org87a9594",
+"ref": "orgd0cef4e",
 "drawer": {
 
 },
@@ -7932,7 +8144,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 8506,
+"post-affiliated": 8678,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-08",
@@ -7975,10 +8187,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org54d9aaa",
+"ref": "org74da41f",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 8523
+"post-affiliated": 8695
 },
 "contents": []
 }
@@ -7987,7 +8199,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org8377b02",
+"ref": "orgbc31fa6",
 "drawer": {
 
 },
@@ -8004,7 +8216,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 8578,
+"post-affiliated": 8750,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-10-02",
@@ -8047,10 +8259,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org028f38e",
+"ref": "orgfa3fed2",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 8595
+"post-affiliated": 8767
 },
 "contents": []
 }
@@ -8059,7 +8271,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgf245cf0",
+"ref": "org194a9e9",
 "drawer": {
 
 },
@@ -8076,7 +8288,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 8650,
+"post-affiliated": 8822,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-11-12",
@@ -8119,10 +8331,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgbf02291",
+"ref": "orge45ad57",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 8667
+"post-affiliated": 8839
 },
 "contents": []
 }
@@ -8131,79 +8343,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orga379b78",
-"drawer": {
-
-},
-"properties": {
-"tags-all": [],
-"raw-value": "OA3",
-"pre-blank": 0,
-"level": 2,
-"priority": 66,
-"tags": [],
-"todo-keyword": "TODO",
-"todo-type": "todo",
-"post-blank": 0,
-"footnote-section-p": false,
-"archivedp": false,
-"commentedp": false,
-"post-affiliated": 8722,
-"scheduled": {
-"$$data_type": "timestamp",
-"start": "2022-11-19",
-"end": "2022-11-19",
-"type": "active",
-"raw-value": "<2022-11-19 Sat>",
-"repeater": {
-"type": null,
-"unit": null,
-"value": null
-},
-"warning": {
-"type": null,
-"unit": null,
-"value": null
-}
-},
-"deadline": {
-"$$data_type": "timestamp",
-"start": "2022-11-30",
-"end": "2022-11-30",
-"type": "active",
-"raw-value": "<2022-11-30 Wed>",
-"repeater": {
-"type": null,
-"unit": null,
-"value": null
-},
-"warning": {
-"type": null,
-"unit": null,
-"value": null
-}
-},
-"title": [
-"OA3"
-]
-},
-"contents": [
-{
-"$$data_type": "org-node",
-"type": "section",
-"ref": "org8cb603d",
-"properties": {
-"post-blank": 0,
-"post-affiliated": 8739
-},
-"contents": []
-}
-]
-},
-{
-"$$data_type": "org-node",
-"type": "headline",
-"ref": "org9783b63",
+"ref": "org085c7cb",
 "drawer": {
 
 },
@@ -8220,7 +8360,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 8794,
+"post-affiliated": 8894,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-10-09",
@@ -8263,10 +8403,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org8ca55da",
+"ref": "org134829f",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 8811
+"post-affiliated": 8911
 },
 "contents": []
 }
@@ -8275,7 +8415,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org6ec2e9e",
+"ref": "org5e7a61c",
 "drawer": {
 
 },
@@ -8292,7 +8432,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 8866,
+"post-affiliated": 8966,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-10-09",
@@ -8335,10 +8475,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org04cacf6",
+"ref": "orgff706a4",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 8884
+"post-affiliated": 8984
 },
 "contents": []
 }
@@ -8347,7 +8487,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org3b31f70",
+"ref": "org03a98e9",
 "drawer": {
 
 },
@@ -8364,7 +8504,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 8939,
+"post-affiliated": 9039,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-11",
@@ -8407,10 +8547,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org40e93c9",
+"ref": "org7fc747c",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 8956
+"post-affiliated": 9056
 },
 "contents": []
 }
@@ -8419,7 +8559,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org36538d5",
+"ref": "org1ec07dd",
 "drawer": {
 
 },
@@ -8436,7 +8576,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 9011,
+"post-affiliated": 9111,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-11",
@@ -8479,10 +8619,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org452d341",
+"ref": "org46888f0",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 9029
+"post-affiliated": 9129
 },
 "contents": []
 }
@@ -8491,7 +8631,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org65727b2",
+"ref": "orgc2839d6",
 "drawer": {
 
 },
@@ -8508,7 +8648,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 9084,
+"post-affiliated": 9184,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-10-14",
@@ -8551,10 +8691,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgfbeab29",
+"ref": "org38b2af5",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 9101
+"post-affiliated": 9201
 },
 "contents": []
 }
@@ -8563,7 +8703,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org9625048",
+"ref": "org8a00edf",
 "drawer": {
 
 },
@@ -8580,7 +8720,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 9156,
+"post-affiliated": 9256,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-10-15",
@@ -8623,10 +8763,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org41d50cc",
+"ref": "orgba105b1",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 9173
+"post-affiliated": 9273
 },
 "contents": []
 }
@@ -8635,7 +8775,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org9137db7",
+"ref": "org8368275",
 "drawer": {
 
 },
@@ -8652,7 +8792,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 9228,
+"post-affiliated": 9328,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-10-16",
@@ -8695,10 +8835,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org384d159",
+"ref": "org639321b",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 9248
+"post-affiliated": 9348
 },
 "contents": []
 }
@@ -8707,7 +8847,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org212f808",
+"ref": "org923994e",
 "drawer": {
 
 },
@@ -8724,7 +8864,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 9303,
+"post-affiliated": 9403,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-10-16",
@@ -8767,10 +8907,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org5447ece",
+"ref": "org4e52975",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 9317
+"post-affiliated": 9417
 },
 "contents": []
 }
@@ -8779,7 +8919,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org7a99bc7",
+"ref": "orga795d6b",
 "drawer": {
 
 },
@@ -8796,7 +8936,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 9372,
+"post-affiliated": 9472,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-10-18",
@@ -8839,10 +8979,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org73062e2",
+"ref": "org6adfea8",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 9397
+"post-affiliated": 9497
 },
 "contents": []
 }
@@ -8851,7 +8991,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org7a8f878",
+"ref": "org181e1cc",
 "drawer": {
 
 },
@@ -8868,7 +9008,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 9452,
+"post-affiliated": 9552,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-10-18",
@@ -8911,10 +9051,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org535d8a3",
+"ref": "org90c151d",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 9471
+"post-affiliated": 9571
 },
 "contents": []
 }
@@ -8923,7 +9063,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org7a293b9",
+"ref": "org67d5610",
 "drawer": {
 
 },
@@ -8940,7 +9080,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 9526,
+"post-affiliated": 9626,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-10-22",
@@ -8983,10 +9123,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org7aa46c3",
+"ref": "org1e20e7f",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 9543
+"post-affiliated": 9643
 },
 "contents": []
 }
@@ -8995,7 +9135,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orga9df56d",
+"ref": "orga77d554",
 "drawer": {
 
 },
@@ -9012,7 +9152,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 9598,
+"post-affiliated": 9698,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-10-22",
@@ -9055,10 +9195,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgd1bde19",
+"ref": "orgb6336f1",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 9610
+"post-affiliated": 9710
 },
 "contents": []
 }
@@ -9067,7 +9207,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org9cfbe44",
+"ref": "orgc95c573",
 "drawer": {
 
 },
@@ -9084,7 +9224,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 9665,
+"post-affiliated": 9765,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-27",
@@ -9127,10 +9267,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orged270a5",
+"ref": "org7d870b1",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 9688
+"post-affiliated": 9788
 },
 "contents": []
 }
@@ -9139,7 +9279,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgfc89287",
+"ref": "org924b3cf",
 "drawer": {
 
 },
@@ -9156,7 +9296,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 9743,
+"post-affiliated": 9843,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-10-25",
@@ -9199,10 +9339,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org501c1f9",
+"ref": "org5c734e7",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 9768
+"post-affiliated": 9868
 },
 "contents": []
 }
@@ -9211,7 +9351,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org44f8071",
+"ref": "org9326d26",
 "drawer": {
 
 },
@@ -9228,7 +9368,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 9823,
+"post-affiliated": 9923,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-10-25",
@@ -9271,10 +9411,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgabb426c",
+"ref": "orgf9ac260",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 9842
+"post-affiliated": 9942
 },
 "contents": []
 }
@@ -9283,7 +9423,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgb9bcf16",
+"ref": "org030b355",
 "drawer": {
 
 },
@@ -9300,7 +9440,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 9897,
+"post-affiliated": 9997,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-10-28",
@@ -9343,10 +9483,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgd682e45",
+"ref": "orga5d14f0",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 9914
+"post-affiliated": 10014
 },
 "contents": []
 }
@@ -9355,7 +9495,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgb1446d0",
+"ref": "org6f4bdaf",
 "drawer": {
 
 },
@@ -9372,7 +9512,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 9969,
+"post-affiliated": 10069,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-10-29",
@@ -9415,10 +9555,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org9b82d03",
+"ref": "orgbdfc340",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 9986
+"post-affiliated": 10086
 },
 "contents": []
 }
@@ -9427,7 +9567,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgf702819",
+"ref": "org108c7f1",
 "drawer": {
 
 },
@@ -9444,7 +9584,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 10041,
+"post-affiliated": 10141,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-10-30",
@@ -9487,10 +9627,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgd647909",
+"ref": "org143889e",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 10066
+"post-affiliated": 10166
 },
 "contents": []
 }
@@ -9499,7 +9639,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgc222744",
+"ref": "org6be6ec9",
 "drawer": {
 
 },
@@ -9516,7 +9656,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 10121,
+"post-affiliated": 10221,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-10-30",
@@ -9559,10 +9699,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org69a0430",
+"ref": "org3a9607f",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 10140
+"post-affiliated": 10240
 },
 "contents": []
 }
@@ -9571,7 +9711,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orged1332e",
+"ref": "org0529b64",
 "drawer": {
 
 },
@@ -9588,7 +9728,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 10195,
+"post-affiliated": 10295,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-01",
@@ -9631,10 +9771,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org350eeff",
+"ref": "org75fe0c5",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 10220
+"post-affiliated": 10320
 },
 "contents": []
 }
@@ -9643,7 +9783,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org0916ab9",
+"ref": "org4020595",
 "drawer": {
 
 },
@@ -9660,7 +9800,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 10275,
+"post-affiliated": 10375,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-01",
@@ -9703,10 +9843,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgd272462",
+"ref": "orgba79da5",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 10294
+"post-affiliated": 10394
 },
 "contents": []
 }
@@ -9715,7 +9855,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org2660dca",
+"ref": "orgf2ccd0d",
 "drawer": {
 
 },
@@ -9732,7 +9872,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 10349,
+"post-affiliated": 10449,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-05",
@@ -9775,10 +9915,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org204677e",
+"ref": "org09f290c",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 10362
+"post-affiliated": 10462
 },
 "contents": []
 }
@@ -9787,7 +9927,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orge2a1fac",
+"ref": "org1bab3d7",
 "drawer": {
 
 },
@@ -9804,7 +9944,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 10417,
+"post-affiliated": 10517,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-05",
@@ -9847,10 +9987,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org013e964",
+"ref": "org6bca13c",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 10430
+"post-affiliated": 10530
 },
 "contents": []
 }
@@ -9859,7 +9999,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgd33d7c7",
+"ref": "org4a6c8cd",
 "drawer": {
 
 },
@@ -9876,7 +10016,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 10485,
+"post-affiliated": 10585,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-07",
@@ -9919,10 +10059,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org447f4f0",
+"ref": "org87b94a6",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 10510
+"post-affiliated": 10610
 },
 "contents": []
 }
@@ -9931,7 +10071,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org6784134",
+"ref": "org68f2f20",
 "drawer": {
 
 },
@@ -9948,7 +10088,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 10565,
+"post-affiliated": 10665,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-07",
@@ -9991,10 +10131,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org991182e",
+"ref": "orgf95a7c7",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 10583
+"post-affiliated": 10683
 },
 "contents": []
 }
@@ -10003,7 +10143,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org34fd44e",
+"ref": "org790d424",
 "drawer": {
 
 },
@@ -10020,7 +10160,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 10638,
+"post-affiliated": 10738,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-08",
@@ -10063,10 +10203,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orge91589a",
+"ref": "orgbc3d45f",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 10663
+"post-affiliated": 10763
 },
 "contents": []
 }
@@ -10075,7 +10215,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org47e8e43",
+"ref": "org64c8b67",
 "drawer": {
 
 },
@@ -10092,7 +10232,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 10718,
+"post-affiliated": 10818,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-08",
@@ -10135,10 +10275,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgc2a828d",
+"ref": "orga9ab7b1",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 10736
+"post-affiliated": 10836
 },
 "contents": []
 }
@@ -10147,7 +10287,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org4ed4385",
+"ref": "org9b8468a",
 "drawer": {
 
 },
@@ -10164,7 +10304,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 10791,
+"post-affiliated": 10891,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-12",
@@ -10207,10 +10347,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org10bdd2e",
+"ref": "org56bdfda",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 10809
+"post-affiliated": 10909
 },
 "contents": []
 }
@@ -10219,7 +10359,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org67855f9",
+"ref": "orga53c47c",
 "drawer": {
 
 },
@@ -10236,7 +10376,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 10864,
+"post-affiliated": 10964,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-12",
@@ -10279,10 +10419,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org3aaf651",
+"ref": "orga17ae15",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 10886
+"post-affiliated": 10986
 },
 "contents": []
 }
@@ -10291,7 +10431,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org2d66a21",
+"ref": "org1bdd20e",
 "drawer": {
 
 },
@@ -10308,7 +10448,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 10941,
+"post-affiliated": 11041,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-11",
@@ -10351,10 +10491,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org8862bd0",
+"ref": "orgae16f31",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 10958
+"post-affiliated": 11058
 },
 "contents": []
 }
@@ -10363,7 +10503,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org4b87cf9",
+"ref": "org1ecb83b",
 "drawer": {
 
 },
@@ -10380,7 +10520,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 11013,
+"post-affiliated": 11113,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-14",
@@ -10423,10 +10563,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orga38ae4d",
+"ref": "org52c31cd",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 11033
+"post-affiliated": 11133
 },
 "contents": []
 }
@@ -10435,7 +10575,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgaca6c6b",
+"ref": "org94b8a73",
 "drawer": {
 
 },
@@ -10452,7 +10592,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 11088,
+"post-affiliated": 11188,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-14",
@@ -10495,10 +10635,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org5166436",
+"ref": "org1e82294",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 11101
+"post-affiliated": 11201
 },
 "contents": []
 }
@@ -10507,7 +10647,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgb3ce51c",
+"ref": "org48ca390",
 "drawer": {
 
 },
@@ -10516,15 +10656,15 @@ null,
 "raw-value": "Preparation",
 "pre-blank": 0,
 "level": 2,
-"priority": null,
+"priority": 65,
 "tags": [],
-"todo-keyword": "TODO",
-"todo-type": "todo",
+"todo-keyword": "DONE",
+"todo-type": "done",
 "post-blank": 0,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 11156,
+"post-affiliated": 11256,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-15",
@@ -10567,10 +10707,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgad5659a",
+"ref": "orgf16dfce",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 11176
+"post-affiliated": 11281
 },
 "contents": []
 }
@@ -10579,7 +10719,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org25c93d6",
+"ref": "orgd2e940e",
 "drawer": {
 
 },
@@ -10588,15 +10728,15 @@ null,
 "raw-value": "PQ23",
 "pre-blank": 0,
 "level": 2,
-"priority": null,
+"priority": 65,
 "tags": [],
-"todo-keyword": "TODO",
-"todo-type": "todo",
+"todo-keyword": "DONE",
+"todo-type": "done",
 "post-blank": 0,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 11231,
+"post-affiliated": 11336,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-15",
@@ -10639,10 +10779,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org14ac7c7",
+"ref": "org4c60be0",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 11244
+"post-affiliated": 11354
 },
 "contents": []
 }
@@ -10651,7 +10791,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgbbb7d9e",
+"ref": "orgd607b4f",
 "drawer": {
 
 },
@@ -10662,13 +10802,13 @@ null,
 "level": 2,
 "priority": null,
 "tags": [],
-"todo-keyword": "TODO",
-"todo-type": "todo",
+"todo-keyword": "DONE",
+"todo-type": "done",
 "post-blank": 0,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 11299,
+"post-affiliated": 11409,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-19",
@@ -10711,10 +10851,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org1f9b064",
+"ref": "org839eea7",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 11312
+"post-affiliated": 11422
 },
 "contents": []
 }
@@ -10723,7 +10863,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org69c2e41",
+"ref": "orgac5cc6b",
 "drawer": {
 
 },
@@ -10734,13 +10874,13 @@ null,
 "level": 2,
 "priority": null,
 "tags": [],
-"todo-keyword": "TODO",
-"todo-type": "todo",
+"todo-keyword": "DONE",
+"todo-type": "done",
 "post-blank": 0,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 11367,
+"post-affiliated": 11477,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-19",
@@ -10783,10 +10923,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org5888a7e",
+"ref": "org18319a5",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 11382
+"post-affiliated": 11492
 },
 "contents": []
 }
@@ -10795,7 +10935,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgf704332",
+"ref": "org7151446",
 "drawer": {
 
 },
@@ -10806,13 +10946,13 @@ null,
 "level": 2,
 "priority": null,
 "tags": [],
-"todo-keyword": "TODO",
-"todo-type": "todo",
+"todo-keyword": "DONE",
+"todo-type": "done",
 "post-blank": 0,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 11437,
+"post-affiliated": 11547,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-19",
@@ -10855,12 +10995,1329 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org2974c12",
+"ref": "org1f2f6cf",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 11450
+"post-affiliated": 11560
 },
 "contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org1346735",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "HW13",
+"pre-blank": 0,
+"level": 2,
+"priority": 65,
+"tags": [],
+"todo-keyword": "DONE",
+"todo-type": "done",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 11615,
+"deadline": {
+"$$data_type": "timestamp",
+"start": "2022-11-26",
+"end": "2022-11-26",
+"type": "active",
+"raw-value": "<2022-11-26 Sat>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-11-26",
+"end": "2022-11-26",
+"type": "active",
+"raw-value": "<2022-11-26 Sat>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"HW13"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org80a223a",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 11633
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "orge290808",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "LC13",
+"pre-blank": 0,
+"level": 2,
+"priority": 65,
+"tags": [],
+"todo-keyword": "DONE",
+"todo-type": "done",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 11688,
+"deadline": {
+"$$data_type": "timestamp",
+"start": "2022-11-26",
+"end": "2022-11-26",
+"type": "active",
+"raw-value": "<2022-11-26 Sat>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-11-26",
+"end": "2022-11-26",
+"type": "active",
+"raw-value": "<2022-11-26 Sat>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"LC13"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "orgd814ba0",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 11706
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "orgdef7958",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Lab",
+"pre-blank": 0,
+"level": 2,
+"priority": 65,
+"tags": [],
+"todo-keyword": "DONE",
+"todo-type": "done",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 11761,
+"deadline": {
+"$$data_type": "timestamp",
+"start": "2022-11-22",
+"end": "2022-11-22",
+"type": "active",
+"raw-value": "<2022-11-22 Tue>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-11-22",
+"end": "2022-11-22",
+"type": "active",
+"raw-value": "<2022-11-22 Tue>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"Lab"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org7662ba2",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 11778
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "orgb7b3e2f",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Preparation",
+"pre-blank": 0,
+"level": 2,
+"priority": null,
+"tags": [],
+"todo-keyword": "DONE",
+"todo-type": "done",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 11833,
+"deadline": {
+"$$data_type": "timestamp",
+"start": "2022-11-27",
+"end": "2022-11-27",
+"type": "active",
+"raw-value": "<2022-11-27 Sun>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-11-27",
+"end": "2022-11-27",
+"type": "active",
+"raw-value": "<2022-11-27 Sun>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"Preparation"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org617ec9a",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 11853
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org2168c5d",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "PQ25",
+"pre-blank": 0,
+"level": 2,
+"priority": null,
+"tags": [],
+"todo-keyword": "DONE",
+"todo-type": "done",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 11908,
+"deadline": {
+"$$data_type": "timestamp",
+"start": "2022-11-27",
+"end": "2022-11-27",
+"type": "active",
+"raw-value": "<2022-11-27 Sun>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-11-27",
+"end": "2022-11-27",
+"type": "active",
+"raw-value": "<2022-11-27 Sun>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"PQ25"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "orgf343c44",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 11921
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "orgc96bf3b",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Preparation",
+"pre-blank": 0,
+"level": 2,
+"priority": 66,
+"tags": [],
+"todo-keyword": "DONE",
+"todo-type": "done",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 11976,
+"deadline": {
+"$$data_type": "timestamp",
+"start": "2022-11-29",
+"end": "2022-11-29",
+"type": "active",
+"raw-value": "<2022-11-29 Tue>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-11-29",
+"end": "2022-11-29",
+"type": "active",
+"raw-value": "<2022-11-29 Tue>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"Preparation"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "orgec49fda",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 12001
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "orgeda0416",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "PQ26",
+"pre-blank": 0,
+"level": 2,
+"priority": 66,
+"tags": [],
+"todo-keyword": "DONE",
+"todo-type": "done",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 12056,
+"deadline": {
+"$$data_type": "timestamp",
+"start": "2022-11-29",
+"end": "2022-11-29",
+"type": "active",
+"raw-value": "<2022-11-29 Tue>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-11-29",
+"end": "2022-11-29",
+"type": "active",
+"raw-value": "<2022-11-29 Tue>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"PQ26"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org36dfcf6",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 12074
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org89e598a",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "OA3",
+"pre-blank": 0,
+"level": 2,
+"priority": 65,
+"tags": [],
+"todo-keyword": "DONE",
+"todo-type": "done",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 12129,
+"deadline": {
+"$$data_type": "timestamp",
+"start": "2022-11-30",
+"end": "2022-11-30",
+"type": "active",
+"raw-value": "<2022-11-30 Wed>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-11-28",
+"end": "2022-11-28",
+"type": "active",
+"raw-value": "<2022-11-28 Mon>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"OA3"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "orgd4e82e8",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 12146
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org9da7573",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "LC14",
+"pre-blank": 0,
+"level": 2,
+"priority": 65,
+"tags": [],
+"todo-keyword": "DONE",
+"todo-type": "done",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 12201,
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-12-03",
+"end": "2022-12-03",
+"type": "active",
+"raw-value": "<2022-12-03 Sat>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"deadline": {
+"$$data_type": "timestamp",
+"start": "2022-12-03",
+"end": "2022-12-03",
+"type": "active",
+"raw-value": "<2022-12-03 Sat>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"LC14"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org4384e86",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 12219
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org5f72733",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "HW14",
+"pre-blank": 0,
+"level": 2,
+"priority": 65,
+"tags": [],
+"todo-keyword": "DONE",
+"todo-type": "done",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 12274,
+"deadline": {
+"$$data_type": "timestamp",
+"start": "2022-12-03",
+"end": "2022-12-03",
+"type": "active",
+"raw-value": "<2022-12-03 Sat>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-12-03",
+"end": "2022-12-03",
+"type": "active",
+"raw-value": "<2022-12-03 Sat>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"HW14"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org817937b",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 12292
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org76ed3d4",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Lab 14",
+"pre-blank": 0,
+"level": 2,
+"priority": 65,
+"tags": [],
+"todo-keyword": "DONE",
+"todo-type": "done",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 12347,
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-12-03",
+"end": "2022-12-03",
+"type": "active",
+"raw-value": "<2022-12-03 Sat>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"deadline": {
+"$$data_type": "timestamp",
+"start": "2022-12-03",
+"end": "2022-12-03",
+"type": "active",
+"raw-value": "<2022-12-03 Sat>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"Lab 14"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org5c58f10",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 12367
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org11716f5",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "",
+"pre-blank": 0,
+"level": 2,
+"priority": null,
+"tags": [],
+"todo-keyword": "TODO",
+"todo-type": "todo",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 12422,
+"title": [
+""
+]
+},
+"contents": []
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "orgda7709b",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Preparation",
+"pre-blank": 0,
+"level": 2,
+"priority": null,
+"tags": [],
+"todo-keyword": "DONE",
+"todo-type": "done",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 12431,
+"deadline": {
+"$$data_type": "timestamp",
+"start": "2022-12-05",
+"end": "2022-12-05",
+"type": "active",
+"raw-value": "<2022-12-05 Mon>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-12-05",
+"end": "2022-12-05",
+"type": "active",
+"raw-value": "<2022-12-05 Mon>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"Preparation"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "orgf2bf5c4",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 12451
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "orgd9ca08e",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "PQ27",
+"pre-blank": 0,
+"level": 2,
+"priority": null,
+"tags": [],
+"todo-keyword": "DONE",
+"todo-type": "done",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 12506,
+"deadline": {
+"$$data_type": "timestamp",
+"start": "2022-12-05",
+"end": "2022-12-05",
+"type": "active",
+"raw-value": "<2022-12-05 Mon>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-12-05",
+"end": "2022-12-05",
+"type": "active",
+"raw-value": "<2022-12-05 Mon>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"PQ27"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "orgd405434",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 12519
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org59853a8",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Preparation",
+"pre-blank": 0,
+"level": 2,
+"priority": null,
+"tags": [],
+"todo-keyword": "DONE",
+"todo-type": "done",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 12574,
+"deadline": {
+"$$data_type": "timestamp",
+"start": "2022-12-06",
+"end": "2022-12-06",
+"type": "active",
+"raw-value": "<2022-12-06 Tue>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-12-06",
+"end": "2022-12-06",
+"type": "active",
+"raw-value": "<2022-12-06 Tue>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"Preparation"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org1616088",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 12594
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "orgec64ce0",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "PQ28",
+"pre-blank": 0,
+"level": 2,
+"priority": null,
+"tags": [],
+"todo-keyword": "DONE",
+"todo-type": "done",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 12649,
+"deadline": {
+"$$data_type": "timestamp",
+"start": "2022-12-06",
+"end": "2022-12-06",
+"type": "active",
+"raw-value": "<2022-12-06 Tue>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-12-06",
+"end": "2022-12-06",
+"type": "active",
+"raw-value": "<2022-12-06 Tue>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"PQ28"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "orgeb44d10",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 12662
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "orgebc993b",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "HW15",
+"pre-blank": 0,
+"level": 2,
+"priority": null,
+"tags": [],
+"todo-keyword": "DONE",
+"todo-type": "done",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 12717,
+"deadline": {
+"$$data_type": "timestamp",
+"start": "2022-12-07",
+"end": "2022-12-07",
+"type": "active",
+"raw-value": "<2022-12-07 Wed>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-12-07",
+"end": "2022-12-07",
+"type": "active",
+"raw-value": "<2022-12-07 Wed>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"HW15"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org1397162",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 12730
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "orgbab0125",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Astronomy Final",
+"pre-blank": 0,
+"level": 2,
+"priority": null,
+"tags": [],
+"todo-keyword": null,
+"todo-type": null,
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 12785,
+"title": [
+"Astronomy Final"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "orgb915570",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 12804
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "plain-list",
+"ref": "org1b002f6",
+"properties": {
+"type": "unordered",
+"structure": [
+[
+12804,
+0,
+"- ",
+null,
+null,
+null,
+12857
+]
+],
+"post-blank": 0,
+"post-affiliated": 12804
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "item",
+"ref": "org4be216e",
+"properties": {
+"bullet": "- ",
+"checkbox": null,
+"counter": null,
+"pre-blank": 0,
+"post-blank": 0,
+"post-affiliated": 12804,
+"tag": []
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org1659df2",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 12806
+},
+"contents": [
+"Note taken on ",
+{
+"$$data_type": "org-node",
+"type": "timestamp",
+"ref": "orgab29c54",
+"properties": {
+"type": "inactive",
+"raw-value": "[2022-12-06 Tue 23:24]",
+"post-blank": 1,
+"start": "2022-12-06T23:24:00",
+"end": "2022-12-06T23:24:00"
+},
+"contents": []
+},
+{
+"$$data_type": "org-node",
+"type": "line-break",
+"ref": "orgc4c308d",
+"properties": {
+"post-blank": 0
+},
+"contents": []
+},
+"MARB 206\n"
+]
+}
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org98051bc",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 12857
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "timestamp",
+"ref": "org134d486",
+"properties": {
+"type": "active-range",
+"raw-value": "<2022-12-13 Tue 11:00-14:00>",
+"post-blank": 0,
+"start": "2022-12-13T11:00:00",
+"end": "2022-12-13T14:00:00"
+},
+"contents": []
+},
+"\n"
+]
+}
+]
 }
 ]
 }
@@ -10869,7 +12326,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org517c587",
+"ref": "orgc6ad305",
 "drawer": {
 "CATEGORY": "MATH-215"
 },
@@ -10886,7 +12343,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 11505,
+"post-affiliated": 12886,
 "title": [
 "MATH 215"
 ]
@@ -10895,17 +12352,17 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org38e1a1b",
+"ref": "org83dea16",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 11516
+"post-affiliated": 12897
 },
 "contents": []
 },
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org5ccd254",
+"ref": "orge3f1d79",
 "drawer": {
 
 },
@@ -10924,7 +12381,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 11555,
+"post-affiliated": 12936,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-01",
@@ -10967,10 +12424,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org6e28f6b",
+"ref": "org1134a43",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 11621
+"post-affiliated": 13002
 },
 "contents": []
 }
@@ -10979,7 +12436,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org9c6c355",
+"ref": "orgf729f8f",
 "drawer": {
 
 },
@@ -10996,7 +12453,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 11676,
+"post-affiliated": 13057,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-07",
@@ -11039,10 +12496,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org7620abf",
+"ref": "orgb0fc9ed",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 11690
+"post-affiliated": 13071
 },
 "contents": []
 }
@@ -11051,7 +12508,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org198ef1c",
+"ref": "org27e5ae6",
 "drawer": {
 
 },
@@ -11068,7 +12525,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 11745,
+"post-affiliated": 13126,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-14",
@@ -11111,10 +12568,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgb6bbd5a",
+"ref": "org0674a14",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 11764
+"post-affiliated": 13145
 },
 "contents": []
 }
@@ -11123,7 +12580,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org002daf7",
+"ref": "orgc771a3e",
 "drawer": {
 
 },
@@ -11140,7 +12597,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 11819,
+"post-affiliated": 13200,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-21",
@@ -11183,10 +12640,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org92644c1",
+"ref": "org4e1ef37",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 11833
+"post-affiliated": 13214
 },
 "contents": []
 }
@@ -11195,7 +12652,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org771c864",
+"ref": "org356741b",
 "drawer": {
 
 },
@@ -11212,7 +12669,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 11888,
+"post-affiliated": 13269,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-30",
@@ -11255,10 +12712,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org8ec4467",
+"ref": "org6be3c88",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 11907
+"post-affiliated": 13288
 },
 "contents": []
 }
@@ -11267,7 +12724,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org03106e1",
+"ref": "org802561d",
 "drawer": {
 
 },
@@ -11284,7 +12741,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 11962,
+"post-affiliated": 13343,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-18",
@@ -11327,10 +12784,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgb8c259f",
+"ref": "org7a8c0b5",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 11981
+"post-affiliated": 13362
 },
 "contents": []
 }
@@ -11339,7 +12796,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org124b315",
+"ref": "org92aca05",
 "drawer": {
 
 },
@@ -11356,7 +12813,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 12036,
+"post-affiliated": 13417,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-27",
@@ -11399,10 +12856,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org0a751c1",
+"ref": "org9ba6926",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 12055
+"post-affiliated": 13436
 },
 "contents": []
 }
@@ -11411,7 +12868,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org2fb0bf4",
+"ref": "orga46d1f1",
 "drawer": {
 
 },
@@ -11428,7 +12885,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 12110,
+"post-affiliated": 13491,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-04",
@@ -11471,10 +12928,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgc6967ec",
+"ref": "org5b31058",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 12129
+"post-affiliated": 13510
 },
 "contents": []
 }
@@ -11483,7 +12940,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orga686b53",
+"ref": "org56ecb58",
 "drawer": {
 
 },
@@ -11500,7 +12957,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 12184,
+"post-affiliated": 13565,
 "title": [
 ""
 ]
@@ -11510,7 +12967,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org50a5719",
+"ref": "org55f9981",
 "drawer": {
 
 },
@@ -11527,7 +12984,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 12193,
+"post-affiliated": 13574,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-11-09",
@@ -11570,10 +13027,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org5948000",
+"ref": "org1f9d1ef",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 12213
+"post-affiliated": 13594
 },
 "contents": []
 }
@@ -11582,7 +13039,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgc17e976",
+"ref": "orgbbf3996",
 "drawer": {
 
 },
@@ -11591,15 +13048,15 @@ null,
 "raw-value": "Lab 11",
 "pre-blank": 0,
 "level": 2,
-"priority": null,
+"priority": 65,
 "tags": [],
-"todo-keyword": "TODO",
-"todo-type": "todo",
+"todo-keyword": "DONE",
+"todo-type": "done",
 "post-blank": 0,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 12274,
+"post-affiliated": 13655,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-18",
@@ -11642,10 +13099,82 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgea14e2e",
+"ref": "org9f2a779",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 12289
+"post-affiliated": 13675
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org6758f6c",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Lab 13",
+"pre-blank": 0,
+"level": 2,
+"priority": 66,
+"tags": [],
+"todo-keyword": "DONE",
+"todo-type": "done",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 13730,
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-11-30",
+"end": "2022-11-30",
+"type": "active",
+"raw-value": "<2022-11-30 Wed>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"deadline": {
+"$$data_type": "timestamp",
+"start": "2022-12-02",
+"end": "2022-12-02",
+"type": "active",
+"raw-value": "<2022-12-02 Fri>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"Lab 13"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org1de1574",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 13750
 },
 "contents": []
 }
@@ -11656,7 +13185,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org5fcbeb2",
+"ref": "orgd2593f1",
 "drawer": {
 "CATEGORY": "MATH-213"
 },
@@ -11673,7 +13202,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 12344,
+"post-affiliated": 13805,
 "title": [
 "MATH 213"
 ]
@@ -11682,17 +13211,17 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgf0fa3c1",
+"ref": "org8bc5bfd",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 12355
+"post-affiliated": 13816
 },
 "contents": []
 },
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org6a8edd5",
+"ref": "org6cb5c7d",
 "drawer": {
 
 },
@@ -11709,7 +13238,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 12394,
+"post-affiliated": 13855,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-08-29",
@@ -11735,10 +13264,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgae97210",
+"ref": "org4bd3c23",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 12419
+"post-affiliated": 13880
 },
 "contents": []
 }
@@ -11747,7 +13276,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orge2b8d7f",
+"ref": "orgacabb1d",
 "drawer": {
 
 },
@@ -11766,7 +13295,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 12447,
+"post-affiliated": 13908,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-08-29",
@@ -11809,10 +13338,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org4d8902d",
+"ref": "org14b8487",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 12518
+"post-affiliated": 13979
 },
 "contents": []
 }
@@ -11821,7 +13350,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org5cb6938",
+"ref": "orgb1fd2b0",
 "drawer": {
 
 },
@@ -11840,7 +13369,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 12573,
+"post-affiliated": 14034,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-08-30",
@@ -11883,10 +13412,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org26120a8",
+"ref": "org9251099",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 12644
+"post-affiliated": 14105
 },
 "contents": []
 }
@@ -11895,7 +13424,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgb68906e",
+"ref": "orgcccd60e",
 "drawer": {
 
 },
@@ -11914,7 +13443,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 12699,
+"post-affiliated": 14160,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-08-31",
@@ -11957,10 +13486,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org760b75c",
+"ref": "org7fd515a",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 12770
+"post-affiliated": 14231
 },
 "contents": []
 }
@@ -11969,7 +13498,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orga7732e0",
+"ref": "orga7ebaf3",
 "drawer": {
 
 },
@@ -11988,7 +13517,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 12825,
+"post-affiliated": 14286,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-01",
@@ -12031,10 +13560,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org036a9f7",
+"ref": "orgc6d848a",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 12896
+"post-affiliated": 14357
 },
 "contents": []
 }
@@ -12043,7 +13572,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org1b96d48",
+"ref": "orgded3d78",
 "drawer": {
 
 },
@@ -12062,7 +13591,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 12951,
+"post-affiliated": 14412,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-04",
@@ -12105,10 +13634,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org9575cda",
+"ref": "org6014314",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 13019
+"post-affiliated": 14480
 },
 "contents": []
 }
@@ -12117,7 +13646,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgee3af91",
+"ref": "orgf16136a",
 "drawer": {
 
 },
@@ -12136,7 +13665,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 13074,
+"post-affiliated": 14535,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-08-30",
@@ -12179,10 +13708,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org3482ebd",
+"ref": "org1f8a49f",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 13144
+"post-affiliated": 14605
 },
 "contents": []
 }
@@ -12191,7 +13720,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org7265995",
+"ref": "org5d7ba85",
 "drawer": {
 
 },
@@ -12208,7 +13737,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 13199,
+"post-affiliated": 14660,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-07",
@@ -12251,10 +13780,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orge9b4ade",
+"ref": "org3a62319",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 13220
+"post-affiliated": 14681
 },
 "contents": []
 }
@@ -12263,7 +13792,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgb5e6b1a",
+"ref": "org02e0fbb",
 "drawer": {
 
 },
@@ -12280,7 +13809,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 13275,
+"post-affiliated": 14736,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-10",
@@ -12323,10 +13852,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org4113d14",
+"ref": "org159af33",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 13297
+"post-affiliated": 14758
 },
 "contents": []
 }
@@ -12335,7 +13864,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgd910eda",
+"ref": "org8d86e16",
 "drawer": {
 
 },
@@ -12352,7 +13881,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 13352,
+"post-affiliated": 14813,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-12",
@@ -12395,10 +13924,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgc4adbdd",
+"ref": "org9d2c901",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 13372
+"post-affiliated": 14833
 },
 "contents": []
 }
@@ -12407,7 +13936,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org721afb5",
+"ref": "org1defd44",
 "drawer": {
 
 },
@@ -12424,7 +13953,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 13427,
+"post-affiliated": 14888,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-12",
@@ -12467,10 +13996,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org16e160f",
+"ref": "org975c6a8",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 13450
+"post-affiliated": 14911
 },
 "contents": []
 }
@@ -12479,7 +14008,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org2a220aa",
+"ref": "orge669de7",
 "drawer": {
 
 },
@@ -12496,7 +14025,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 13505,
+"post-affiliated": 14966,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-12",
@@ -12539,10 +14068,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgf3e937b",
+"ref": "org5895ecd",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 13527
+"post-affiliated": 14988
 },
 "contents": []
 }
@@ -12551,7 +14080,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org059cc8c",
+"ref": "orge7cf592",
 "drawer": {
 
 },
@@ -12568,7 +14097,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 13582,
+"post-affiliated": 15043,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-12",
@@ -12611,10 +14140,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org88a3d7e",
+"ref": "orgd1b0e48",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 13607
+"post-affiliated": 15068
 },
 "contents": []
 }
@@ -12623,7 +14152,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org9d2c897",
+"ref": "org1d6932f",
 "drawer": {
 
 },
@@ -12640,7 +14169,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 13662,
+"post-affiliated": 15123,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-14",
@@ -12683,10 +14212,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgf56f742",
+"ref": "orgac211ca",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 13685
+"post-affiliated": 15146
 },
 "contents": []
 }
@@ -12695,7 +14224,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org4f42f88",
+"ref": "org058b531",
 "drawer": {
 
 },
@@ -12712,7 +14241,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 13740,
+"post-affiliated": 15201,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-15",
@@ -12755,10 +14284,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgfb4c36e",
+"ref": "org3ecddb6",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 13770
+"post-affiliated": 15231
 },
 "contents": []
 }
@@ -12767,7 +14296,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org6d55961",
+"ref": "orgbbf010e",
 "drawer": {
 
 },
@@ -12784,7 +14313,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 13825,
+"post-affiliated": 15286,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-20",
@@ -12827,10 +14356,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orge09b452",
+"ref": "org1e6ee06",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 13850
+"post-affiliated": 15311
 },
 "contents": []
 }
@@ -12839,7 +14368,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgea016bd",
+"ref": "org055a1aa",
 "drawer": {
 
 },
@@ -12856,7 +14385,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 13905,
+"post-affiliated": 15366,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-24",
@@ -12899,10 +14428,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org9e17e25",
+"ref": "org6d39bc1",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 13930
+"post-affiliated": 15391
 },
 "contents": []
 }
@@ -12911,7 +14440,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orge15eaa4",
+"ref": "orga3bffc9",
 "drawer": {
 
 },
@@ -12928,7 +14457,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 13985,
+"post-affiliated": 15446,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-26",
@@ -12971,10 +14500,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org232a566",
+"ref": "org3ab73b8",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 14007
+"post-affiliated": 15468
 },
 "contents": []
 }
@@ -12983,7 +14512,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org1422085",
+"ref": "org138173e",
 "drawer": {
 
 },
@@ -13000,7 +14529,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 14062,
+"post-affiliated": 15523,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-19",
@@ -13043,10 +14572,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org88fdc30",
+"ref": "orgae4f53d",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 14085
+"post-affiliated": 15546
 },
 "contents": []
 }
@@ -13055,7 +14584,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org7463ab9",
+"ref": "org96ba558",
 "drawer": {
 
 },
@@ -13072,7 +14601,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 14140,
+"post-affiliated": 15601,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-21",
@@ -13115,10 +14644,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org7eb654c",
+"ref": "orgc00d1cf",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 14163
+"post-affiliated": 15624
 },
 "contents": []
 }
@@ -13127,7 +14656,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgd7d9f60",
+"ref": "orgc311e48",
 "drawer": {
 
 },
@@ -13144,7 +14673,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 14218,
+"post-affiliated": 15679,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-26",
@@ -13187,10 +14716,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org21f371b",
+"ref": "org5096f43",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 14238
+"post-affiliated": 15699
 },
 "contents": []
 }
@@ -13199,7 +14728,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org39ae63e",
+"ref": "org9d79aa4",
 "drawer": {
 
 },
@@ -13216,7 +14745,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 14293,
+"post-affiliated": 15754,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-28",
@@ -13259,10 +14788,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org058cc1b",
+"ref": "orgf5e1ad5",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 14313
+"post-affiliated": 15774
 },
 "contents": []
 }
@@ -13271,7 +14800,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org0980ba2",
+"ref": "org371fc49",
 "drawer": {
 
 },
@@ -13288,7 +14817,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 14368,
+"post-affiliated": 15829,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-26",
@@ -13314,10 +14843,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgf2f86f2",
+"ref": "orga9e27bd",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 14411
+"post-affiliated": 15872
 },
 "contents": []
 }
@@ -13326,7 +14855,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org37dd93a",
+"ref": "org80a0469",
 "drawer": {
 
 },
@@ -13343,7 +14872,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 14439,
+"post-affiliated": 15900,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-09-29",
@@ -13386,10 +14915,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org254c8b1",
+"ref": "org37e4bc3",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 14467
+"post-affiliated": 15928
 },
 "contents": []
 }
@@ -13398,7 +14927,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org7dcee5b",
+"ref": "org2e3b541",
 "drawer": {
 
 },
@@ -13415,7 +14944,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 14522,
+"post-affiliated": 15983,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-04",
@@ -13441,10 +14970,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org1e9d2bf",
+"ref": "org9d4611d",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 14576
+"post-affiliated": 16037
 },
 "contents": []
 }
@@ -13453,7 +14982,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orge13325b",
+"ref": "org2edd866",
 "drawer": {
 
 },
@@ -13470,7 +14999,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 14604,
+"post-affiliated": 16065,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-10-03",
@@ -13513,10 +15042,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org82ffd23",
+"ref": "org07ba92e",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 14631
+"post-affiliated": 16092
 },
 "contents": []
 }
@@ -13525,7 +15054,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org42ed1bd",
+"ref": "org0eadf19",
 "drawer": {
 
 },
@@ -13542,7 +15071,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 14686,
+"post-affiliated": 16147,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-03",
@@ -13585,10 +15114,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org4b2ca89",
+"ref": "org31ac839",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 14714
+"post-affiliated": 16175
 },
 "contents": []
 }
@@ -13597,7 +15126,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orge6fed0d",
+"ref": "org601285d",
 "drawer": {
 
 },
@@ -13614,7 +15143,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 14769,
+"post-affiliated": 16230,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-03",
@@ -13657,10 +15186,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org7133736",
+"ref": "orgfef13e2",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 14799
+"post-affiliated": 16260
 },
 "contents": []
 }
@@ -13669,7 +15198,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org00d2e43",
+"ref": "org959dca1",
 "drawer": {
 
 },
@@ -13686,7 +15215,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 14854,
+"post-affiliated": 16315,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-03",
@@ -13729,10 +15258,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgf883fd1",
+"ref": "org13b4ac9",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 14884
+"post-affiliated": 16345
 },
 "contents": []
 }
@@ -13741,7 +15270,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org0a4217b",
+"ref": "org40af41c",
 "drawer": {
 
 },
@@ -13758,7 +15287,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 14939,
+"post-affiliated": 16400,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-06",
@@ -13801,10 +15330,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org4501e4c",
+"ref": "orgbefffb3",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 14962
+"post-affiliated": 16423
 },
 "contents": []
 }
@@ -13813,7 +15342,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org890f9d3",
+"ref": "orgb08be33",
 "drawer": {
 
 },
@@ -13830,7 +15359,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 15017,
+"post-affiliated": 16478,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-10",
@@ -13873,10 +15402,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org9e208a2",
+"ref": "orge7b87de",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 15056
+"post-affiliated": 16517
 },
 "contents": []
 }
@@ -13885,7 +15414,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org4a65fea",
+"ref": "orge5db306",
 "drawer": {
 
 },
@@ -13902,7 +15431,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 15111,
+"post-affiliated": 16572,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-11",
@@ -13945,10 +15474,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org139a39d",
+"ref": "org43f54a3",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 15141
+"post-affiliated": 16602
 },
 "contents": []
 }
@@ -13957,7 +15486,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org19ffb36",
+"ref": "org43d4301",
 "drawer": {
 
 },
@@ -13974,7 +15503,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 15196,
+"post-affiliated": 16657,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-11",
@@ -14017,10 +15546,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org9c75edb",
+"ref": "orgbf64ec6",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 15224
+"post-affiliated": 16685
 },
 "contents": []
 }
@@ -14029,7 +15558,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org0a4b979",
+"ref": "orge0aaf7a",
 "drawer": {
 
 },
@@ -14046,7 +15575,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 15279,
+"post-affiliated": 16740,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-12",
@@ -14089,10 +15618,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org6d115e1",
+"ref": "org33524df",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 15307
+"post-affiliated": 16768
 },
 "contents": []
 }
@@ -14101,7 +15630,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org79faeef",
+"ref": "org3001e9a",
 "drawer": {
 
 },
@@ -14118,7 +15647,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 15362,
+"post-affiliated": 16823,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-11",
@@ -14144,10 +15673,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgceaa627",
+"ref": "org19bbe53",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 15401
+"post-affiliated": 16862
 },
 "contents": []
 }
@@ -14156,7 +15685,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgcbcdda1",
+"ref": "orgf7a24fb",
 "drawer": {
 
 },
@@ -14173,7 +15702,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 15429,
+"post-affiliated": 16890,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-10-17",
@@ -14216,10 +15745,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org9a102c9",
+"ref": "orgd0d2051",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 15477
+"post-affiliated": 16938
 },
 "contents": []
 }
@@ -14228,7 +15757,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orge2abae0",
+"ref": "org388b98d",
 "drawer": {
 
 },
@@ -14245,7 +15774,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 15532,
+"post-affiliated": 16993,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-17",
@@ -14288,10 +15817,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org23e8639",
+"ref": "org3116ccc",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 15562
+"post-affiliated": 17023
 },
 "contents": []
 }
@@ -14300,7 +15829,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org5693c2c",
+"ref": "orgf42368a",
 "drawer": {
 
 },
@@ -14317,7 +15846,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 15617,
+"post-affiliated": 17078,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-18",
@@ -14360,10 +15889,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org73c7975",
+"ref": "org1283afc",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 15647
+"post-affiliated": 17108
 },
 "contents": []
 }
@@ -14372,7 +15901,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org6fc0742",
+"ref": "org21fa676",
 "drawer": {
 
 },
@@ -14389,7 +15918,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 15702,
+"post-affiliated": 17163,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-17",
@@ -14432,10 +15961,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org95aca70",
+"ref": "org857465d",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 15730
+"post-affiliated": 17191
 },
 "contents": []
 }
@@ -14444,7 +15973,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org9b250fe",
+"ref": "org8f2bc0b",
 "drawer": {
 
 },
@@ -14461,7 +15990,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 15785,
+"post-affiliated": 17246,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-19",
@@ -14504,10 +16033,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org6d2f0bf",
+"ref": "org3d717ec",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 15810
+"post-affiliated": 17271
 },
 "contents": []
 }
@@ -14516,7 +16045,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orge5dab29",
+"ref": "orge434bc9",
 "drawer": {
 
 },
@@ -14533,7 +16062,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 15865,
+"post-affiliated": 17326,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-10-24",
@@ -14576,10 +16105,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org84cd6cb",
+"ref": "org4b0a710",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 15892
+"post-affiliated": 17353
 },
 "contents": []
 }
@@ -14588,7 +16117,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org02f2f01",
+"ref": "orgbfc248a",
 "drawer": {
 
 },
@@ -14605,7 +16134,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 15947,
+"post-affiliated": 17408,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-26",
@@ -14648,10 +16177,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org46fd1c6",
+"ref": "org295cae7",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 15974
+"post-affiliated": 17435
 },
 "contents": []
 }
@@ -14660,7 +16189,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgf19ade8",
+"ref": "orgc21e03e",
 "drawer": {
 
 },
@@ -14677,7 +16206,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 16029,
+"post-affiliated": 17490,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-10-27",
@@ -14720,10 +16249,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org3e0fc56",
+"ref": "orga8cc8ae",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 16057
+"post-affiliated": 17518
 },
 "contents": []
 }
@@ -14732,7 +16261,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org8eb5cdd",
+"ref": "orgcac5215",
 "drawer": {
 
 },
@@ -14749,7 +16278,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 16112,
+"post-affiliated": 17573,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-11-01",
@@ -14792,10 +16321,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgcfe4376",
+"ref": "org54d4135",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 16140
+"post-affiliated": 17601
 },
 "contents": []
 }
@@ -14804,7 +16333,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgc834f41",
+"ref": "org9c01f04",
 "drawer": {
 
 },
@@ -14821,7 +16350,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 16195,
+"post-affiliated": 17656,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-03",
@@ -14864,10 +16393,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org6453abb",
+"ref": "org6a23517",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 16220
+"post-affiliated": 17681
 },
 "contents": []
 }
@@ -14876,7 +16405,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org4e89c27",
+"ref": "orgadaa72f",
 "drawer": {
 
 },
@@ -14893,7 +16422,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 16275,
+"post-affiliated": 17736,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-10-31",
@@ -14936,10 +16465,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org7efcadf",
+"ref": "org7afd11c",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 16305
+"post-affiliated": 17766
 },
 "contents": []
 }
@@ -14948,7 +16477,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org3f72588",
+"ref": "org840903c",
 "drawer": {
 
 },
@@ -14965,7 +16494,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 16360,
+"post-affiliated": 17821,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-02",
@@ -15008,10 +16537,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org4a53dcd",
+"ref": "org2cd6a66",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 16390
+"post-affiliated": 17851
 },
 "contents": []
 }
@@ -15020,7 +16549,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orga9d7955",
+"ref": "org9114b48",
 "drawer": {
 
 },
@@ -15037,7 +16566,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 16445,
+"post-affiliated": 17906,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-07",
@@ -15080,10 +16609,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org43a3017",
+"ref": "orgbc8258a",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 16472
+"post-affiliated": 17933
 },
 "contents": []
 }
@@ -15092,7 +16621,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org2119661",
+"ref": "org15e18a1",
 "drawer": {
 
 },
@@ -15109,7 +16638,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 16527,
+"post-affiliated": 17988,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-09",
@@ -15152,10 +16681,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org17f6a6b",
+"ref": "org576f9f0",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 16554
+"post-affiliated": 18015
 },
 "contents": []
 }
@@ -15164,7 +16693,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgf4b75c5",
+"ref": "orgf2c1c6e",
 "drawer": {
 
 },
@@ -15181,7 +16710,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 16609,
+"post-affiliated": 18070,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-11",
@@ -15224,10 +16753,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org26ce8d2",
+"ref": "org18a9bf0",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 16625
+"post-affiliated": 18086
 },
 "contents": []
 }
@@ -15236,7 +16765,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org40f20f1",
+"ref": "org8e23f8a",
 "drawer": {
 
 },
@@ -15253,7 +16782,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 16680,
+"post-affiliated": 18141,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-08",
@@ -15296,10 +16825,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orge69178a",
+"ref": "org2324c4f",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 16705
+"post-affiliated": 18166
 },
 "contents": []
 }
@@ -15308,7 +16837,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org4b5deb5",
+"ref": "orgad5d3b6",
 "drawer": {
 
 },
@@ -15325,7 +16854,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 16760,
+"post-affiliated": 18221,
 "title": [
 "Review (JKB 2111)"
 ]
@@ -15334,25 +16863,25 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org55e3fab",
+"ref": "org1321c77",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 16781
+"post-affiliated": 18242
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org8cf1105",
+"ref": "org4b83620",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 16781
+"post-affiliated": 18242
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "timestamp",
-"ref": "orgf512fb5",
+"ref": "orgee860ec",
 "properties": {
 "type": "active-range",
 "raw-value": "<2022-11-08 Tue 17:00-19:00>",
@@ -15372,7 +16901,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org4237465",
+"ref": "org636cc5e",
 "drawer": {
 
 },
@@ -15383,13 +16912,13 @@ null,
 "level": 2,
 "priority": 65,
 "tags": [],
-"todo-keyword": "TODO",
-"todo-type": "todo",
+"todo-keyword": "DONE",
+"todo-type": "done",
 "post-blank": 0,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 16810,
+"post-affiliated": 18271,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-11-14",
@@ -15432,10 +16961,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org714b9fb",
+"ref": "org74a8bb5",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 16836
+"post-affiliated": 18297
 },
 "contents": []
 }
@@ -15444,7 +16973,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org7fb54df",
+"ref": "org97dca0b",
 "drawer": {
 
 },
@@ -15453,16 +16982,16 @@ null,
 "raw-value": "Section 5.2W",
 "pre-blank": 0,
 "level": 2,
-"priority": null,
+"priority": 65,
 "tags": [],
-"todo-keyword": "TODO",
-"todo-type": "todo",
+"todo-keyword": "DONE",
+"todo-type": "done",
 "post-blank": 0,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 16891,
-"deadline": {
+"post-affiliated": 18352,
+"scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-11-21",
 "end": "2022-11-21",
@@ -15479,12 +17008,12 @@ null,
 "value": null
 }
 },
-"scheduled": {
+"deadline": {
 "$$data_type": "timestamp",
-"start": "2022-11-16",
-"end": "2022-11-16",
+"start": "2022-11-21",
+"end": "2022-11-21",
 "type": "active",
-"raw-value": "<2022-11-16 Wed>",
+"raw-value": "<2022-11-21 Mon>",
 "repeater": {
 "type": null,
 "unit": null,
@@ -15504,10 +17033,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgb10b749",
+"ref": "orgd00bbcf",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 16912
+"post-affiliated": 18378
 },
 "contents": []
 }
@@ -15516,7 +17045,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgb00bf91",
+"ref": "orge41df60",
 "drawer": {
 
 },
@@ -15527,13 +17056,13 @@ null,
 "level": 2,
 "priority": 65,
 "tags": [],
-"todo-keyword": "TODO",
-"todo-type": "todo",
+"todo-keyword": "DONE",
+"todo-type": "done",
 "post-blank": 0,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 16967,
+"post-affiliated": 18433,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-15",
@@ -15576,10 +17105,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org0a7652b",
+"ref": "org7436863",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 16992
+"post-affiliated": 18458
 },
 "contents": []
 }
@@ -15588,7 +17117,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org226e963",
+"ref": "org593016b",
 "drawer": {
 
 },
@@ -15597,15 +17126,15 @@ null,
 "raw-value": "Section 5.2",
 "pre-blank": 0,
 "level": 2,
-"priority": null,
+"priority": 65,
 "tags": [],
-"todo-keyword": "TODO",
-"todo-type": "todo",
+"todo-keyword": "DONE",
+"todo-type": "done",
 "post-blank": 0,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 17047,
+"post-affiliated": 18513,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-17",
@@ -15648,12 +17177,652 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgcaa00ec",
+"ref": "org5081853",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 17067
+"post-affiliated": 18538
 },
 "contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "orgeb04c79",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Section 5.3W",
+"pre-blank": 0,
+"level": 2,
+"priority": 65,
+"tags": [],
+"todo-keyword": "DONE",
+"todo-type": "done",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 18593,
+"deadline": {
+"$$data_type": "timestamp",
+"start": "2022-11-23",
+"end": "2022-11-23",
+"type": "active",
+"raw-value": "<2022-11-23 Wed>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-11-21",
+"end": "2022-11-21",
+"type": "active",
+"raw-value": "<2022-11-21 Mon>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"Section 5.3W"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "orga81c87f",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 18619
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "orga13a16b",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Section 5.3",
+"pre-blank": 0,
+"level": 2,
+"priority": 65,
+"tags": [],
+"todo-keyword": "DONE",
+"todo-type": "done",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 18674,
+"deadline": {
+"$$data_type": "timestamp",
+"start": "2022-11-22",
+"end": "2022-11-22",
+"type": "active",
+"raw-value": "<2022-11-22 Tue>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-11-21",
+"end": "2022-11-21",
+"type": "active",
+"raw-value": "<2022-11-21 Mon>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"Section 5.3"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org8da7862",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 18699
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "orgda89d9b",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Section 5.4(a) W",
+"pre-blank": 0,
+"level": 2,
+"priority": 65,
+"tags": [],
+"todo-keyword": "DONE",
+"todo-type": "done",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 18754,
+"deadline": {
+"$$data_type": "timestamp",
+"start": "2022-11-30",
+"end": "2022-11-30",
+"type": "active",
+"raw-value": "<2022-11-30 Wed>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-11-30",
+"end": "2022-11-30",
+"type": "active",
+"raw-value": "<2022-11-30 Wed>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"Section 5.4(a) W"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "orgfc0d751",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 18784
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org49f240d",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Section 5.4 (b) W",
+"pre-blank": 0,
+"level": 2,
+"priority": null,
+"tags": [],
+"todo-keyword": "DONE",
+"todo-type": "done",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 18839,
+"deadline": {
+"$$data_type": "timestamp",
+"start": "2022-12-05",
+"end": "2022-12-05",
+"type": "active",
+"raw-value": "<2022-12-05 Mon>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-12-05",
+"end": "2022-12-05",
+"type": "active",
+"raw-value": "<2022-12-05 Mon>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"Section 5.4 (b) W"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "orgda31864",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 18865
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "orgfef5968",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Section 7.4W",
+"pre-blank": 0,
+"level": 2,
+"priority": 65,
+"tags": [],
+"todo-keyword": "DONE",
+"todo-type": "done",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 18920,
+"deadline": {
+"$$data_type": "timestamp",
+"start": "2022-12-07",
+"end": "2022-12-07",
+"type": "active",
+"raw-value": "<2022-12-07 Wed>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-12-07",
+"end": "2022-12-07",
+"type": "active",
+"raw-value": "<2022-12-07 Wed>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"Section 7.4W"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org0999ea4",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 18946
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "orge431fd1",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Section 5.3",
+"pre-blank": 0,
+"level": 2,
+"priority": 65,
+"tags": [],
+"todo-keyword": "DONE",
+"todo-type": "done",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 19001,
+"deadline": {
+"$$data_type": "timestamp",
+"start": "2022-11-28",
+"end": "2022-11-28",
+"type": "active",
+"raw-value": "<2022-11-28 Mon>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-11-28",
+"end": "2022-11-28",
+"type": "active",
+"raw-value": "<2022-11-28 Mon>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"Section 5.3"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org06f14c7",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 19026
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org2703df3",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Section 5.4",
+"pre-blank": 0,
+"level": 2,
+"priority": 65,
+"tags": [],
+"todo-keyword": "DONE",
+"todo-type": "done",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 19081,
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-11-29",
+"end": "2022-11-29",
+"type": "active",
+"raw-value": "<2022-11-29 Tue>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"deadline": {
+"$$data_type": "timestamp",
+"start": "2022-11-29",
+"end": "2022-11-29",
+"type": "active",
+"raw-value": "<2022-11-29 Tue>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"Section 5.4"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "orgde2063a",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 19106
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org62b9c55",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Section 7.4",
+"pre-blank": 0,
+"level": 2,
+"priority": null,
+"tags": [],
+"todo-keyword": "DONE",
+"todo-type": "done",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 19161,
+"deadline": {
+"$$data_type": "timestamp",
+"start": "2022-12-06",
+"end": "2022-12-06",
+"type": "active",
+"raw-value": "<2022-12-06 Tue>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-12-06",
+"end": "2022-12-06",
+"type": "active",
+"raw-value": "<2022-12-06 Tue>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"Section 7.4"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "orga1eb853",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 19181
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org4fb93ab",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Review Session",
+"pre-blank": 0,
+"level": 2,
+"priority": null,
+"tags": [],
+"todo-keyword": null,
+"todo-type": null,
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 19236,
+"title": [
+"Review Session"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "orga6b3a41",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 19254
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "orgb540cc3",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 19254
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "timestamp",
+"ref": "org1d66e3a",
+"properties": {
+"type": "active",
+"raw-value": "<2022-12-09 Fri 15:00>",
+"post-blank": 0,
+"start": "2022-12-09T15:00:00",
+"end": "2022-12-09T15:00:00"
+},
+"contents": []
+},
+"\n"
+]
+}
+]
 }
 ]
 }
@@ -15662,7 +17831,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgc40d117",
+"ref": "org5b1bec3",
 "drawer": {
 "CATEGORY": "CS-111"
 },
@@ -15679,7 +17848,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 17122,
+"post-affiliated": 19277,
 "title": [
 "CS 111"
 ]
@@ -15688,17 +17857,17 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org1a4764e",
+"ref": "orgcd435bb",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 17131
+"post-affiliated": 19286
 },
 "contents": []
 },
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org520ccd1",
+"ref": "org6a60aba",
 "drawer": {
 
 },
@@ -15717,7 +17886,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 17168,
+"post-affiliated": 19323,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-08-30",
@@ -15760,10 +17929,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgd9dacce",
+"ref": "org948522a",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 17234
+"post-affiliated": 19389
 },
 "contents": []
 }
@@ -15772,7 +17941,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org5a040df",
+"ref": "org56f8e3c",
 "drawer": {
 
 },
@@ -15791,7 +17960,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 17289,
+"post-affiliated": 19444,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-08-30",
@@ -15834,10 +18003,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org774b17f",
+"ref": "org3c8bbfe",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 17359
+"post-affiliated": 19514
 },
 "contents": []
 }
@@ -15846,7 +18015,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org5a210f4",
+"ref": "org8577b53",
 "drawer": {
 
 },
@@ -15865,7 +18034,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 17414,
+"post-affiliated": 19569,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-08-31",
@@ -15908,10 +18077,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org50c0fb8",
+"ref": "orgfb12237",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 17487
+"post-affiliated": 19642
 },
 "contents": []
 }
@@ -15920,7 +18089,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org140219d",
+"ref": "org5dd367d",
 "drawer": {
 
 },
@@ -15940,7 +18109,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 17542,
+"post-affiliated": 19697,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-08-31",
@@ -15983,10 +18152,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org1e6a19e",
+"ref": "org5ad49ff",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 17623
+"post-affiliated": 19778
 },
 "contents": []
 }
@@ -15995,7 +18164,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orge9f130a",
+"ref": "orgbe0a025",
 "drawer": {
 
 },
@@ -16012,7 +18181,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 17678,
+"post-affiliated": 19833,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-08-31",
@@ -16038,10 +18207,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgbc47de5",
+"ref": "org72aa23f",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 17706
+"post-affiliated": 19861
 },
 "contents": []
 }
@@ -16050,7 +18219,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgef4ac0b",
+"ref": "org85fc7d7",
 "drawer": {
 
 },
@@ -16067,7 +18236,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 17734,
+"post-affiliated": 19889,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-16",
@@ -16110,10 +18279,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgb936109",
+"ref": "org6f5890b",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 17754
+"post-affiliated": 19909
 },
 "contents": []
 }
@@ -16122,7 +18291,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org72e1e3c",
+"ref": "orgde67bbb",
 "drawer": {
 
 },
@@ -16139,7 +18308,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 17809,
+"post-affiliated": 19964,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-15",
@@ -16182,10 +18351,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgaa1521e",
+"ref": "org8a9387c",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 17833
+"post-affiliated": 19988
 },
 "contents": []
 }
@@ -16194,7 +18363,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org7d70df3",
+"ref": "orgf7d1291",
 "drawer": {
 
 },
@@ -16211,7 +18380,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 17888,
+"post-affiliated": 20043,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-15",
@@ -16254,10 +18423,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org4a75608",
+"ref": "orgebee91c",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 17907
+"post-affiliated": 20062
 },
 "contents": []
 }
@@ -16266,7 +18435,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org7bd871b",
+"ref": "orga91d744",
 "drawer": {
 
 },
@@ -16283,7 +18452,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 17962,
+"post-affiliated": 20117,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-26",
@@ -16309,10 +18478,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org6ecc6d9",
+"ref": "org8812249",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 17980
+"post-affiliated": 20135
 },
 "contents": []
 }
@@ -16321,7 +18490,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org8159569",
+"ref": "org454e464",
 "drawer": {
 
 },
@@ -16338,7 +18507,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 18008,
+"post-affiliated": 20163,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-19",
@@ -16381,10 +18550,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgce99ead",
+"ref": "orgde5cbfb",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 18020
+"post-affiliated": 20175
 },
 "contents": []
 }
@@ -16393,7 +18562,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org0563912",
+"ref": "orgf6586d6",
 "drawer": {
 
 },
@@ -16410,7 +18579,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 18075,
+"post-affiliated": 20230,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-22",
@@ -16453,10 +18622,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org7a6dde7",
+"ref": "orge25dbc7",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 18088
+"post-affiliated": 20243
 },
 "contents": []
 }
@@ -16465,7 +18634,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgcbb952f",
+"ref": "org13f81a6",
 "drawer": {
 
 },
@@ -16482,7 +18651,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 18143,
+"post-affiliated": 20298,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-18",
@@ -16525,10 +18694,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org6feb8e5",
+"ref": "orga493132",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 18169
+"post-affiliated": 20324
 },
 "contents": []
 }
@@ -16537,7 +18706,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org5929e53",
+"ref": "orgde65b0c",
 "drawer": {
 
 },
@@ -16554,7 +18723,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 18224,
+"post-affiliated": 20379,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-18",
@@ -16597,10 +18766,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org521fd7f",
+"ref": "org357aa81",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 18251
+"post-affiliated": 20406
 },
 "contents": []
 }
@@ -16609,7 +18778,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgc5c8f1c",
+"ref": "org4817b7e",
 "drawer": {
 
 },
@@ -16626,7 +18795,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 18306,
+"post-affiliated": 20461,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-10-25",
@@ -16669,10 +18838,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org8567f8a",
+"ref": "orgc874ba7",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 18325
+"post-affiliated": 20480
 },
 "contents": []
 }
@@ -16681,7 +18850,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org9c56727",
+"ref": "org8f1475f",
 "drawer": {
 
 },
@@ -16698,7 +18867,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 18380,
+"post-affiliated": 20535,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-26",
@@ -16741,10 +18910,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org72b12ca",
+"ref": "org18a44c5",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 18407
+"post-affiliated": 20562
 },
 "contents": []
 }
@@ -16753,7 +18922,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org260130a",
+"ref": "org5822c4e",
 "drawer": {
 
 },
@@ -16770,7 +18939,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 18462,
+"post-affiliated": 20617,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-25",
@@ -16813,10 +18982,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org7a583c3",
+"ref": "org990c9b2",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 18480
+"post-affiliated": 20635
 },
 "contents": []
 }
@@ -16825,7 +18994,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgdcae427",
+"ref": "org93f351c",
 "drawer": {
 
 },
@@ -16842,7 +19011,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 18535,
+"post-affiliated": 20690,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-11-01",
@@ -16885,10 +19054,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgbcd4c38",
+"ref": "org0a0fc37",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 18579
+"post-affiliated": 20734
 },
 "contents": []
 }
@@ -16897,7 +19066,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgb2e3bab",
+"ref": "org34b3147",
 "drawer": {
 
 },
@@ -16914,7 +19083,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 18634,
+"post-affiliated": 20789,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-31",
@@ -16940,10 +19109,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org87ad11b",
+"ref": "org5dd0c65",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 18670
+"post-affiliated": 20825
 },
 "contents": []
 }
@@ -16952,7 +19121,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org7f0592b",
+"ref": "org73bda4b",
 "drawer": {
 
 },
@@ -16969,7 +19138,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 18698,
+"post-affiliated": 20853,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-02",
@@ -17012,10 +19181,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org103bfad",
+"ref": "org93b25af",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 18717
+"post-affiliated": 20872
 },
 "contents": []
 }
@@ -17024,7 +19193,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org5148815",
+"ref": "org3fae5f4",
 "drawer": {
 
 },
@@ -17041,7 +19210,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 18772,
+"post-affiliated": 20927,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-02",
@@ -17084,10 +19253,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgbbe4a0f",
+"ref": "org75d5ab9",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 18794
+"post-affiliated": 20949
 },
 "contents": []
 }
@@ -17096,7 +19265,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgbe8d090",
+"ref": "org0f7bbf1",
 "drawer": {
 
 },
@@ -17113,7 +19282,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 18849,
+"post-affiliated": 21004,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-08",
@@ -17156,10 +19325,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org7b45dc0",
+"ref": "org4c448eb",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 18872
+"post-affiliated": 21027
 },
 "contents": []
 }
@@ -17168,7 +19337,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org793edf5",
+"ref": "orgd63d4dc",
 "drawer": {
 
 },
@@ -17185,7 +19354,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 18927,
+"post-affiliated": 21082,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-08",
@@ -17228,10 +19397,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org0052876",
+"ref": "org56a57ca",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 18945
+"post-affiliated": 21100
 },
 "contents": []
 }
@@ -17240,7 +19409,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org2f83968",
+"ref": "org2c084dc",
 "drawer": {
 
 },
@@ -17257,7 +19426,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 19000,
+"post-affiliated": 21155,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-11",
@@ -17300,10 +19469,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgf7659df",
+"ref": "orgcb3388c",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 19020
+"post-affiliated": 21175
 },
 "contents": []
 }
@@ -17312,7 +19481,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org6d2815d",
+"ref": "org252c9a0",
 "drawer": {
 
 },
@@ -17329,7 +19498,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 19075,
+"post-affiliated": 21230,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-15",
@@ -17372,10 +19541,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgb49ae56",
+"ref": "orgfd65ceb",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 19094
+"post-affiliated": 21249
 },
 "contents": []
 }
@@ -17384,7 +19553,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgf08e3b3",
+"ref": "orgefdd77f",
 "drawer": {
 
 },
@@ -17393,15 +19562,15 @@ null,
 "raw-value": "Lab 11",
 "pre-blank": 0,
 "level": 2,
-"priority": null,
+"priority": 65,
 "tags": [],
-"todo-keyword": "TODO",
-"todo-type": "todo",
+"todo-keyword": "DONE",
+"todo-type": "done",
 "post-blank": 0,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 19149,
+"post-affiliated": 21304,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-18",
@@ -17444,10 +19613,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orge64dada",
+"ref": "org34c903c",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 19164
+"post-affiliated": 21324
 },
 "contents": []
 }
@@ -17456,7 +19625,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgbb7930b",
+"ref": "orgd8830a0",
 "drawer": {
 
 },
@@ -17467,19 +19636,19 @@ null,
 "level": 2,
 "priority": null,
 "tags": [],
-"todo-keyword": "TODO",
-"todo-type": "todo",
+"todo-keyword": "DONE",
+"todo-type": "done",
 "post-blank": 0,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 19219,
-"deadline": {
+"post-affiliated": 21379,
+"scheduled": {
 "$$data_type": "timestamp",
-"start": "2022-12-07",
-"end": "2022-12-07",
+"start": "2022-12-06",
+"end": "2022-12-06",
 "type": "active",
-"raw-value": "<2022-12-07 Wed>",
+"raw-value": "<2022-12-06 Tue>",
 "repeater": {
 "type": null,
 "unit": null,
@@ -17491,12 +19660,12 @@ null,
 "value": null
 }
 },
-"scheduled": {
+"deadline": {
 "$$data_type": "timestamp",
-"start": "2022-11-15",
-"end": "2022-11-15",
+"start": "2022-12-07",
+"end": "2022-12-07",
 "type": "active",
-"raw-value": "<2022-11-15 Tue>",
+"raw-value": "<2022-12-07 Wed>",
 "repeater": {
 "type": null,
 "unit": null,
@@ -17516,10 +19685,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org5285b5d",
+"ref": "org02cbd24",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 19234
+"post-affiliated": 21394
 },
 "contents": []
 }
@@ -17528,134 +19697,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgedbdfd1",
-"drawer": {
-
-},
-"properties": {
-"tags-all": [],
-"raw-value": "Scheme",
-"pre-blank": 0,
-"level": 2,
-"priority": null,
-"tags": [],
-"todo-keyword": "TODO",
-"todo-type": "todo",
-"post-blank": 0,
-"footnote-section-p": false,
-"archivedp": false,
-"commentedp": false,
-"post-affiliated": 19289,
-"deadline": {
-"$$data_type": "timestamp",
-"start": "2022-12-08",
-"end": "2022-12-08",
-"type": "active",
-"raw-value": "<2022-12-08 Thu>",
-"repeater": {
-"type": null,
-"unit": null,
-"value": null
-},
-"warning": {
-"type": null,
-"unit": null,
-"value": null
-}
-},
-"scheduled": {
-"$$data_type": "timestamp",
-"start": "2022-11-17",
-"end": "2022-11-17",
-"type": "active",
-"raw-value": "<2022-11-17 Thu>",
-"repeater": {
-"type": null,
-"unit": null,
-"value": null
-},
-"warning": {
-"type": null,
-"unit": null,
-"value": null
-}
-},
-"title": [
-"Scheme"
-]
-},
-"contents": [
-{
-"$$data_type": "org-node",
-"type": "section",
-"ref": "org902b98f",
-"properties": {
-"post-blank": 0,
-"post-affiliated": 19304
-},
-"contents": []
-}
-]
-},
-{
-"$$data_type": "org-node",
-"type": "headline",
-"ref": "org7cc494f",
-"drawer": {
-
-},
-"properties": {
-"tags-all": [],
-"raw-value": "Homework 8",
-"pre-blank": 0,
-"level": 2,
-"priority": null,
-"tags": [],
-"todo-keyword": "TODO",
-"todo-type": "todo",
-"post-blank": 0,
-"footnote-section-p": false,
-"archivedp": false,
-"commentedp": false,
-"post-affiliated": 19359,
-"scheduled": {
-"$$data_type": "timestamp",
-"start": "2022-11-17",
-"end": "2022-11-17",
-"type": "active",
-"raw-value": "<2022-11-17 Thu>",
-"repeater": {
-"type": null,
-"unit": null,
-"value": null
-},
-"warning": {
-"type": null,
-"unit": null,
-"value": null
-}
-},
-"title": [
-"Homework 8"
-]
-},
-"contents": [
-{
-"$$data_type": "org-node",
-"type": "section",
-"ref": "orga1a92dc",
-"properties": {
-"post-blank": 0,
-"post-affiliated": 19378
-},
-"contents": []
-}
-]
-},
-{
-"$$data_type": "org-node",
-"type": "headline",
-"ref": "org49cb047",
+"ref": "orgc2fc194",
 "drawer": {
 
 },
@@ -17666,19 +19708,19 @@ null,
 "level": 2,
 "priority": null,
 "tags": [],
-"todo-keyword": "TODO",
-"todo-type": "todo",
+"todo-keyword": "DONE",
+"todo-type": "done",
 "post-blank": 0,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 19406,
+"post-affiliated": 21449,
 "scheduled": {
 "$$data_type": "timestamp",
-"start": "2022-11-17",
-"end": "2022-11-17",
+"start": "2022-12-06",
+"end": "2022-12-06",
 "type": "active",
-"raw-value": "<2022-11-17 Thu>",
+"raw-value": "<2022-12-06 Tue>",
 "repeater": {
 "type": null,
 "unit": null,
@@ -17698,10 +19740,82 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgc3029fb",
+"ref": "org4d01a66",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 19425
+"post-affiliated": 21468
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org292c68e",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "HW08",
+"pre-blank": 0,
+"level": 2,
+"priority": 65,
+"tags": [],
+"todo-keyword": "DONE",
+"todo-type": "done",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 21496,
+"deadline": {
+"$$data_type": "timestamp",
+"start": "2022-11-22",
+"end": "2022-11-22",
+"type": "active",
+"raw-value": "<2022-11-22 Tue>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-11-21",
+"end": "2022-11-21",
+"type": "active",
+"raw-value": "<2022-11-21 Mon>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"HW08"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "orgc69037c",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 21514
 },
 "contents": []
 }
@@ -17712,7 +19826,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgabfe0f1",
+"ref": "org730c687",
 "drawer": {
 "CATEGORY": "REL-C-200"
 },
@@ -17729,7 +19843,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 19453,
+"post-affiliated": 21569,
 "title": [
 "REL C 200"
 ]
@@ -17738,17 +19852,17 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org71d5bdd",
+"ref": "org9727c0f",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 19465
+"post-affiliated": 21581
 },
 "contents": []
 },
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org8d1c0bb",
+"ref": "org78dd73b",
 "drawer": {
 
 },
@@ -17767,7 +19881,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 19505,
+"post-affiliated": 21621,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-08-28",
@@ -17793,10 +19907,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orga52dbd4",
+"ref": "orgdd2232b",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 19575
+"post-affiliated": 21691
 },
 "contents": []
 }
@@ -17805,7 +19919,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgcebc220",
+"ref": "org41c9ae3",
 "drawer": {
 
 },
@@ -17824,7 +19938,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 19603,
+"post-affiliated": 21719,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-04",
@@ -17867,10 +19981,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org0f7d501",
+"ref": "orgd0713a6",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 19670
+"post-affiliated": 21786
 },
 "contents": []
 }
@@ -17879,7 +19993,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgc963186",
+"ref": "orgd535647",
 "drawer": {
 
 },
@@ -17898,7 +20012,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 19725,
+"post-affiliated": 21841,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-04",
@@ -17941,10 +20055,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org2b43d34",
+"ref": "org7bdf38c",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 19792
+"post-affiliated": 21908
 },
 "contents": []
 }
@@ -17953,7 +20067,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org8a2a43d",
+"ref": "org471d222",
 "drawer": {
 
 },
@@ -17972,7 +20086,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 19847,
+"post-affiliated": 21963,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-08-30",
@@ -18015,10 +20129,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgd4fd9e1",
+"ref": "org35636d3",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 19914
+"post-affiliated": 22030
 },
 "contents": []
 }
@@ -18027,7 +20141,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org2eb9a0d",
+"ref": "orgbfeeaf8",
 "drawer": {
 
 },
@@ -18044,7 +20158,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 19969,
+"post-affiliated": 22085,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-06",
@@ -18087,10 +20201,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgec74eba",
+"ref": "orgd5cb3fc",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 19981
+"post-affiliated": 22097
 },
 "contents": []
 }
@@ -18099,7 +20213,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgf00b2b5",
+"ref": "org5918d8e",
 "drawer": {
 
 },
@@ -18116,7 +20230,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 20036,
+"post-affiliated": 22152,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-04",
@@ -18159,10 +20273,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org000b3db",
+"ref": "org85a67bf",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 20056
+"post-affiliated": 22172
 },
 "contents": []
 }
@@ -18171,7 +20285,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org86fbe6d",
+"ref": "org560d82b",
 "drawer": {
 
 },
@@ -18188,7 +20302,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 20111,
+"post-affiliated": 22227,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-05",
@@ -18231,10 +20345,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org6eddb2e",
+"ref": "org0453884",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 20143
+"post-affiliated": 22259
 },
 "contents": []
 }
@@ -18243,7 +20357,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org9c223be",
+"ref": "org25f98cc",
 "drawer": {
 
 },
@@ -18260,7 +20374,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 20198,
+"post-affiliated": 22314,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-13",
@@ -18303,10 +20417,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org6af2403",
+"ref": "orgea78701",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 20210
+"post-affiliated": 22326
 },
 "contents": []
 }
@@ -18315,7 +20429,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org534abfa",
+"ref": "orgc5545d7",
 "drawer": {
 
 },
@@ -18332,7 +20446,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 20265,
+"post-affiliated": 22381,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-11",
@@ -18375,10 +20489,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org187c965",
+"ref": "orgfee0ca7",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 20285
+"post-affiliated": 22401
 },
 "contents": []
 }
@@ -18387,7 +20501,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org48d1d72",
+"ref": "org46a179c",
 "drawer": {
 
 },
@@ -18404,7 +20518,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 20340,
+"post-affiliated": 22456,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-13",
@@ -18430,10 +20544,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org5732393",
+"ref": "orga32b735",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 20372
+"post-affiliated": 22488
 },
 "contents": []
 }
@@ -18442,7 +20556,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org50f0015",
+"ref": "orgdea6cdb",
 "drawer": {
 
 },
@@ -18459,7 +20573,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 20400,
+"post-affiliated": 22516,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-09-18",
@@ -18502,10 +20616,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org624838e",
+"ref": "orge3ea9df",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 20420
+"post-affiliated": 22536
 },
 "contents": []
 }
@@ -18514,7 +20628,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org08ae9fa",
+"ref": "org89d02f9",
 "drawer": {
 
 },
@@ -18531,7 +20645,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 20475,
+"post-affiliated": 22591,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-20",
@@ -18574,10 +20688,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgae3f922",
+"ref": "org8917262",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 20487
+"post-affiliated": 22603
 },
 "contents": []
 }
@@ -18586,7 +20700,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgd77ee5e",
+"ref": "orgb7adff5",
 "drawer": {
 
 },
@@ -18603,7 +20717,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 20542,
+"post-affiliated": 22658,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-09-26",
@@ -18646,10 +20760,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org2390295",
+"ref": "org0c771db",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 20562
+"post-affiliated": 22678
 },
 "contents": []
 }
@@ -18658,7 +20772,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org208f8a4",
+"ref": "orgd8eaf13",
 "drawer": {
 
 },
@@ -18675,7 +20789,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 20617,
+"post-affiliated": 22733,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-09-27",
@@ -18718,10 +20832,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org29a123a",
+"ref": "orgf2a3b15",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 20629
+"post-affiliated": 22745
 },
 "contents": []
 }
@@ -18730,7 +20844,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org1803339",
+"ref": "org7d18e46",
 "drawer": {
 
 },
@@ -18747,7 +20861,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 20684,
+"post-affiliated": 22800,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-27",
@@ -18790,10 +20904,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orga4ed122",
+"ref": "orgc3e9228",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 20714
+"post-affiliated": 22830
 },
 "contents": []
 }
@@ -18802,7 +20916,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org4a33555",
+"ref": "orgc9d9354",
 "drawer": {
 
 },
@@ -18811,21 +20925,38 @@ null,
 "raw-value": "Course Project",
 "pre-blank": 0,
 "level": 2,
-"priority": 67,
+"priority": 65,
 "tags": [],
-"todo-keyword": "TODO",
-"todo-type": "todo",
+"todo-keyword": "DONE",
+"todo-type": "done",
 "post-blank": 0,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 20769,
+"post-affiliated": 22885,
 "scheduled": {
 "$$data_type": "timestamp",
-"start": "2022-11-12",
-"end": "2022-11-12",
+"start": "2022-11-30",
+"end": "2022-11-30",
 "type": "active",
-"raw-value": "<2022-11-12 Sat>",
+"raw-value": "<2022-11-30 Wed>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"deadline": {
+"$$data_type": "timestamp",
+"start": "2022-12-02",
+"end": "2022-12-02",
+"type": "active",
+"raw-value": "<2022-12-02 Fri>",
 "repeater": {
 "type": null,
 "unit": null,
@@ -18845,10 +20976,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgacfea93",
+"ref": "org7721dda",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 20797
+"post-affiliated": 22913
 },
 "contents": []
 }
@@ -18857,7 +20988,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org848a258",
+"ref": "org9ffe3b3",
 "drawer": {
 
 },
@@ -18874,7 +21005,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 20825,
+"post-affiliated": 22968,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-04",
@@ -18917,10 +21048,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgfb5de01",
+"ref": "orgbd3cdd8",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 20842
+"post-affiliated": 22985
 },
 "contents": []
 }
@@ -18929,7 +21060,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org82bf4fb",
+"ref": "org1d86c35",
 "drawer": {
 
 },
@@ -18946,7 +21077,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 20897,
+"post-affiliated": 23040,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-10-05",
@@ -18989,10 +21120,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orga510e7f",
+"ref": "org8038d49",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 20935
+"post-affiliated": 23078
 },
 "contents": []
 }
@@ -19001,7 +21132,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgfe7d205",
+"ref": "orgd29b65a",
 "drawer": {
 
 },
@@ -19018,7 +21149,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 20990,
+"post-affiliated": 23133,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-08",
@@ -19061,10 +21192,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org4f0d851",
+"ref": "org9d4cd66",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 21010
+"post-affiliated": 23153
 },
 "contents": []
 }
@@ -19073,7 +21204,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgdda6b83",
+"ref": "org5163733",
 "drawer": {
 
 },
@@ -19090,7 +21221,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 21065,
+"post-affiliated": 23208,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-08",
@@ -19133,10 +21264,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orga8e1043",
+"ref": "org4c4a7a1",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 21101
+"post-affiliated": 23244
 },
 "contents": []
 }
@@ -19145,7 +21276,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orge99e21e",
+"ref": "orgb082ad5",
 "drawer": {
 
 },
@@ -19162,7 +21293,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 21156,
+"post-affiliated": 23299,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-10-02",
@@ -19205,10 +21336,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgbb1ef9c",
+"ref": "org074cd6c",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 21181
+"post-affiliated": 23324
 },
 "contents": []
 }
@@ -19217,7 +21348,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org876ba66",
+"ref": "orge7a5fdf",
 "drawer": {
 
 },
@@ -19234,7 +21365,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 21236,
+"post-affiliated": 23379,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-04",
@@ -19260,10 +21391,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org975a64c",
+"ref": "orga7700f7",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 21277
+"post-affiliated": 23420
 },
 "contents": []
 }
@@ -19272,7 +21403,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgb50a482",
+"ref": "org9acef05",
 "drawer": {
 
 },
@@ -19289,7 +21420,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 21305,
+"post-affiliated": 23448,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-10-09",
@@ -19332,10 +21463,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org2b7dbd6",
+"ref": "org3aeb4ba",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 21330
+"post-affiliated": 23473
 },
 "contents": []
 }
@@ -19344,7 +21475,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org4407f32",
+"ref": "org361f383",
 "drawer": {
 
 },
@@ -19361,7 +21492,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 21385,
+"post-affiliated": 23528,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-11",
@@ -19404,10 +21535,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org79027ad",
+"ref": "orgb76d818",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 21402
+"post-affiliated": 23545
 },
 "contents": []
 }
@@ -19416,7 +21547,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgb362737",
+"ref": "orgf43f664",
 "drawer": {
 
 },
@@ -19433,7 +21564,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 21457,
+"post-affiliated": 23600,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-10",
@@ -19476,10 +21607,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org4aafc76",
+"ref": "orgc33cd2c",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 21501
+"post-affiliated": 23644
 },
 "contents": []
 }
@@ -19488,7 +21619,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org32c16a3",
+"ref": "org205de6e",
 "drawer": {
 
 },
@@ -19505,7 +21636,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 21556,
+"post-affiliated": 23699,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-10-19",
@@ -19548,10 +21679,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org8be15db",
+"ref": "org3e3bc26",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 21573
+"post-affiliated": 23716
 },
 "contents": []
 }
@@ -19560,7 +21691,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orge590f34",
+"ref": "orgca8350b",
 "drawer": {
 
 },
@@ -19577,7 +21708,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 21628,
+"post-affiliated": 23771,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-10-26",
@@ -19620,10 +21751,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org619cf9a",
+"ref": "orgc496f8d",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 21645
+"post-affiliated": 23788
 },
 "contents": []
 }
@@ -19632,7 +21763,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org9053ba9",
+"ref": "orgb8744f5",
 "drawer": {
 
 },
@@ -19649,7 +21780,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 21700,
+"post-affiliated": 23843,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-02",
@@ -19692,10 +21823,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org66bb76b",
+"ref": "orgda5a81e",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 21717
+"post-affiliated": 23860
 },
 "contents": []
 }
@@ -19704,7 +21835,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orga60aa6c",
+"ref": "org26324d6",
 "drawer": {
 
 },
@@ -19721,7 +21852,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 21772,
+"post-affiliated": 23915,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-11-01",
@@ -19764,10 +21895,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org1c43663",
+"ref": "org49bd317",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 21797
+"post-affiliated": 23940
 },
 "contents": []
 }
@@ -19776,7 +21907,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgcdeb259",
+"ref": "orgca62fb0",
 "drawer": {
 
 },
@@ -19793,7 +21924,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 21852,
+"post-affiliated": 23995,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-08",
@@ -19836,10 +21967,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org00ddf62",
+"ref": "org732e329",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 21877
+"post-affiliated": 24020
 },
 "contents": []
 }
@@ -19848,7 +21979,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgfac7d05",
+"ref": "org7c29794",
 "drawer": {
 
 },
@@ -19865,7 +21996,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 21932,
+"post-affiliated": 24075,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-09",
@@ -19908,10 +22039,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org8042a70",
+"ref": "org7c00a9e",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 21949
+"post-affiliated": 24092
 },
 "contents": []
 }
@@ -19920,7 +22051,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org6f1639f",
+"ref": "org2744773",
 "drawer": {
 
 },
@@ -19937,7 +22068,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 22004,
+"post-affiliated": 24147,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-11-12",
@@ -19980,10 +22111,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgedc7890",
+"ref": "org9e5e418",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 22027
+"post-affiliated": 24170
 },
 "contents": []
 }
@@ -19992,7 +22123,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org1de4b07",
+"ref": "org90da6e8",
 "drawer": {
 
 },
@@ -20003,13 +22134,13 @@ null,
 "level": 2,
 "priority": 65,
 "tags": [],
-"todo-keyword": "TODO",
-"todo-type": "todo",
+"todo-keyword": "DONE",
+"todo-type": "done",
 "post-blank": 0,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 22082,
+"post-affiliated": 24225,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-14",
@@ -20052,10 +22183,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgc37213a",
+"ref": "org4d6927f",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 22118
+"post-affiliated": 24261
 },
 "contents": []
 }
@@ -20064,7 +22195,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org3b1c79d",
+"ref": "org6b71648",
 "drawer": {
 
 },
@@ -20075,13 +22206,13 @@ null,
 "level": 2,
 "priority": 66,
 "tags": [],
-"todo-keyword": "TODO",
-"todo-type": "todo",
+"todo-keyword": "DONE",
+"todo-type": "done",
 "post-blank": 0,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 22173,
+"post-affiliated": 24316,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-15",
@@ -20124,10 +22255,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org499fc75",
+"ref": "org07a5323",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 22198
+"post-affiliated": 24341
 },
 "contents": []
 }
@@ -20136,7 +22267,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org225c9a8",
+"ref": "orgc5b4189",
 "drawer": {
 
 },
@@ -20145,15 +22276,15 @@ null,
 "raw-value": "PSE",
 "pre-blank": 0,
 "level": 2,
-"priority": null,
+"priority": 65,
 "tags": [],
-"todo-keyword": "TODO",
-"todo-type": "todo",
+"todo-keyword": "DONE",
+"todo-type": "done",
 "post-blank": 0,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 22253,
+"post-affiliated": 24396,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-16",
@@ -20196,10 +22327,353 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org048dc46",
+"ref": "org028d945",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 22265
+"post-affiliated": 24413
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "orgfed46b7",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "PSEs",
+"pre-blank": 0,
+"level": 2,
+"priority": 67,
+"tags": [],
+"todo-keyword": "DONE",
+"todo-type": "done",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 24468,
+"deadline": {
+"$$data_type": "timestamp",
+"start": "2022-11-30",
+"end": "2022-11-30",
+"type": "active",
+"raw-value": "<2022-11-30 Wed>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-11-29",
+"end": "2022-11-29",
+"type": "active",
+"raw-value": "<2022-11-29 Tue>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"PSEs"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org82f4784",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 24486
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "orgf6923c2",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Preparation",
+"pre-blank": 0,
+"level": 2,
+"priority": 67,
+"tags": [],
+"todo-keyword": "DONE",
+"todo-type": "done",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 24541,
+"deadline": {
+"$$data_type": "timestamp",
+"start": "2022-11-29",
+"end": "2022-11-29",
+"type": "active",
+"raw-value": "<2022-11-29 Tue>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-11-28",
+"end": "2022-11-28",
+"type": "active",
+"raw-value": "<2022-11-28 Mon>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"Preparation"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org4c72777",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 24566
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "orgac3f0a9",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Do ALL extra credit activities due to massive screw up",
+"pre-blank": 0,
+"level": 2,
+"priority": 65,
+"tags": [],
+"todo-keyword": "DONE",
+"todo-type": "done",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 24621,
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-12-02",
+"end": "2022-12-02",
+"type": "active",
+"raw-value": "<2022-12-02 Fri>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"Do ALL extra credit activities due to massive screw up"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "orgbbb4eba",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 24689
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org03b1dc5",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Preparation",
+"pre-blank": 0,
+"level": 2,
+"priority": null,
+"tags": [],
+"todo-keyword": "DONE",
+"todo-type": "done",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 24717,
+"deadline": {
+"$$data_type": "timestamp",
+"start": "2022-12-06",
+"end": "2022-12-06",
+"type": "active",
+"raw-value": "<2022-12-06 Tue>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-12-06",
+"end": "2022-12-06",
+"type": "active",
+"raw-value": "<2022-12-06 Tue>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"Preparation"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org80f7be1",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 24737
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org2c74894",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "PSEs",
+"pre-blank": 0,
+"level": 2,
+"priority": null,
+"tags": [],
+"todo-keyword": "DONE",
+"todo-type": "done",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 24792,
+"deadline": {
+"$$data_type": "timestamp",
+"start": "2022-12-07",
+"end": "2022-12-07",
+"type": "active",
+"raw-value": "<2022-12-07 Wed>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-12-07",
+"end": "2022-12-07",
+"type": "active",
+"raw-value": "<2022-12-07 Wed>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"PSEs"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "orge3c3e57",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 24805
 },
 "contents": []
 }
@@ -20210,7 +22684,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org35e2e12",
+"ref": "org9957fd8",
 "drawer": {
 "CATEGORY": "PHSCS-123"
 },
@@ -20227,7 +22701,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 22320,
+"post-affiliated": 24860,
 "title": [
 "PHSCS 123"
 ]
@@ -20236,17 +22710,17 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orge6880ac",
+"ref": "orgbf1d29f",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 22332
+"post-affiliated": 24872
 },
 "contents": []
 },
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org63b3a6f",
+"ref": "orgadc0342",
 "drawer": {
 
 },
@@ -20263,7 +22737,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 22372,
+"post-affiliated": 24912,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-08-26",
@@ -20289,10 +22763,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org5aeaadc",
+"ref": "org2d8432a",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 22393
+"post-affiliated": 24933
 },
 "contents": []
 }
@@ -20301,7 +22775,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org30b0fea",
+"ref": "orga9dac96",
 "drawer": {
 
 },
@@ -20320,7 +22794,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 22421,
+"post-affiliated": 24961,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-08-28",
@@ -20346,10 +22820,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgff60efb",
+"ref": "orga2e5f11",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 22491
+"post-affiliated": 25031
 },
 "contents": []
 }
@@ -20358,7 +22832,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org70e6b09",
+"ref": "orgbebad17",
 "drawer": {
 
 },
@@ -20377,7 +22851,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 22519,
+"post-affiliated": 25059,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-08-29",
@@ -20420,10 +22894,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org1807aa3",
+"ref": "org7ab4141",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 22586
+"post-affiliated": 25126
 },
 "contents": []
 }
@@ -20432,7 +22906,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgfb36730",
+"ref": "org85dedd5",
 "drawer": {
 
 },
@@ -20451,7 +22925,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 22647,
+"post-affiliated": 25187,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-08-29",
@@ -20494,10 +22968,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org40f639f",
+"ref": "org85c3d9e",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 22718
+"post-affiliated": 25258
 },
 "contents": []
 }
@@ -20506,7 +22980,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgd7f3703",
+"ref": "org8c785a7",
 "drawer": {
 
 },
@@ -20525,7 +22999,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 22773,
+"post-affiliated": 25313,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-08-30",
@@ -20568,10 +23042,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org18a84c0",
+"ref": "org4724a5a",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 22840
+"post-affiliated": 25380
 },
 "contents": []
 }
@@ -20580,7 +23054,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgad34d11",
+"ref": "orgb78ada4",
 "drawer": {
 
 },
@@ -20599,7 +23073,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 22901,
+"post-affiliated": 25441,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-01",
@@ -20642,10 +23116,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orge29bbfd",
+"ref": "org092c83c",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 22968
+"post-affiliated": 25508
 },
 "contents": []
 }
@@ -20654,7 +23128,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org15026d7",
+"ref": "org0b4b989",
 "drawer": {
 
 },
@@ -20673,7 +23147,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 23029,
+"post-affiliated": 25569,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-08-30",
@@ -20716,10 +23190,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org0799764",
+"ref": "org6e8de5d",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 23099
+"post-affiliated": 25639
 },
 "contents": []
 }
@@ -20728,7 +23202,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org530c8ea",
+"ref": "org0d1a6a5",
 "drawer": {
 
 },
@@ -20747,7 +23221,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 23154,
+"post-affiliated": 25694,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-01",
@@ -20790,10 +23264,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgc2c546a",
+"ref": "org751f4fc",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 23224
+"post-affiliated": 25764
 },
 "contents": []
 }
@@ -20802,7 +23276,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org1e5cb5d",
+"ref": "org8cb5f45",
 "drawer": {
 
 },
@@ -20819,7 +23293,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 23279,
+"post-affiliated": 25819,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-08-31",
@@ -20845,10 +23319,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgac3dcaf",
+"ref": "orgc8f5ad1",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 23310
+"post-affiliated": 25850
 },
 "contents": []
 }
@@ -20857,7 +23331,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org2f91ad0",
+"ref": "org0fcaeb3",
 "drawer": {
 
 },
@@ -20876,7 +23350,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 23338,
+"post-affiliated": 25878,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-02",
@@ -20902,10 +23376,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orge68bb2a",
+"ref": "org240e268",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 23408
+"post-affiliated": 25948
 },
 "contents": []
 }
@@ -20914,7 +23388,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org2dfadb6",
+"ref": "org1ce0734",
 "drawer": {
 
 },
@@ -20931,7 +23405,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 23436,
+"post-affiliated": 25976,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-06",
@@ -20974,10 +23448,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orga8e4123",
+"ref": "org0fbdadf",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 23455
+"post-affiliated": 25995
 },
 "contents": []
 }
@@ -20986,7 +23460,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org377a1b0",
+"ref": "org9f605a2",
 "drawer": {
 
 },
@@ -21003,7 +23477,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 23510,
+"post-affiliated": 26050,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-05",
@@ -21046,10 +23520,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org692467d",
+"ref": "org40aa1ea",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 23527
+"post-affiliated": 26067
 },
 "contents": []
 }
@@ -21058,7 +23532,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org1080c8a",
+"ref": "org43962d1",
 "drawer": {
 
 },
@@ -21075,7 +23549,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 23582,
+"post-affiliated": 26122,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-07",
@@ -21118,10 +23592,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org464ef52",
+"ref": "orge567f60",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 23599
+"post-affiliated": 26139
 },
 "contents": []
 }
@@ -21130,7 +23604,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org00c4a55",
+"ref": "org551d0ba",
 "drawer": {
 
 },
@@ -21147,7 +23621,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 23654,
+"post-affiliated": 26194,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-09",
@@ -21173,10 +23647,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org54583f7",
+"ref": "org84e0be7",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 23673
+"post-affiliated": 26213
 },
 "contents": []
 }
@@ -21185,7 +23659,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgac917ca",
+"ref": "org960af20",
 "drawer": {
 
 },
@@ -21202,7 +23676,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 23701,
+"post-affiliated": 26241,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-07",
@@ -21245,10 +23719,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org5922244",
+"ref": "org709873a",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 23728
+"post-affiliated": 26268
 },
 "contents": []
 }
@@ -21257,7 +23731,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgb582f6d",
+"ref": "orgb20aa68",
 "drawer": {
 
 },
@@ -21274,7 +23748,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 23783,
+"post-affiliated": 26323,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-09",
@@ -21317,10 +23791,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org3c50639",
+"ref": "orgd39ccc3",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 23803
+"post-affiliated": 26343
 },
 "contents": []
 }
@@ -21329,7 +23803,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgdb880e9",
+"ref": "org42cbd5e",
 "drawer": {
 
 },
@@ -21346,7 +23820,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 23858,
+"post-affiliated": 26398,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-09",
@@ -21389,10 +23863,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org23c44a8",
+"ref": "org3b3e13e",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 23875
+"post-affiliated": 26415
 },
 "contents": []
 }
@@ -21401,7 +23875,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org6b70105",
+"ref": "orgac964fb",
 "drawer": {
 
 },
@@ -21418,7 +23892,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 23930,
+"post-affiliated": 26470,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-09",
@@ -21461,10 +23935,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orga7ed48d",
+"ref": "org118d876",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 23949
+"post-affiliated": 26489
 },
 "contents": []
 }
@@ -21473,7 +23947,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org72bb548",
+"ref": "orga2d5395",
 "drawer": {
 
 },
@@ -21490,7 +23964,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 24004,
+"post-affiliated": 26544,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-13",
@@ -21533,10 +24007,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgf6fb4d3",
+"ref": "org1bba76e",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 24023
+"post-affiliated": 26563
 },
 "contents": []
 }
@@ -21545,7 +24019,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgb55bce8",
+"ref": "org58b21e0",
 "drawer": {
 
 },
@@ -21562,7 +24036,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 24078,
+"post-affiliated": 26618,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-14",
@@ -21605,10 +24079,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orge432908",
+"ref": "org2e3455c",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 24109
+"post-affiliated": 26649
 },
 "contents": []
 }
@@ -21617,7 +24091,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgb96ec4d",
+"ref": "org6fa7619",
 "drawer": {
 
 },
@@ -21634,7 +24108,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 24164,
+"post-affiliated": 26704,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-14",
@@ -21677,10 +24151,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgb3b0d29",
+"ref": "org1b96cd2",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 24186
+"post-affiliated": 26726
 },
 "contents": []
 }
@@ -21689,7 +24163,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org7a99c6a",
+"ref": "org58c14ef",
 "drawer": {
 
 },
@@ -21706,7 +24180,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 24241,
+"post-affiliated": 26781,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-09-09",
@@ -21749,10 +24223,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org2318f45",
+"ref": "org1360921",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 24255
+"post-affiliated": 26795
 },
 "contents": []
 }
@@ -21761,7 +24235,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org9a99361",
+"ref": "org637935a",
 "drawer": {
 
 },
@@ -21778,7 +24252,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 24310,
+"post-affiliated": 26850,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-15",
@@ -21821,10 +24295,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org84aaeef",
+"ref": "org38e847c",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 24330
+"post-affiliated": 26870
 },
 "contents": []
 }
@@ -21833,7 +24307,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org501e2b3",
+"ref": "org6a52cde",
 "drawer": {
 
 },
@@ -21850,7 +24324,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 24385,
+"post-affiliated": 26925,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-14",
@@ -21876,10 +24350,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org21fe98c",
+"ref": "org796999e",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 24407
+"post-affiliated": 26947
 },
 "contents": []
 }
@@ -21888,7 +24362,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgfab9abd",
+"ref": "org2701b22",
 "drawer": {
 
 },
@@ -21905,7 +24379,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 24435,
+"post-affiliated": 26975,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-09-18",
@@ -21948,10 +24422,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgd9f36ce",
+"ref": "org72450e7",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 24452
+"post-affiliated": 26992
 },
 "contents": []
 }
@@ -21960,7 +24434,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org023ded9",
+"ref": "org74d56f6",
 "drawer": {
 
 },
@@ -21977,7 +24451,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 24507,
+"post-affiliated": 27047,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-09-18",
@@ -22020,10 +24494,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgb773a70",
+"ref": "orge004514",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 24526
+"post-affiliated": 27066
 },
 "contents": []
 }
@@ -22032,7 +24506,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org335a090",
+"ref": "org92c5e6d",
 "drawer": {
 
 },
@@ -22049,7 +24523,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 24581,
+"post-affiliated": 27121,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-19",
@@ -22092,10 +24566,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org033746d",
+"ref": "orgb6c7388",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 24599
+"post-affiliated": 27139
 },
 "contents": []
 }
@@ -22104,7 +24578,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org98818c7",
+"ref": "org22070d0",
 "drawer": {
 
 },
@@ -22121,7 +24595,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 24654,
+"post-affiliated": 27194,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-20",
@@ -22164,10 +24638,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgb03ce39",
+"ref": "orgfd1ea2a",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 24673
+"post-affiliated": 27213
 },
 "contents": []
 }
@@ -22176,7 +24650,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org01d7fc9",
+"ref": "org8bc842e",
 "drawer": {
 
 },
@@ -22193,7 +24667,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 24728,
+"post-affiliated": 27268,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-19",
@@ -22236,10 +24710,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org3f01cab",
+"ref": "orgc02cd4a",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 24750
+"post-affiliated": 27290
 },
 "contents": []
 }
@@ -22248,7 +24722,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org587c43f",
+"ref": "org5673409",
 "drawer": {
 
 },
@@ -22265,7 +24739,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 24805,
+"post-affiliated": 27345,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-21",
@@ -22308,10 +24782,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgfe85731",
+"ref": "orga8f1d1a",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 24823
+"post-affiliated": 27363
 },
 "contents": []
 }
@@ -22320,7 +24794,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orge12aeea",
+"ref": "orgeca721a",
 "drawer": {
 
 },
@@ -22337,7 +24811,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 24878,
+"post-affiliated": 27418,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-21",
@@ -22380,10 +24854,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org58fd0d7",
+"ref": "orgf7f1cd1",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 24900
+"post-affiliated": 27440
 },
 "contents": []
 }
@@ -22392,7 +24866,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgeac5ef0",
+"ref": "orgb7e9d57",
 "drawer": {
 
 },
@@ -22409,7 +24883,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 24955,
+"post-affiliated": 27495,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-22",
@@ -22452,10 +24926,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgfb38546",
+"ref": "org9d8657f",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 24975
+"post-affiliated": 27515
 },
 "contents": []
 }
@@ -22464,7 +24938,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org485ecf7",
+"ref": "orga79aac5",
 "drawer": {
 
 },
@@ -22481,7 +24955,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 25030,
+"post-affiliated": 27570,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-23",
@@ -22524,10 +24998,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgba5e013",
+"ref": "orgcacdea4",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 25044
+"post-affiliated": 27584
 },
 "contents": []
 }
@@ -22536,7 +25010,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgcd12020",
+"ref": "org8ebbe98",
 "drawer": {
 
 },
@@ -22553,7 +25027,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 25099,
+"post-affiliated": 27639,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-24",
@@ -22596,10 +25070,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org922e877",
+"ref": "orgd556de1",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 25129
+"post-affiliated": 27669
 },
 "contents": []
 }
@@ -22608,7 +25082,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org3cefbf6",
+"ref": "org15c4254",
 "drawer": {
 
 },
@@ -22625,7 +25099,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 25184,
+"post-affiliated": 27724,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-24",
@@ -22668,10 +25142,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgf3de40a",
+"ref": "org3423767",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 25204
+"post-affiliated": 27744
 },
 "contents": []
 }
@@ -22680,7 +25154,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org20e75cc",
+"ref": "org58b6ea8",
 "drawer": {
 
 },
@@ -22697,7 +25171,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 25259,
+"post-affiliated": 27799,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-27",
@@ -22740,10 +25214,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgee90468",
+"ref": "orgf7c2395",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 25283
+"post-affiliated": 27823
 },
 "contents": []
 }
@@ -22752,7 +25226,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgae8754d",
+"ref": "orge518623",
 "drawer": {
 
 },
@@ -22769,7 +25243,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 25338,
+"post-affiliated": 27878,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-29",
@@ -22812,10 +25286,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgbe73295",
+"ref": "orga024e8c",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 25367
+"post-affiliated": 27907
 },
 "contents": []
 }
@@ -22824,7 +25298,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org4113359",
+"ref": "org489dcb4",
 "drawer": {
 
 },
@@ -22841,7 +25315,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 25422,
+"post-affiliated": 27962,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-27",
@@ -22884,10 +25358,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org5454697",
+"ref": "org9de4e1c",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 25442
+"post-affiliated": 27982
 },
 "contents": []
 }
@@ -22896,7 +25370,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org27add85",
+"ref": "orgeb67820",
 "drawer": {
 
 },
@@ -22913,7 +25387,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 25497,
+"post-affiliated": 28037,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-29",
@@ -22956,10 +25430,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgd1d46a2",
+"ref": "orge4ec92d",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 25522
+"post-affiliated": 28062
 },
 "contents": []
 }
@@ -22968,7 +25442,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org88be2b8",
+"ref": "org090a721",
 "drawer": {
 
 },
@@ -22985,7 +25459,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 25577,
+"post-affiliated": 28117,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-09-30",
@@ -23028,10 +25502,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgb36f7f9",
+"ref": "orgfa5cdde",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 25606
+"post-affiliated": 28146
 },
 "contents": []
 }
@@ -23040,7 +25514,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgf0b4da2",
+"ref": "orgf9a0c28",
 "drawer": {
 
 },
@@ -23057,7 +25531,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 25661,
+"post-affiliated": 28201,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-10-02",
@@ -23100,10 +25574,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgf89f0b0",
+"ref": "orga510fad",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 25684
+"post-affiliated": 28224
 },
 "contents": []
 }
@@ -23112,7 +25586,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org4bfac6d",
+"ref": "org9210ed4",
 "drawer": {
 
 },
@@ -23129,7 +25603,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 25739,
+"post-affiliated": 28279,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-04",
@@ -23172,10 +25646,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org1b3d30e",
+"ref": "org7cbc844",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 25762
+"post-affiliated": 28302
 },
 "contents": []
 }
@@ -23184,7 +25658,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgba367f2",
+"ref": "org0bd7c7e",
 "drawer": {
 
 },
@@ -23201,7 +25675,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 25817,
+"post-affiliated": 28357,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-03",
@@ -23244,10 +25718,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org56e2cd6",
+"ref": "org4038d13",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 25844
+"post-affiliated": 28384
 },
 "contents": []
 }
@@ -23256,7 +25730,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgca818a9",
+"ref": "org6c88748",
 "drawer": {
 
 },
@@ -23273,7 +25747,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 25899,
+"post-affiliated": 28439,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-05",
@@ -23316,10 +25790,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orged9d1d4",
+"ref": "org56b9856",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 25922
+"post-affiliated": 28462
 },
 "contents": []
 }
@@ -23328,7 +25802,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org6195b6f",
+"ref": "orga6a1868",
 "drawer": {
 
 },
@@ -23345,7 +25819,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 25977,
+"post-affiliated": 28517,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-06",
@@ -23388,10 +25862,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org29c0392",
+"ref": "org5178555",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 26002
+"post-affiliated": 28542
 },
 "contents": []
 }
@@ -23400,7 +25874,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org28159a4",
+"ref": "org127368a",
 "drawer": {
 
 },
@@ -23417,7 +25891,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 26057,
+"post-affiliated": 28597,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-02",
@@ -23460,10 +25934,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgfe59b09",
+"ref": "org2d9d377",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 26082
+"post-affiliated": 28622
 },
 "contents": []
 }
@@ -23472,7 +25946,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orga6fa48e",
+"ref": "orge2a2403",
 "drawer": {
 
 },
@@ -23489,7 +25963,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 26137,
+"post-affiliated": 28677,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-06",
@@ -23515,10 +25989,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org0e71225",
+"ref": "org1e35119",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 26163
+"post-affiliated": 28703
 },
 "contents": []
 }
@@ -23527,7 +26001,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org0e25861",
+"ref": "orga381e29",
 "drawer": {
 
 },
@@ -23544,7 +26018,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 26191,
+"post-affiliated": 28731,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-10-09",
@@ -23587,10 +26061,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org180378d",
+"ref": "orgb961636",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 26214
+"post-affiliated": 28754
 },
 "contents": []
 }
@@ -23599,7 +26073,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgcb19bc9",
+"ref": "orgcbcc76c",
 "drawer": {
 
 },
@@ -23616,7 +26090,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 26269,
+"post-affiliated": 28809,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-10",
@@ -23659,10 +26133,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgccdc4a1",
+"ref": "orgb175c84",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 26294
+"post-affiliated": 28834
 },
 "contents": []
 }
@@ -23671,7 +26145,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org97783e5",
+"ref": "org4bce0e1",
 "drawer": {
 
 },
@@ -23688,7 +26162,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 26349,
+"post-affiliated": 28889,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-11",
@@ -23731,10 +26205,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgfa5d506",
+"ref": "orgd7d7067",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 26372
+"post-affiliated": 28912
 },
 "contents": []
 }
@@ -23743,7 +26217,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgb612015",
+"ref": "orga509eb4",
 "drawer": {
 
 },
@@ -23760,7 +26234,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 26427,
+"post-affiliated": 28967,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-11",
@@ -23803,10 +26277,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org62738cd",
+"ref": "org9db154e",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 26452
+"post-affiliated": 28992
 },
 "contents": []
 }
@@ -23815,7 +26289,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org0dbd7bb",
+"ref": "orge0c9662",
 "drawer": {
 
 },
@@ -23832,7 +26306,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 26507,
+"post-affiliated": 29047,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-13",
@@ -23875,10 +26349,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org27f2a03",
+"ref": "orgec2768c",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 26530
+"post-affiliated": 29070
 },
 "contents": []
 }
@@ -23887,7 +26361,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org2f2b368",
+"ref": "orge2d2a7e",
 "drawer": {
 
 },
@@ -23904,7 +26378,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 26585,
+"post-affiliated": 29125,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-13",
@@ -23947,10 +26421,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org9994c70",
+"ref": "org491074a",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 26610
+"post-affiliated": 29150
 },
 "contents": []
 }
@@ -23959,7 +26433,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org04edde1",
+"ref": "orga6ddc14",
 "drawer": {
 
 },
@@ -23976,7 +26450,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 26665,
+"post-affiliated": 29205,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-13",
@@ -24019,10 +26493,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org07851c9",
+"ref": "orgb5bcf62",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 26684
+"post-affiliated": 29224
 },
 "contents": []
 }
@@ -24031,7 +26505,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org75c805a",
+"ref": "org83b6b61",
 "drawer": {
 
 },
@@ -24048,7 +26522,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 26739,
+"post-affiliated": 29279,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-14T17:00:00",
@@ -24074,10 +26548,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org06f776c",
+"ref": "orga46df19",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 26776
+"post-affiliated": 29316
 },
 "contents": []
 }
@@ -24086,7 +26560,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org8fc08fd",
+"ref": "orgf699841",
 "drawer": {
 
 },
@@ -24103,7 +26577,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 26810,
+"post-affiliated": 29350,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-10-16",
@@ -24146,10 +26620,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgcbd3104",
+"ref": "orgaa03337",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 26828
+"post-affiliated": 29368
 },
 "contents": []
 }
@@ -24158,7 +26632,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org465a6c3",
+"ref": "org75d7290",
 "drawer": {
 
 },
@@ -24175,7 +26649,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 26883,
+"post-affiliated": 29423,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-17",
@@ -24218,10 +26692,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orge131fdb",
+"ref": "org9efdeba",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 26908
+"post-affiliated": 29448
 },
 "contents": []
 }
@@ -24230,7 +26704,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org785813b",
+"ref": "orgf147ea1",
 "drawer": {
 
 },
@@ -24247,7 +26721,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 26963,
+"post-affiliated": 29503,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-18",
@@ -24290,10 +26764,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org7af871c",
+"ref": "orgac01dc9",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 26986
+"post-affiliated": 29526
 },
 "contents": []
 }
@@ -24302,7 +26776,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org6c5e72b",
+"ref": "orgcedda83",
 "drawer": {
 
 },
@@ -24319,7 +26793,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 27041,
+"post-affiliated": 29581,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-18",
@@ -24362,10 +26836,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgde306cc",
+"ref": "org811e6db",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 27066
+"post-affiliated": 29606
 },
 "contents": []
 }
@@ -24374,7 +26848,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org1c14f34",
+"ref": "org0b87c12",
 "drawer": {
 
 },
@@ -24391,7 +26865,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 27121,
+"post-affiliated": 29661,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-20",
@@ -24434,10 +26908,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org3b8dabd",
+"ref": "org32c90b0",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 27144
+"post-affiliated": 29684
 },
 "contents": []
 }
@@ -24446,7 +26920,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgf6c44ef",
+"ref": "org582593e",
 "drawer": {
 
 },
@@ -24463,7 +26937,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 27199,
+"post-affiliated": 29739,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-20",
@@ -24506,10 +26980,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org13c9ccb",
+"ref": "orge03ee1f",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 27218
+"post-affiliated": 29758
 },
 "contents": []
 }
@@ -24518,7 +26992,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org2cb51fc",
+"ref": "org83ed5c3",
 "drawer": {
 
 },
@@ -24535,7 +27009,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 27273,
+"post-affiliated": 29813,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-10-24",
@@ -24578,10 +27052,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org1270b80",
+"ref": "org4b5eef9",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 27299
+"post-affiliated": 29839
 },
 "contents": []
 }
@@ -24590,7 +27064,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org123fac4",
+"ref": "orge822676",
 "drawer": {
 
 },
@@ -24607,7 +27081,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 27354,
+"post-affiliated": 29894,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-10-25",
@@ -24650,10 +27124,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org53e4222",
+"ref": "org074fd1a",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 27377
+"post-affiliated": 29917
 },
 "contents": []
 }
@@ -24662,7 +27136,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org1c6259f",
+"ref": "org78dca2c",
 "drawer": {
 
 },
@@ -24679,7 +27153,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 27432,
+"post-affiliated": 29972,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-26",
@@ -24722,10 +27196,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org91008a9",
+"ref": "org27f10a9",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 27457
+"post-affiliated": 29997
 },
 "contents": []
 }
@@ -24734,7 +27208,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgdaed873",
+"ref": "org6d8d754",
 "drawer": {
 
 },
@@ -24751,7 +27225,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 27512,
+"post-affiliated": 30052,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-10-27",
@@ -24794,10 +27268,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org3d9f2e3",
+"ref": "org9323479",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 27535
+"post-affiliated": 30075
 },
 "contents": []
 }
@@ -24806,7 +27280,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org98d5017",
+"ref": "org51bed2b",
 "drawer": {
 
 },
@@ -24823,7 +27297,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 27590,
+"post-affiliated": 30130,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-10-28",
@@ -24866,10 +27340,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org130ec69",
+"ref": "orgfa339a5",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 27615
+"post-affiliated": 30155
 },
 "contents": []
 }
@@ -24878,7 +27352,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgfeed0cf",
+"ref": "orge00bed0",
 "drawer": {
 
 },
@@ -24895,7 +27369,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 27670,
+"post-affiliated": 30210,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-10-28",
@@ -24938,10 +27412,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org51ffefd",
+"ref": "orge500a20",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 27684
+"post-affiliated": 30224
 },
 "contents": []
 }
@@ -24950,7 +27424,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgef7b2ed",
+"ref": "org0a876c8",
 "drawer": {
 
 },
@@ -24967,7 +27441,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 27739,
+"post-affiliated": 30279,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-11-03",
@@ -25010,10 +27484,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgceaab2b",
+"ref": "orgccf0e43",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 27753
+"post-affiliated": 30293
 },
 "contents": []
 }
@@ -25022,7 +27496,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgee9436c",
+"ref": "org59cbd0f",
 "drawer": {
 
 },
@@ -25039,7 +27513,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 27808,
+"post-affiliated": 30348,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-10-30",
@@ -25082,10 +27556,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org97a7095",
+"ref": "orgf0ee82b",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 27831
+"post-affiliated": 30371
 },
 "contents": []
 }
@@ -25094,7 +27568,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgaa51ffb",
+"ref": "orge9b8382",
 "drawer": {
 
 },
@@ -25111,7 +27585,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 27886,
+"post-affiliated": 30426,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-01",
@@ -25154,10 +27628,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org8494101",
+"ref": "org6b8194a",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 27911
+"post-affiliated": 30451
 },
 "contents": []
 }
@@ -25166,7 +27640,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orga6b12c9",
+"ref": "orgcc186b8",
 "drawer": {
 
 },
@@ -25183,7 +27657,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 27966,
+"post-affiliated": 30506,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-02",
@@ -25226,10 +27700,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgdde662b",
+"ref": "org49f0059",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 27991
+"post-affiliated": 30531
 },
 "contents": []
 }
@@ -25238,7 +27712,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgb1b3f5c",
+"ref": "org030a7d0",
 "drawer": {
 
 },
@@ -25255,7 +27729,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 28046,
+"post-affiliated": 30586,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-01",
@@ -25298,10 +27772,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgc01b62e",
+"ref": "org9427c29",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 28069
+"post-affiliated": 30609
 },
 "contents": []
 }
@@ -25310,7 +27784,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgddab051",
+"ref": "org4e261b3",
 "drawer": {
 
 },
@@ -25327,7 +27801,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 28124,
+"post-affiliated": 30664,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-03",
@@ -25370,10 +27844,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgb5e667a",
+"ref": "org5026fb0",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 28147
+"post-affiliated": 30687
 },
 "contents": []
 }
@@ -25382,7 +27856,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org48f86d5",
+"ref": "orgc70f446",
 "drawer": {
 
 },
@@ -25399,7 +27873,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 28202,
+"post-affiliated": 30742,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-07",
@@ -25442,10 +27916,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org6abfbf7",
+"ref": "org19f77ba",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 28222
+"post-affiliated": 30762
 },
 "contents": []
 }
@@ -25454,7 +27928,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org054d8a1",
+"ref": "org173a8c7",
 "drawer": {
 
 },
@@ -25471,7 +27945,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 28277,
+"post-affiliated": 30817,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-07",
@@ -25514,10 +27988,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org611db03",
+"ref": "org239356d",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 28301
+"post-affiliated": 30841
 },
 "contents": []
 }
@@ -25526,7 +28000,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org2a26412",
+"ref": "orga9f6393",
 "drawer": {
 
 },
@@ -25543,7 +28017,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 28356,
+"post-affiliated": 30896,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-07",
@@ -25586,10 +28060,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org00ed200",
+"ref": "org8ebec76",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 28379
+"post-affiliated": 30919
 },
 "contents": []
 }
@@ -25598,7 +28072,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org1dc8ba9",
+"ref": "org257d2ca",
 "drawer": {
 
 },
@@ -25615,7 +28089,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 28434,
+"post-affiliated": 30974,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-07",
@@ -25658,10 +28132,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgdecf9c8",
+"ref": "org102fec2",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 28459
+"post-affiliated": 30999
 },
 "contents": []
 }
@@ -25670,7 +28144,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgb9439fc",
+"ref": "orgfc7acdc",
 "drawer": {
 
 },
@@ -25687,7 +28161,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 28514,
+"post-affiliated": 31054,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-08",
@@ -25730,10 +28204,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgeaf7301",
+"ref": "org9970a47",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 28537
+"post-affiliated": 31077
 },
 "contents": []
 }
@@ -25742,7 +28216,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orga7e9eab",
+"ref": "orge180f87",
 "drawer": {
 
 },
@@ -25759,7 +28233,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 28592,
+"post-affiliated": 31132,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-09",
@@ -25802,10 +28276,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org45fd16a",
+"ref": "orgde18c54",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 28617
+"post-affiliated": 31157
 },
 "contents": []
 }
@@ -25814,7 +28288,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orga86bcd1",
+"ref": "org1b01975",
 "drawer": {
 
 },
@@ -25831,7 +28305,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 28672,
+"post-affiliated": 31212,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-10",
@@ -25874,10 +28348,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgba871b0",
+"ref": "org24a73b3",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 28695
+"post-affiliated": 31235
 },
 "contents": []
 }
@@ -25886,7 +28360,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org32c6f8c",
+"ref": "org32f4592",
 "drawer": {
 
 },
@@ -25903,7 +28377,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 28750,
+"post-affiliated": 31290,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-11",
@@ -25946,10 +28420,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org786386f",
+"ref": "org05366b1",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 28775
+"post-affiliated": 31315
 },
 "contents": []
 }
@@ -25958,7 +28432,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgfd1095e",
+"ref": "org93cc165",
 "drawer": {
 
 },
@@ -25975,7 +28449,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 28830,
+"post-affiliated": 31370,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-11",
@@ -26018,10 +28492,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgd8ed4bf",
+"ref": "orgdc53fb8",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 28849
+"post-affiliated": 31389
 },
 "contents": []
 }
@@ -26030,7 +28504,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgd71bdc9",
+"ref": "org48a3b53",
 "drawer": {
 
 },
@@ -26047,7 +28521,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 28904,
+"post-affiliated": 31444,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-14",
@@ -26090,10 +28564,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org599a46b",
+"ref": "org59b40c1",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 28922
+"post-affiliated": 31462
 },
 "contents": []
 }
@@ -26102,7 +28576,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org5c37172",
+"ref": "orgef3c006",
 "drawer": {
 
 },
@@ -26113,13 +28587,13 @@ null,
 "level": 2,
 "priority": 65,
 "tags": [],
-"todo-keyword": "TODO",
-"todo-type": "todo",
+"todo-keyword": "DONE",
+"todo-type": "done",
 "post-blank": 0,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 28977,
+"post-affiliated": 31517,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-15",
@@ -26162,10 +28636,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgf7739df",
+"ref": "orgb6788a6",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 29002
+"post-affiliated": 31542
 },
 "contents": []
 }
@@ -26174,7 +28648,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org69f1879",
+"ref": "org23a356a",
 "drawer": {
 
 },
@@ -26183,15 +28657,15 @@ null,
 "raw-value": "Warmup 34",
 "pre-blank": 0,
 "level": 2,
-"priority": null,
+"priority": 65,
 "tags": [],
-"todo-keyword": "TODO",
-"todo-type": "todo",
+"todo-keyword": "DONE",
+"todo-type": "done",
 "post-blank": 0,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 29057,
+"post-affiliated": 31597,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-15",
@@ -26234,10 +28708,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgb9c2001",
+"ref": "org605bf40",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 29075
+"post-affiliated": 31620
 },
 "contents": []
 }
@@ -26246,7 +28720,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org79da426",
+"ref": "org2867eb2",
 "drawer": {
 
 },
@@ -26255,15 +28729,15 @@ null,
 "raw-value": "Homework 33",
 "pre-blank": 0,
 "level": 2,
-"priority": null,
+"priority": 65,
 "tags": [],
-"todo-keyword": "TODO",
-"todo-type": "todo",
+"todo-keyword": "DONE",
+"todo-type": "done",
 "post-blank": 0,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 29130,
+"post-affiliated": 31675,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-16",
@@ -26306,10 +28780,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org4cac9cc",
+"ref": "org4efe570",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 29150
+"post-affiliated": 31700
 },
 "contents": []
 }
@@ -26318,7 +28792,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org8a08bb3",
+"ref": "org358a9f1",
 "drawer": {
 
 },
@@ -26327,15 +28801,15 @@ null,
 "raw-value": "Warmup 35",
 "pre-blank": 0,
 "level": 2,
-"priority": null,
+"priority": 65,
 "tags": [],
-"todo-keyword": "TODO",
-"todo-type": "todo",
+"todo-keyword": "DONE",
+"todo-type": "done",
 "post-blank": 0,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 29205,
+"post-affiliated": 31755,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-17",
@@ -26378,10 +28852,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org048b97d",
+"ref": "org5662ddb",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 29223
+"post-affiliated": 31778
 },
 "contents": []
 }
@@ -26390,7 +28864,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org0f7dc59",
+"ref": "org36c197b",
 "drawer": {
 
 },
@@ -26399,15 +28873,15 @@ null,
 "raw-value": "Homework 34",
 "pre-blank": 0,
 "level": 2,
-"priority": null,
+"priority": 65,
 "tags": [],
-"todo-keyword": "TODO",
-"todo-type": "todo",
+"todo-keyword": "DONE",
+"todo-type": "done",
 "post-blank": 0,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 29278,
+"post-affiliated": 31833,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-18",
@@ -26450,10 +28924,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgbbd2899",
+"ref": "orge2746c3",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 29298
+"post-affiliated": 31858
 },
 "contents": []
 }
@@ -26462,7 +28936,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgb509fc8",
+"ref": "org7ee2dd6",
 "drawer": {
 
 },
@@ -26471,15 +28945,15 @@ null,
 "raw-value": "Lab 8",
 "pre-blank": 0,
 "level": 2,
-"priority": null,
+"priority": 65,
 "tags": [],
-"todo-keyword": "TODO",
-"todo-type": "todo",
+"todo-keyword": "DONE",
+"todo-type": "done",
 "post-blank": 0,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 29353,
+"post-affiliated": 31913,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-11-18",
@@ -26522,10 +28996,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orge72566e",
+"ref": "org23fd865",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 29367
+"post-affiliated": 31932
 },
 "contents": []
 }
@@ -26534,30 +29008,30 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgd134b92",
+"ref": "orgda55d31",
 "drawer": {
 
 },
 "properties": {
 "tags-all": [],
-"raw-value": "Lab 9",
+"raw-value": "Homework 36",
 "pre-blank": 0,
 "level": 2,
-"priority": null,
+"priority": 65,
 "tags": [],
-"todo-keyword": "TODO",
-"todo-type": "todo",
+"todo-keyword": "DONE",
+"todo-type": "done",
 "post-blank": 0,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 29422,
-"scheduled": {
+"post-affiliated": 31987,
+"deadline": {
 "$$data_type": "timestamp",
-"start": "2022-11-17",
-"end": "2022-11-17",
+"start": "2022-11-23",
+"end": "2022-11-23",
 "type": "active",
-"raw-value": "<2022-11-17 Thu>",
+"raw-value": "<2022-11-23 Wed>",
 "repeater": {
 "type": null,
 "unit": null,
@@ -26569,12 +29043,444 @@ null,
 "value": null
 }
 },
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-11-21",
+"end": "2022-11-21",
+"type": "active",
+"raw-value": "<2022-11-21 Mon>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"Homework 36"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org9564999",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 32012
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org9cabbed",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Warmup 37",
+"pre-blank": 0,
+"level": 2,
+"priority": 65,
+"tags": [],
+"todo-keyword": "DONE",
+"todo-type": "done",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 32067,
 "deadline": {
 "$$data_type": "timestamp",
-"start": "2022-11-22",
-"end": "2022-11-22",
+"start": "2022-11-21",
+"end": "2022-11-21",
 "type": "active",
-"raw-value": "<2022-11-22 Tue>",
+"raw-value": "<2022-11-21 Mon>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-11-21",
+"end": "2022-11-21",
+"type": "active",
+"raw-value": "<2022-11-21 Mon>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"Warmup 37"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org3f1f054",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 32090
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org2ebead0",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Warmup 38",
+"pre-blank": 0,
+"level": 2,
+"priority": null,
+"tags": [],
+"todo-keyword": "DONE",
+"todo-type": "done",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 32145,
+"deadline": {
+"$$data_type": "timestamp",
+"start": "2022-11-27",
+"end": "2022-11-27",
+"type": "active",
+"raw-value": "<2022-11-27 Sun>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-11-27",
+"end": "2022-11-27",
+"type": "active",
+"raw-value": "<2022-11-27 Sun>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"Warmup 38"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "orga6587c5",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 32163
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org3de518a",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Homework 37",
+"pre-blank": 0,
+"level": 2,
+"priority": 65,
+"tags": [],
+"todo-keyword": "DONE",
+"todo-type": "done",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 32218,
+"deadline": {
+"$$data_type": "timestamp",
+"start": "2022-11-28",
+"end": "2022-11-28",
+"type": "active",
+"raw-value": "<2022-11-28 Mon>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-11-28",
+"end": "2022-11-28",
+"type": "active",
+"raw-value": "<2022-11-28 Mon>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"Homework 37"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org7d4cb71",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 32243
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org78282c7",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Warmup 39",
+"pre-blank": 0,
+"level": 2,
+"priority": 66,
+"tags": [],
+"todo-keyword": "DONE",
+"todo-type": "done",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 32298,
+"deadline": {
+"$$data_type": "timestamp",
+"start": "2022-11-29",
+"end": "2022-11-29",
+"type": "active",
+"raw-value": "<2022-11-29 Tue>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-11-29",
+"end": "2022-11-29",
+"type": "active",
+"raw-value": "<2022-11-29 Tue>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"Warmup 39"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org8282cc1",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 32321
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "orgfaae161",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Homework 38",
+"pre-blank": 0,
+"level": 2,
+"priority": 65,
+"tags": [],
+"todo-keyword": "DONE",
+"todo-type": "done",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 32376,
+"deadline": {
+"$$data_type": "timestamp",
+"start": "2022-11-30",
+"end": "2022-11-30",
+"type": "active",
+"raw-value": "<2022-11-30 Wed>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-11-30",
+"end": "2022-11-30",
+"type": "active",
+"raw-value": "<2022-11-30 Wed>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"Homework 38"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "orgf535a2b",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 32401
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org34d82d3",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Lab 9",
+"pre-blank": 0,
+"level": 2,
+"priority": 65,
+"tags": [],
+"todo-keyword": "DONE",
+"todo-type": "done",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 32456,
+"deadline": {
+"$$data_type": "timestamp",
+"start": "2022-11-30",
+"end": "2022-11-30",
+"type": "active",
+"raw-value": "<2022-11-30 Wed>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-11-29",
+"end": "2022-11-29",
+"type": "active",
+"raw-value": "<2022-11-29 Tue>",
 "repeater": {
 "type": null,
 "unit": null,
@@ -26594,10 +29500,442 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org23e8425",
+"ref": "org4a16f1b",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 29436
+"post-affiliated": 32475
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org6131f9a",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Warmup 40",
+"pre-blank": 0,
+"level": 2,
+"priority": 65,
+"tags": [],
+"todo-keyword": "DONE",
+"todo-type": "done",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 32530,
+"deadline": {
+"$$data_type": "timestamp",
+"start": "2022-12-01",
+"end": "2022-12-01",
+"type": "active",
+"raw-value": "<2022-12-01 Thu>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-12-01",
+"end": "2022-12-01",
+"type": "active",
+"raw-value": "<2022-12-01 Thu>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"Warmup 40"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org33d37e3",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 32553
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org801a576",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Homework 39",
+"pre-blank": 0,
+"level": 2,
+"priority": 65,
+"tags": [],
+"todo-keyword": "DONE",
+"todo-type": "done",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 32608,
+"deadline": {
+"$$data_type": "timestamp",
+"start": "2022-12-02",
+"end": "2022-12-02",
+"type": "active",
+"raw-value": "<2022-12-02 Fri>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-12-02",
+"end": "2022-12-02",
+"type": "active",
+"raw-value": "<2022-12-02 Fri>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"Homework 39"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org0ad1aca",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 32633
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "orge5c5306",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Ask about exam",
+"pre-blank": 0,
+"level": 2,
+"priority": 65,
+"tags": [],
+"todo-keyword": "DONE",
+"todo-type": "done",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 32688,
+"deadline": {
+"$$data_type": "timestamp",
+"start": "2022-12-01",
+"end": "2022-12-01",
+"type": "active",
+"raw-value": "<2022-12-01 Thu>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-12-01",
+"end": "2022-12-01",
+"type": "active",
+"raw-value": "<2022-12-01 Thu>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"Ask about exam"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org0b169db",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 32716
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org2354404",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Warmup 41",
+"pre-blank": 0,
+"level": 2,
+"priority": null,
+"tags": [],
+"todo-keyword": "DONE",
+"todo-type": "done",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 32771,
+"deadline": {
+"$$data_type": "timestamp",
+"start": "2022-12-05",
+"end": "2022-12-05",
+"type": "active",
+"raw-value": "<2022-12-05 Mon>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-12-05",
+"end": "2022-12-05",
+"type": "active",
+"raw-value": "<2022-12-05 Mon>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"Warmup 41"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org2bcb2e5",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 32789
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org6a88094",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Homework 40",
+"pre-blank": 0,
+"level": 2,
+"priority": null,
+"tags": [],
+"todo-keyword": "DONE",
+"todo-type": "done",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 32844,
+"deadline": {
+"$$data_type": "timestamp",
+"start": "2022-12-05",
+"end": "2022-12-05",
+"type": "active",
+"raw-value": "<2022-12-05 Mon>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-12-05",
+"end": "2022-12-05",
+"type": "active",
+"raw-value": "<2022-12-05 Mon>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"Homework 40"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org80bbb04",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 32864
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "orgccb545c",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Exam 4",
+"pre-blank": 0,
+"level": 2,
+"priority": 65,
+"tags": [],
+"todo-keyword": "DONE",
+"todo-type": "done",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 32919,
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-12-05",
+"end": "2022-12-05",
+"type": "active",
+"raw-value": "<2022-12-05 Mon>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"deadline": {
+"$$data_type": "timestamp",
+"start": "2022-12-08",
+"end": "2022-12-08",
+"type": "active",
+"raw-value": "<2022-12-08 Thu>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"Exam 4"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org1f21f86",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 32939
 },
 "contents": []
 }
@@ -26608,7 +29946,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgb49ccb3",
+"ref": "org9dcda84",
 "drawer": {
 "CATEGORY": "PHSCS-191"
 },
@@ -26625,7 +29963,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 29491,
+"post-affiliated": 32994,
 "title": [
 "PHSCS 191"
 ]
@@ -26634,17 +29972,17 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org74f0a33",
+"ref": "orgbdbee0a",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 29503
+"post-affiliated": 33006
 },
 "contents": []
 },
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orge59a4fa",
+"ref": "org59674f0",
 "drawer": {
 
 },
@@ -26661,7 +29999,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 29543,
+"post-affiliated": 33046,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-27T17:00:00",
@@ -26687,10 +30025,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgfb97412",
+"ref": "org96a94e5",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 29566
+"post-affiliated": 33069
 },
 "contents": []
 }
@@ -26699,7 +30037,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org1386f10",
+"ref": "org66d88b9",
 "drawer": {
 
 },
@@ -26716,7 +30054,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 29600,
+"post-affiliated": 33103,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-02T12:00:00",
@@ -26742,10 +30080,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org21060e9",
+"ref": "org541b063",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 29627
+"post-affiliated": 33130
 },
 "contents": []
 }
@@ -26754,7 +30092,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgcd2bcd9",
+"ref": "orgef1f5ce",
 "drawer": {
 
 },
@@ -26771,7 +30109,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 29661,
+"post-affiliated": 33164,
 "title": [
 "Student Social"
 ]
@@ -26780,25 +30118,25 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org07f1f6f",
+"ref": "org5ab7d61",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 29679
+"post-affiliated": 33182
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org14e0026",
+"ref": "org7fe9548",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 29679
+"post-affiliated": 33182
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "timestamp",
-"ref": "org74bc7c3",
+"ref": "org4151613",
 "properties": {
 "type": "active",
 "raw-value": "<2022-09-15 Thu 19:00>",
@@ -26818,7 +30156,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orga7b2c32",
+"ref": "org31d2bfd",
 "drawer": {
 
 },
@@ -26835,7 +30173,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 29702,
+"post-affiliated": 33205,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-04",
@@ -26861,10 +30199,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org98cf611",
+"ref": "org04d37bf",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 29721
+"post-affiliated": 33224
 },
 "contents": []
 }
@@ -26873,7 +30211,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org732d206",
+"ref": "org842804a",
 "drawer": {
 
 },
@@ -26890,7 +30228,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 29749,
+"post-affiliated": 33252,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-05",
@@ -26916,10 +30254,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org4c16634",
+"ref": "org31a3ac1",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 29800
+"post-affiliated": 33303
 },
 "contents": []
 }
@@ -26928,7 +30266,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgc751218",
+"ref": "org0e49e23",
 "drawer": {
 
 },
@@ -26945,7 +30283,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 29828,
+"post-affiliated": 33331,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-03",
@@ -26971,10 +30309,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org95dda6c",
+"ref": "orgdd8a9ee",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 29847
+"post-affiliated": 33350
 },
 "contents": []
 }
@@ -26983,7 +30321,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org7443f37",
+"ref": "orgf4796b7",
 "drawer": {
 
 },
@@ -27000,7 +30338,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 29875,
+"post-affiliated": 33378,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-09-13",
@@ -27043,10 +30381,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orga1827ea",
+"ref": "orgcfe38d3",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 29894
+"post-affiliated": 33397
 },
 "contents": []
 }
@@ -27055,7 +30393,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org976ef9b",
+"ref": "org49254bb",
 "drawer": {
 
 },
@@ -27072,7 +30410,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 29949,
+"post-affiliated": 33452,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-19",
@@ -27115,10 +30453,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgb447d24",
+"ref": "org5eb403c",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 29962
+"post-affiliated": 33465
 },
 "contents": []
 }
@@ -27127,7 +30465,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orga5a5cc0",
+"ref": "orgc0d8fd9",
 "drawer": {
 
 },
@@ -27144,7 +30482,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 30017,
+"post-affiliated": 33520,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-09-26",
@@ -27187,10 +30525,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org3c40939",
+"ref": "org8ac6498",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 30030
+"post-affiliated": 33533
 },
 "contents": []
 }
@@ -27199,7 +30537,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org7185ae9",
+"ref": "org3effab3",
 "drawer": {
 
 },
@@ -27216,7 +30554,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 30085,
+"post-affiliated": 33588,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-02",
@@ -27259,10 +30597,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org69917d0",
+"ref": "org02588b2",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 30109
+"post-affiliated": 33612
 },
 "contents": []
 }
@@ -27271,7 +30609,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgf6aff10",
+"ref": "org47580f1",
 "drawer": {
 
 },
@@ -27288,7 +30626,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 30164,
+"post-affiliated": 33667,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-09",
@@ -27331,10 +30669,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org4ee7cf8",
+"ref": "org3acc125",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 30183
+"post-affiliated": 33686
 },
 "contents": []
 }
@@ -27343,7 +30681,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org6a3da39",
+"ref": "org7188dfc",
 "drawer": {
 
 },
@@ -27360,7 +30698,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 30238,
+"post-affiliated": 33741,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-09",
@@ -27403,10 +30741,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orge332302",
+"ref": "org43c0033",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 30255
+"post-affiliated": 33758
 },
 "contents": []
 }
@@ -27415,7 +30753,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org93471c9",
+"ref": "org977fe36",
 "drawer": {
 
 },
@@ -27432,7 +30770,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 30310,
+"post-affiliated": 33813,
 "deadline": {
 "$$data_type": "timestamp",
 "start": "2022-10-17",
@@ -27475,10 +30813,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgfc002dc",
+"ref": "org4d0f39f",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 30332
+"post-affiliated": 33835
 },
 "contents": []
 }
@@ -27489,7 +30827,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org2705ef7",
+"ref": "org9458425",
 "drawer": {
 "CATEGORY": "Work"
 },
@@ -27506,7 +30844,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 30387,
+"post-affiliated": 33890,
 "title": [
 "Work"
 ]
@@ -27515,17 +30853,17 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org2108494",
+"ref": "org6fe8f93",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 30394
+"post-affiliated": 33897
 },
 "contents": []
 },
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgf810c71",
+"ref": "orgd76d981",
 "drawer": {
 
 },
@@ -27542,7 +30880,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 30429,
+"post-affiliated": 33932,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-08-27",
@@ -27568,10 +30906,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orga513c9b",
+"ref": "org64d0cf6",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 30455
+"post-affiliated": 33958
 },
 "contents": []
 }
@@ -27582,7 +30920,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orga58b604",
+"ref": "org4c21406",
 "drawer": {
 
 },
@@ -27599,7 +30937,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 30483,
+"post-affiliated": 33986,
 "title": [
 "Emacs"
 ]
@@ -27609,7 +30947,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org3ea1bba",
+"ref": "org6e452de",
 "drawer": {
 "CATEGORY": "Research"
 },
@@ -27626,7 +30964,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 30491,
+"post-affiliated": 33994,
 "title": [
 "Research"
 ]
@@ -27635,17 +30973,17 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org60482d2",
+"ref": "org5bceb71",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 30502
+"post-affiliated": 34005
 },
 "contents": []
 },
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orge840241",
+"ref": "org9e0dd01",
 "drawer": {
 
 },
@@ -27664,7 +31002,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 30541,
+"post-affiliated": 34044,
 "title": [
 "Research meeting"
 ]
@@ -27673,25 +31011,25 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org1318bbb",
+"ref": "org1601b75",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 30611
+"post-affiliated": 34114
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org12ad2fb",
+"ref": "org691869e",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 30611
+"post-affiliated": 34114
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "timestamp",
-"ref": "orgc663998",
+"ref": "org4e2dda4",
 "properties": {
 "type": "active",
 "raw-value": "<2022-07-28 Thu 15:30>",
@@ -27711,7 +31049,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org311059f",
+"ref": "org8c00e6f",
 "drawer": {
 
 },
@@ -27730,7 +31068,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 30634,
+"post-affiliated": 34137,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-13",
@@ -27756,10 +31094,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org45e80f9",
+"ref": "org0352cd4",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 30704
+"post-affiliated": 34207
 },
 "contents": []
 }
@@ -27768,7 +31106,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgcea3712",
+"ref": "org3c2cc2b",
 "drawer": {
 
 },
@@ -27787,7 +31125,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 30732,
+"post-affiliated": 34235,
 "title": [
 "P. Boizelle Research"
 ]
@@ -27796,25 +31134,25 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org3fac5b3",
+"ref": "orgb780fb9",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 30802
+"post-affiliated": 34305
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orge25824d",
+"ref": "org22b6e0b",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 30802
+"post-affiliated": 34305
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "timestamp",
-"ref": "org2237e98",
+"ref": "org787f2e3",
 "properties": {
 "type": "active",
 "raw-value": "<2022-09-29 Thu 18:00>",
@@ -27834,7 +31172,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgfbd7ad6",
+"ref": "org5238c41",
 "drawer": {
 
 },
@@ -27853,7 +31191,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 30825,
+"post-affiliated": 34328,
 "title": [
 "P. Boizelle Research"
 ]
@@ -27862,25 +31200,25 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgd00a5c3",
+"ref": "orgeb275d3",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 30895
+"post-affiliated": 34398
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orgf9fa3ab",
+"ref": "org9dcf7bd",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 30895
+"post-affiliated": 34398
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "timestamp",
-"ref": "orge5d1bfe",
+"ref": "orgf09727f",
 "properties": {
 "type": "active",
 "raw-value": "<2022-10-27 Thu 18:00>",
@@ -27900,7 +31238,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgbdc8bc0",
+"ref": "orgac42aa1",
 "drawer": {
 
 },
@@ -27919,7 +31257,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 30918,
+"post-affiliated": 34421,
 "title": [
 "P. Boizelle Research"
 ]
@@ -27928,25 +31266,25 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org02ae8ae",
+"ref": "org46c7ab4",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 30988
+"post-affiliated": 34491
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org8c68b0b",
+"ref": "orge209dd2",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 30988
+"post-affiliated": 34491
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "timestamp",
-"ref": "org78843f9",
+"ref": "orge621996",
 "properties": {
 "type": "active",
 "raw-value": "<2022-12-01 Thu 18:00>",
@@ -27966,7 +31304,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgd2c50a7",
+"ref": "org342a2ba",
 "drawer": {
 
 },
@@ -27985,7 +31323,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 31011,
+"post-affiliated": 34514,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-17",
@@ -28011,10 +31349,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orge7e8c10",
+"ref": "org2f74db9",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 31081
+"post-affiliated": 34584
 },
 "contents": []
 }
@@ -28023,7 +31361,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org5632ea8",
+"ref": "org4ef194d",
 "drawer": {
 
 },
@@ -28042,7 +31380,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 31109,
+"post-affiliated": 34612,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-01",
@@ -28085,10 +31423,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org48aa544",
+"ref": "orgd996592",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 31179
+"post-affiliated": 34682
 },
 "contents": []
 }
@@ -28097,7 +31435,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orga8cd9de",
+"ref": "orgee47ec0",
 "drawer": {
 
 },
@@ -28116,7 +31454,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 31234,
+"post-affiliated": 34737,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-09-29T15:00:00",
@@ -28142,10 +31480,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgbbe5f31",
+"ref": "org7f2f479",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 31304
+"post-affiliated": 34807
 },
 "contents": []
 }
@@ -28154,7 +31492,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org91748d8",
+"ref": "org60c7a98",
 "drawer": {
 
 },
@@ -28173,7 +31511,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 31338,
+"post-affiliated": 34841,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-03",
@@ -28199,10 +31537,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org2629faf",
+"ref": "org0b46542",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 31408
+"post-affiliated": 34911
 },
 "contents": []
 }
@@ -28211,7 +31549,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org5af73b3",
+"ref": "org2500867",
 "drawer": {
 
 },
@@ -28230,7 +31568,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 31436,
+"post-affiliated": 34939,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-04",
@@ -28256,10 +31594,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org89015c6",
+"ref": "orge9cd626",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 31506
+"post-affiliated": 35009
 },
 "contents": []
 }
@@ -28268,7 +31606,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org958bbc3",
+"ref": "org60a31f9",
 "drawer": {
 
 },
@@ -28287,7 +31625,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 31534,
+"post-affiliated": 35037,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-05",
@@ -28313,10 +31651,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org7827abb",
+"ref": "org6d8e451",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 31604
+"post-affiliated": 35107
 },
 "contents": []
 }
@@ -28325,7 +31663,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orga9152c6",
+"ref": "orge32a61a",
 "drawer": {
 
 },
@@ -28344,7 +31682,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 31632,
+"post-affiliated": 35135,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-06",
@@ -28370,10 +31708,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org0bbca4d",
+"ref": "org0fd7b35",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 31702
+"post-affiliated": 35205
 },
 "contents": []
 }
@@ -28382,7 +31720,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org32c0477",
+"ref": "orgba4ad2b",
 "drawer": {
 
 },
@@ -28399,7 +31737,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 31730,
+"post-affiliated": 35233,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-17",
@@ -28425,10 +31763,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org9f57ece",
+"ref": "org935dabf",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 31760
+"post-affiliated": 35263
 },
 "contents": []
 }
@@ -28437,7 +31775,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org2b025ec",
+"ref": "org8bac8b1",
 "drawer": {
 
 },
@@ -28454,7 +31792,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 31788,
+"post-affiliated": 35291,
 "title": [
 "Talk to P. Mosenkov"
 ]
@@ -28463,25 +31801,25 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org8e5a0aa",
+"ref": "org62b5dec",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 31811
+"post-affiliated": 35314
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org88c2ba1",
+"ref": "org5e4cb9d",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 31811
+"post-affiliated": 35314
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "timestamp",
-"ref": "orgb86cd8d",
+"ref": "org0261e76",
 "properties": {
 "type": "active",
 "raw-value": "<2022-10-20 Thu 17:30>",
@@ -28501,7 +31839,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org452b07b",
+"ref": "orga6e88be",
 "drawer": {
 
 },
@@ -28510,15 +31848,15 @@ null,
 "raw-value": "Work on Galaxies",
 "pre-blank": 0,
 "level": 2,
-"priority": 66,
+"priority": 65,
 "tags": [],
-"todo-keyword": "TODO",
-"todo-type": "todo",
+"todo-keyword": "DONE",
+"todo-type": "done",
 "post-blank": 0,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 31834,
+"post-affiliated": 35337,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-11-03",
@@ -28544,10 +31882,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgf7b388e",
+"ref": "org4446528",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 31864
+"post-affiliated": 35367
 },
 "contents": []
 }
@@ -28556,7 +31894,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org454e80e",
+"ref": "orga2eb878",
 "drawer": {
 
 },
@@ -28573,7 +31911,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 31892,
+"post-affiliated": 35395,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-10-20",
@@ -28599,10 +31937,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgb80aa39",
+"ref": "orgd10d937",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 31929
+"post-affiliated": 35432
 },
 "contents": []
 }
@@ -28611,7 +31949,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org3e06f9e",
+"ref": "orge99c841",
 "drawer": {
 
 },
@@ -28628,7 +31966,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 31957,
+"post-affiliated": 35460,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-11-03",
@@ -28654,10 +31992,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org9e96016",
+"ref": "org54ab90f",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 32002
+"post-affiliated": 35505
 },
 "contents": []
 }
@@ -28666,7 +32004,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgcd92b24",
+"ref": "orgea885ed",
 "drawer": {
 
 },
@@ -28683,7 +32021,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 32030,
+"post-affiliated": 35533,
 "title": [
 "P. Mosenkov Research"
 ]
@@ -28692,25 +32030,25 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgf9a1029",
+"ref": "org445a01c",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 32054
+"post-affiliated": 35557
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org0de9119",
+"ref": "org0dfcf1a",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 32054
+"post-affiliated": 35557
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "timestamp",
-"ref": "orgc74057d",
+"ref": "org7e30c32",
 "properties": {
 "type": "active",
 "raw-value": "<2022-10-27 Thu 17:00>",
@@ -28730,7 +32068,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org7c9768d",
+"ref": "org62be335",
 "drawer": {
 
 },
@@ -28747,7 +32085,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 32077,
+"post-affiliated": 35580,
 "title": [
 "Boizelle Meeting"
 ]
@@ -28756,25 +32094,25 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org6c5106c",
+"ref": "org691d47e",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 32097
+"post-affiliated": 35600
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org3ae7ab5",
+"ref": "orgbcd58e6",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 32097
+"post-affiliated": 35600
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "timestamp",
-"ref": "org7f48842",
+"ref": "orgd9eaf20",
 "properties": {
 "type": "active",
 "raw-value": "<2022-11-04 Fri 18:00>",
@@ -28794,7 +32132,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org8040fe8",
+"ref": "org0505bc6",
 "drawer": {
 
 },
@@ -28803,15 +32141,15 @@ null,
 "raw-value": "CASA Tutorial",
 "pre-blank": 0,
 "level": 2,
-"priority": 66,
+"priority": 65,
 "tags": [],
-"todo-keyword": "TODO",
-"todo-type": "todo",
+"todo-keyword": "DONE",
+"todo-type": "done",
 "post-blank": 0,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 32120,
+"post-affiliated": 35623,
 "scheduled": {
 "$$data_type": "timestamp",
 "start": "2022-11-05",
@@ -28837,10 +32175,10 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org7d3cca8",
+"ref": "org4ed439f",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 32147
+"post-affiliated": 35650
 },
 "contents": []
 }
@@ -28849,7 +32187,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org4fceb22",
+"ref": "orgce1b5f5",
 "drawer": {
 
 },
@@ -28866,7 +32204,7 @@ null,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 32175,
+"post-affiliated": 35678,
 "title": [
 "P. Boizelle"
 ]
@@ -28875,25 +32213,25 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org8f4ae23",
+"ref": "orge390fcb",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 32190
+"post-affiliated": 35693
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org5a4e828",
+"ref": "orgcc0e985",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 32190
+"post-affiliated": 35693
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "timestamp",
-"ref": "orgb145495",
+"ref": "org5765c3c",
 "properties": {
 "type": "active",
 "raw-value": "<2022-11-17 Thu 17:30 +1w>",
@@ -28910,6 +32248,290 @@ null,
 ]
 }
 ]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org247befe",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "CASA Tutorial & IDL",
+"pre-blank": 0,
+"level": 2,
+"priority": 65,
+"tags": [],
+"todo-keyword": "DONE",
+"todo-type": "done",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 35720,
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-11-29",
+"end": "2022-11-29",
+"type": "active",
+"raw-value": "<2022-11-29 Tue>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"CASA Tutorial & IDL"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "orgfcd31cb",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 35753
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org0e02291",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Work on Galaxies",
+"pre-blank": 0,
+"level": 2,
+"priority": 65,
+"tags": [],
+"todo-keyword": "DONE",
+"todo-type": "done",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 35781,
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-11-29",
+"end": "2022-11-29",
+"type": "active",
+"raw-value": "<2022-11-29 Tue>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"Work on Galaxies"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "orgb73f6ce",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 35811
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org99d6ca6",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "CASA",
+"pre-blank": 0,
+"level": 2,
+"priority": null,
+"tags": [],
+"todo-keyword": "DONE",
+"todo-type": "done",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 35839,
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-12-06",
+"end": "2022-12-06",
+"type": "active",
+"raw-value": "<2022-12-06 Tue>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"CASA"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org8c0a36c",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 35853
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org3e6384c",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Mosenkov Meeting",
+"pre-blank": 0,
+"level": 2,
+"priority": null,
+"tags": [],
+"todo-keyword": null,
+"todo-type": null,
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 35881,
+"title": [
+"Mosenkov Meeting"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "orgc4b0c8b",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 35901
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org54d6371",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 35901
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "timestamp",
+"ref": "org21ec75c",
+"properties": {
+"type": "active",
+"raw-value": "<2022-12-08 Thu 15:00>",
+"post-blank": 0,
+"start": "2022-12-08T15:00:00",
+"end": "2022-12-08T15:00:00"
+},
+"contents": []
+},
+"\n"
+]
+}
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org2deb5de",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Read UGC 4599 paper and give feedback",
+"pre-blank": 0,
+"level": 2,
+"priority": 65,
+"tags": [],
+"todo-keyword": "TODO",
+"todo-type": "todo",
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 35924,
+"scheduled": {
+"$$data_type": "timestamp",
+"start": "2022-12-08",
+"end": "2022-12-08",
+"type": "active",
+"raw-value": "<2022-12-08 Thu>",
+"repeater": {
+"type": null,
+"unit": null,
+"value": null
+},
+"warning": {
+"type": null,
+"unit": null,
+"value": null
+}
+},
+"title": [
+"Read UGC 4599 paper and give feedback"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org13fad64",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 35975
+},
+"contents": []
 }
 ]
 }
