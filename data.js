@@ -18,7 +18,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org8b1b15f",
+"ref": "org6642457",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 1
@@ -27,7 +27,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "keyword",
-"ref": "orga13b1df",
+"ref": "org002c2c2",
 "properties": {
 "key": "TITLE",
 "value": "Schedule",
@@ -39,7 +39,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "keyword",
-"ref": "orgb9f733d",
+"ref": "org54645e2",
 "properties": {
 "key": "DFREE",
 "value": "nil",
@@ -53,7 +53,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org7f0d5b9",
+"ref": "org99bbc39",
 "drawer": {
 
 },
@@ -79,7 +79,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgc901373",
+"ref": "orgffac967",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 46
@@ -88,7 +88,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table",
-"ref": "org559f521",
+"ref": "org8682e2f",
 "properties": {
 "type": "org",
 "tblfm": null,
@@ -100,7 +100,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "orgfe5f068",
+"ref": "org0c46697",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -110,7 +110,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org7edd2b3",
+"ref": "org52e75e7",
 "properties": {
 "post-blank": 0
 },
@@ -121,7 +121,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgd19d038",
+"ref": "org932d596",
 "properties": {
 "post-blank": 0
 },
@@ -132,7 +132,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orge2a2a0c",
+"ref": "orgb77c743",
 "properties": {
 "post-blank": 0
 },
@@ -143,7 +143,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org37e49bb",
+"ref": "org283cf35",
 "properties": {
 "post-blank": 0
 },
@@ -154,7 +154,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orge16d4d5",
+"ref": "orgb049627",
 "properties": {
 "post-blank": 0
 },
@@ -165,7 +165,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org4bb3501",
+"ref": "org8347771",
 "properties": {
 "post-blank": 0
 },
@@ -176,7 +176,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org0d382e7",
+"ref": "org0b3919c",
 "properties": {
 "post-blank": 0
 },
@@ -187,7 +187,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgbeba864",
+"ref": "org8e4f75d",
 "properties": {
 "post-blank": 0
 },
@@ -200,7 +200,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "orge57d98a",
+"ref": "org76d4c6e",
 "properties": {
 "type": "rule",
 "post-blank": 0,
@@ -211,7 +211,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "org3192427",
+"ref": "org710a342",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -221,7 +221,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgfd6dbb7",
+"ref": "org1d0cce9",
 "properties": {
 "post-blank": 0
 },
@@ -232,7 +232,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgd5a97ad",
+"ref": "org50d09a6",
 "properties": {
 "post-blank": 0
 },
@@ -243,7 +243,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org52bf62c",
+"ref": "orgc1bbff0",
 "properties": {
 "post-blank": 0
 },
@@ -254,7 +254,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orga6ab55f",
+"ref": "orgb4a0223",
 "properties": {
 "post-blank": 0
 },
@@ -265,7 +265,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org33d1414",
+"ref": "org080c02c",
 "properties": {
 "post-blank": 0
 },
@@ -276,7 +276,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org5244020",
+"ref": "org1d0ee15",
 "properties": {
 "post-blank": 0
 },
@@ -287,7 +287,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org712d705",
+"ref": "orgbe4ba97",
 "properties": {
 "post-blank": 0
 },
@@ -296,7 +296,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgd1385ae",
+"ref": "orgb8963be",
 "properties": {
 "post-blank": 0
 },
@@ -307,7 +307,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "orgf5e021e",
+"ref": "orgc86b239",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -317,7 +317,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org13719ad",
+"ref": "orge0ae0ef",
 "properties": {
 "post-blank": 0
 },
@@ -328,7 +328,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org0ca6359",
+"ref": "org4f2307c",
 "properties": {
 "post-blank": 0
 },
@@ -339,7 +339,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orge1953dd",
+"ref": "orge20115a",
 "properties": {
 "post-blank": 0
 },
@@ -350,7 +350,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org516b18c",
+"ref": "org8569b65",
 "properties": {
 "post-blank": 0
 },
@@ -361,7 +361,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgc1e2f8d",
+"ref": "orge416641",
 "properties": {
 "post-blank": 0
 },
@@ -372,7 +372,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgda8fc90",
+"ref": "org71347c7",
 "properties": {
 "post-blank": 0
 },
@@ -383,7 +383,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org58dfc2b",
+"ref": "org30e68e4",
 "properties": {
 "post-blank": 0
 },
@@ -392,7 +392,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org76ae528",
+"ref": "orgeefe61d",
 "properties": {
 "post-blank": 0
 },
@@ -403,7 +403,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "orgfc4d7a6",
+"ref": "org5167138",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -413,7 +413,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orga390056",
+"ref": "orgb36b936",
 "properties": {
 "post-blank": 0
 },
@@ -424,7 +424,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org08d302d",
+"ref": "org8dcafb3",
 "properties": {
 "post-blank": 0
 },
@@ -435,7 +435,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgc7b9cbf",
+"ref": "orgd369604",
 "properties": {
 "post-blank": 0
 },
@@ -446,7 +446,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org387ae6e",
+"ref": "orgb3875a2",
 "properties": {
 "post-blank": 0
 },
@@ -457,7 +457,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org669a054",
+"ref": "org245f56d",
 "properties": {
 "post-blank": 0
 },
@@ -468,7 +468,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgc11d49b",
+"ref": "org137c0e7",
 "properties": {
 "post-blank": 0
 },
@@ -479,7 +479,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgadfa682",
+"ref": "org7db7b94",
 "properties": {
 "post-blank": 0
 },
@@ -488,7 +488,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org2ea1545",
+"ref": "orgae7e2c5",
 "properties": {
 "post-blank": 0
 },
@@ -499,7 +499,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "org0b975a6",
+"ref": "org0d14656",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -509,7 +509,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org916a22f",
+"ref": "org5443b8a",
 "properties": {
 "post-blank": 0
 },
@@ -520,7 +520,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org7910f70",
+"ref": "orgf8736cc",
 "properties": {
 "post-blank": 0
 },
@@ -531,7 +531,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgaf245be",
+"ref": "org4ed8161",
 "properties": {
 "post-blank": 0
 },
@@ -542,7 +542,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org97d8166",
+"ref": "org2ab505b",
 "properties": {
 "post-blank": 0
 },
@@ -553,7 +553,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgc15e8ca",
+"ref": "orga73f66b",
 "properties": {
 "post-blank": 0
 },
@@ -564,7 +564,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org082de5b",
+"ref": "org2b74997",
 "properties": {
 "post-blank": 0
 },
@@ -575,7 +575,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgc8317c2",
+"ref": "org5ef36b7",
 "properties": {
 "post-blank": 0
 },
@@ -586,7 +586,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org815db28",
+"ref": "orgc13942b",
 "properties": {
 "post-blank": 0
 },
@@ -599,7 +599,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "orgb656e01",
+"ref": "org8ed8401",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -609,7 +609,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgba92cae",
+"ref": "org052d108",
 "properties": {
 "post-blank": 0
 },
@@ -620,7 +620,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org3edf5ae",
+"ref": "org08867b4",
 "properties": {
 "post-blank": 0
 },
@@ -631,7 +631,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org0aa6315",
+"ref": "org539ce03",
 "properties": {
 "post-blank": 0
 },
@@ -642,7 +642,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgedf1822",
+"ref": "org6ebbaaf",
 "properties": {
 "post-blank": 0
 },
@@ -653,7 +653,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org86ade17",
+"ref": "orgfc8410b",
 "properties": {
 "post-blank": 0
 },
@@ -664,7 +664,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org52086c8",
+"ref": "org9e479ff",
 "properties": {
 "post-blank": 0
 },
@@ -675,7 +675,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org701dc0a",
+"ref": "orga06c51f",
 "properties": {
 "post-blank": 0
 },
@@ -684,7 +684,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org36d3757",
+"ref": "orgb6b74ca",
 "properties": {
 "post-blank": 0
 },
@@ -695,7 +695,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "org9a7649a",
+"ref": "org955c3b4",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -705,7 +705,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org5dafeed",
+"ref": "orgc1d3b4b",
 "properties": {
 "post-blank": 0
 },
@@ -716,7 +716,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org3ec2bff",
+"ref": "org1e1c75d",
 "properties": {
 "post-blank": 0
 },
@@ -725,7 +725,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgfe603e6",
+"ref": "org6b70e40",
 "properties": {
 "post-blank": 0
 },
@@ -734,7 +734,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org29928f9",
+"ref": "org451672d",
 "properties": {
 "post-blank": 0
 },
@@ -743,7 +743,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org8386b11",
+"ref": "orga19edac",
 "properties": {
 "post-blank": 0
 },
@@ -752,7 +752,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orga757c5a",
+"ref": "orgdb5ce33",
 "properties": {
 "post-blank": 0
 },
@@ -761,7 +761,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgefd7a60",
+"ref": "org14088dd",
 "properties": {
 "post-blank": 0
 },
@@ -770,7 +770,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgd59ce75",
+"ref": "org0f206a3",
 "properties": {
 "post-blank": 0
 },
@@ -781,7 +781,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "org6ec8a1a",
+"ref": "org6c5d9ac",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -791,7 +791,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org703901e",
+"ref": "org16d8d60",
 "properties": {
 "post-blank": 0
 },
@@ -802,7 +802,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org642af99",
+"ref": "org75dea59",
 "properties": {
 "post-blank": 0
 },
@@ -813,7 +813,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgee18b9a",
+"ref": "orgd798de9",
 "properties": {
 "post-blank": 0
 },
@@ -824,7 +824,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org1b6f944",
+"ref": "org3bb723b",
 "properties": {
 "post-blank": 0
 },
@@ -835,7 +835,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgd151e35",
+"ref": "org9e0a3ce",
 "properties": {
 "post-blank": 0
 },
@@ -846,7 +846,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org8d73a3e",
+"ref": "org44e6f20",
 "properties": {
 "post-blank": 0
 },
@@ -857,7 +857,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org9922233",
+"ref": "orge676a6d",
 "properties": {
 "post-blank": 0
 },
@@ -866,7 +866,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org799d750",
+"ref": "org97c9b35",
 "properties": {
 "post-blank": 0
 },
@@ -877,7 +877,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "orgaf33d5d",
+"ref": "org2ce84b4",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -887,7 +887,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgdf7a9e7",
+"ref": "org74ca849",
 "properties": {
 "post-blank": 0
 },
@@ -898,7 +898,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org4dd786d",
+"ref": "org912e502",
 "properties": {
 "post-blank": 0
 },
@@ -909,7 +909,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org5d41561",
+"ref": "org1d71f29",
 "properties": {
 "post-blank": 0
 },
@@ -920,7 +920,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgd37cab6",
+"ref": "org1362d39",
 "properties": {
 "post-blank": 0
 },
@@ -931,7 +931,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org21bac77",
+"ref": "org5abb82d",
 "properties": {
 "post-blank": 0
 },
@@ -942,7 +942,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgb2d134d",
+"ref": "orgfc454e5",
 "properties": {
 "post-blank": 0
 },
@@ -953,7 +953,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgdddc95c",
+"ref": "org6726cae",
 "properties": {
 "post-blank": 0
 },
@@ -962,7 +962,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org20b371f",
+"ref": "orgbebaf60",
 "properties": {
 "post-blank": 0
 },
@@ -973,7 +973,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "orgdded732",
+"ref": "orgddf4f66",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -983,7 +983,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org67811f2",
+"ref": "org00bc883",
 "properties": {
 "post-blank": 0
 },
@@ -994,7 +994,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org8c99020",
+"ref": "org4480eec",
 "properties": {
 "post-blank": 0
 },
@@ -1005,7 +1005,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgbe46737",
+"ref": "org8dc14b7",
 "properties": {
 "post-blank": 0
 },
@@ -1016,7 +1016,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org5d73676",
+"ref": "orgb243a0e",
 "properties": {
 "post-blank": 0
 },
@@ -1027,7 +1027,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgce76200",
+"ref": "org3a3ab7c",
 "properties": {
 "post-blank": 0
 },
@@ -1038,7 +1038,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org49596ae",
+"ref": "org417e681",
 "properties": {
 "post-blank": 0
 },
@@ -1049,7 +1049,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org976721d",
+"ref": "org9903a65",
 "properties": {
 "post-blank": 0
 },
@@ -1058,7 +1058,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org773b2da",
+"ref": "org02f1f09",
 "properties": {
 "post-blank": 0
 },
@@ -1069,7 +1069,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "org0feb71d",
+"ref": "org135d445",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -1079,7 +1079,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgac0e262",
+"ref": "org1617ee9",
 "properties": {
 "post-blank": 0
 },
@@ -1090,7 +1090,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgad46cff",
+"ref": "org5408624",
 "properties": {
 "post-blank": 0
 },
@@ -1101,7 +1101,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgb4c9846",
+"ref": "orga5093b6",
 "properties": {
 "post-blank": 0
 },
@@ -1112,7 +1112,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgc3fecf6",
+"ref": "org763dabf",
 "properties": {
 "post-blank": 0
 },
@@ -1123,7 +1123,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgae30165",
+"ref": "orgb63b104",
 "properties": {
 "post-blank": 0
 },
@@ -1134,7 +1134,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orga7be0cd",
+"ref": "org9819e80",
 "properties": {
 "post-blank": 0
 },
@@ -1145,7 +1145,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org6c8ef21",
+"ref": "org846f1c6",
 "properties": {
 "post-blank": 0
 },
@@ -1154,7 +1154,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgce77570",
+"ref": "orgde57fd4",
 "properties": {
 "post-blank": 0
 },
@@ -1165,7 +1165,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "orgf240110",
+"ref": "orga5377ff",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -1175,7 +1175,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgf8b75ca",
+"ref": "org497839e",
 "properties": {
 "post-blank": 0
 },
@@ -1186,7 +1186,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org302c989",
+"ref": "org0aca409",
 "properties": {
 "post-blank": 0
 },
@@ -1197,7 +1197,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org96c0cd9",
+"ref": "orga7941f7",
 "properties": {
 "post-blank": 0
 },
@@ -1208,7 +1208,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgea913f0",
+"ref": "orgc88b089",
 "properties": {
 "post-blank": 0
 },
@@ -1219,7 +1219,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org4775539",
+"ref": "org38d4950",
 "properties": {
 "post-blank": 0
 },
@@ -1230,7 +1230,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org47ed025",
+"ref": "org68a48a9",
 "properties": {
 "post-blank": 0
 },
@@ -1241,7 +1241,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org3dca3c2",
+"ref": "orgfbcd2d2",
 "properties": {
 "post-blank": 0
 },
@@ -1250,7 +1250,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgafd64e8",
+"ref": "org939c74e",
 "properties": {
 "post-blank": 0
 },
@@ -1261,7 +1261,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "org534c21f",
+"ref": "org9364be0",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -1271,7 +1271,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orge3bb679",
+"ref": "orgaa89a75",
 "properties": {
 "post-blank": 0
 },
@@ -1282,7 +1282,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org8606ee1",
+"ref": "org19a0f4f",
 "properties": {
 "post-blank": 0
 },
@@ -1291,7 +1291,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org505f54c",
+"ref": "org7a71dc9",
 "properties": {
 "post-blank": 0
 },
@@ -1300,7 +1300,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org170f12f",
+"ref": "orgef17c27",
 "properties": {
 "post-blank": 0
 },
@@ -1309,7 +1309,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org1c512df",
+"ref": "org0b3b6d4",
 "properties": {
 "post-blank": 0
 },
@@ -1318,7 +1318,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org2c5ba9e",
+"ref": "orgf48689b",
 "properties": {
 "post-blank": 0
 },
@@ -1327,7 +1327,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org2c268de",
+"ref": "orgc050c27",
 "properties": {
 "post-blank": 0
 },
@@ -1336,7 +1336,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgdefe655",
+"ref": "orge274b53",
 "properties": {
 "post-blank": 0
 },
@@ -1347,7 +1347,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "orgf1fd0c0",
+"ref": "org2214469",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -1357,7 +1357,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org4f7321b",
+"ref": "org17a6a93",
 "properties": {
 "post-blank": 0
 },
@@ -1368,7 +1368,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org4912138",
+"ref": "org909cbd9",
 "properties": {
 "post-blank": 0
 },
@@ -1377,7 +1377,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org54cbe2e",
+"ref": "orge2a9b0f",
 "properties": {
 "post-blank": 0
 },
@@ -1386,7 +1386,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org1e47a8d",
+"ref": "org001577d",
 "properties": {
 "post-blank": 0
 },
@@ -1395,7 +1395,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org59be5d4",
+"ref": "orgeebd3a3",
 "properties": {
 "post-blank": 0
 },
@@ -1404,7 +1404,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org7380b57",
+"ref": "orgbf0ca5b",
 "properties": {
 "post-blank": 0
 },
@@ -1413,7 +1413,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org271591d",
+"ref": "org4234455",
 "properties": {
 "post-blank": 0
 },
@@ -1422,7 +1422,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org54156fa",
+"ref": "orgebee462",
 "properties": {
 "post-blank": 0
 },
@@ -1433,7 +1433,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "org714dda2",
+"ref": "org060a9f3",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -1443,7 +1443,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org40a5205",
+"ref": "org297d721",
 "properties": {
 "post-blank": 0
 },
@@ -1454,7 +1454,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgc85813e",
+"ref": "orgd1aaf12",
 "properties": {
 "post-blank": 0
 },
@@ -1463,7 +1463,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org84d1db7",
+"ref": "org8bc2222",
 "properties": {
 "post-blank": 0
 },
@@ -1472,7 +1472,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org2c1c584",
+"ref": "org78175cc",
 "properties": {
 "post-blank": 0
 },
@@ -1481,7 +1481,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org6974177",
+"ref": "org427fded",
 "properties": {
 "post-blank": 0
 },
@@ -1490,7 +1490,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgadd923b",
+"ref": "org149922d",
 "properties": {
 "post-blank": 0
 },
@@ -1499,7 +1499,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org1ac9236",
+"ref": "org0f38ab0",
 "properties": {
 "post-blank": 0
 },
@@ -1508,7 +1508,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org303d3b3",
+"ref": "org6c9551d",
 "properties": {
 "post-blank": 0
 },
@@ -1519,7 +1519,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "org7ba8fba",
+"ref": "orgeb21477",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -1529,7 +1529,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org218001b",
+"ref": "org32bce39",
 "properties": {
 "post-blank": 0
 },
@@ -1540,7 +1540,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org8c5fa3a",
+"ref": "org3c6779e",
 "properties": {
 "post-blank": 0
 },
@@ -1551,7 +1551,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org919bdc5",
+"ref": "org99b9a41",
 "properties": {
 "post-blank": 0
 },
@@ -1562,7 +1562,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orge414493",
+"ref": "orge60001f",
 "properties": {
 "post-blank": 0
 },
@@ -1573,7 +1573,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org8279aec",
+"ref": "org900b4d9",
 "properties": {
 "post-blank": 0
 },
@@ -1584,7 +1584,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgdca7be9",
+"ref": "org04a00ee",
 "properties": {
 "post-blank": 0
 },
@@ -1595,7 +1595,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org54e0398",
+"ref": "org449d309",
 "properties": {
 "post-blank": 0
 },
@@ -1606,7 +1606,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org298e7fa",
+"ref": "orgef3383b",
 "properties": {
 "post-blank": 0
 },
@@ -1619,7 +1619,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "orgdbe4290",
+"ref": "org25fa60e",
 "properties": {
 "type": "standard",
 "post-blank": 0,
@@ -1629,7 +1629,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org90aba31",
+"ref": "orgdcde0b5",
 "properties": {
 "post-blank": 0
 },
@@ -1640,7 +1640,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org0fdc196",
+"ref": "orgb7eb04b",
 "properties": {
 "post-blank": 0
 },
@@ -1649,7 +1649,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org0a462e3",
+"ref": "org0b21d08",
 "properties": {
 "post-blank": 0
 },
@@ -1658,7 +1658,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org770cdaa",
+"ref": "org98450ec",
 "properties": {
 "post-blank": 0
 },
@@ -1667,7 +1667,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org18bb578",
+"ref": "orgf17fe83",
 "properties": {
 "post-blank": 0
 },
@@ -1676,7 +1676,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgb5c6c56",
+"ref": "orgba3c377",
 "properties": {
 "post-blank": 0
 },
@@ -1685,7 +1685,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org46b2659",
+"ref": "org20c57a1",
 "properties": {
 "post-blank": 0
 },
@@ -1694,7 +1694,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org8b66750",
+"ref": "org9d7f9e8",
 "properties": {
 "post-blank": 0
 },
@@ -1709,7 +1709,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org5a983ac",
+"ref": "orgc6f05e7",
 "drawer": {
 
 },
@@ -1735,7 +1735,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgf76b6bc",
+"ref": "org88ca94f",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 1877
@@ -1744,7 +1744,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "plain-list",
-"ref": "org08e93c8",
+"ref": "org4df967a",
 "properties": {
 "type": "unordered",
 "structure": [
@@ -1765,7 +1765,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "item",
-"ref": "org7ab04cb",
+"ref": "org85f5e1f",
 "properties": {
 "bullet": "- ",
 "checkbox": null,
@@ -1788,7 +1788,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org3146f01",
+"ref": "org8caefe7",
 "drawer": {
 "CATEGORY": "General"
 },
@@ -1814,7 +1814,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org2c4423f",
+"ref": "org278f5af",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 1891
@@ -1824,7 +1824,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgfb47cb1",
+"ref": "org2527d7d",
 "drawer": {
 
 },
@@ -1852,7 +1852,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org221fa9f",
+"ref": "org592f705",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 1999
@@ -1861,7 +1861,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org715f855",
+"ref": "orgb043afa",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 1999
@@ -1870,7 +1870,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "timestamp",
-"ref": "org8fff453",
+"ref": "orge938862",
 "properties": {
 "type": "active",
 "raw-value": "<2023-02-09 Thu 21:00>",
@@ -1892,7 +1892,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org32ee461",
+"ref": "orga8d910e",
 "drawer": {
 "CATEGORY": "Mission"
 },
@@ -1918,7 +1918,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orge806315",
+"ref": "org62c3cb8",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2037
@@ -1928,7 +1928,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgff8be62",
+"ref": "org074d61a",
 "drawer": {
 
 },
@@ -1988,7 +1988,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgfd5f6c9",
+"ref": "org38cb18d",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2101
@@ -2000,7 +2000,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org23977cd",
+"ref": "org8e70089",
 "drawer": {
 
 },
@@ -2060,7 +2060,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org295ae65",
+"ref": "org86f4840",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2182
@@ -2072,7 +2072,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org8a362d9",
+"ref": "orgd3c13ee",
 "drawer": {
 
 },
@@ -2132,7 +2132,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgb2eec6a",
+"ref": "orgfb52403",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2266
@@ -2144,7 +2144,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org3c7092a",
+"ref": "org2ea01c4",
 "drawer": {
 
 },
@@ -2204,7 +2204,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgc44b730",
+"ref": "orga5b143f",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2357
@@ -2216,7 +2216,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org6a805b1",
+"ref": "org2a3bfa7",
 "drawer": {
 
 },
@@ -2259,7 +2259,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org9a82fb1",
+"ref": "org2329b54",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2432
@@ -2273,7 +2273,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org8d78cb1",
+"ref": "org4f49047",
 "drawer": {
 "CATEGORY": "Ethos"
 },
@@ -2299,7 +2299,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org233e4a4",
+"ref": "org5fddb2f",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2468
@@ -2309,7 +2309,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org3ba73e6",
+"ref": "org8fbdbcb",
 "drawer": {
 
 },
@@ -2352,7 +2352,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org308e151",
+"ref": "orgbbc34d5",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2529
@@ -2364,7 +2364,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org77eb7ee",
+"ref": "org3fdd310",
 "drawer": {
 
 },
@@ -2407,7 +2407,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgb9257ac",
+"ref": "org0a57975",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2612
@@ -2419,7 +2419,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org6af3e7e",
+"ref": "orgbe4decb",
 "drawer": {
 
 },
@@ -2462,7 +2462,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org251b52c",
+"ref": "orga3655fe",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2670
@@ -2476,7 +2476,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgfba0d17",
+"ref": "org5685160",
 "drawer": {
 "CATEGORY": "Major"
 },
@@ -2502,7 +2502,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgf7e6c62",
+"ref": "org6b799e0",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2706
@@ -2514,7 +2514,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgadbf28f",
+"ref": "org82f8811",
 "drawer": {
 "CATEGORY": "Work"
 },
@@ -2540,7 +2540,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org002caa1",
+"ref": "orgd3a20f0",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2749
@@ -2552,7 +2552,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orga57e6db",
+"ref": "org3f2c326",
 "drawer": {
 
 },
@@ -2579,7 +2579,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org352a590",
+"ref": "org307a866",
 "drawer": {
 "CATEGORY": "Research"
 },
@@ -2605,7 +2605,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org3449a9e",
+"ref": "org3c21087",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2803
@@ -2615,7 +2615,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org3800d12",
+"ref": "org59f30e5",
 "drawer": {
 
 },
@@ -2641,7 +2641,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgbf8defa",
+"ref": "org749459c",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2956
@@ -2650,7 +2650,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org0173d22",
+"ref": "org998751c",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2956
@@ -2659,7 +2659,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "timestamp",
-"ref": "org03e584d",
+"ref": "org6047ebb",
 "properties": {
 "type": "active",
 "raw-value": "<2022-09-27 Tue 20:00 +2w>",
@@ -2682,7 +2682,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org84bbdaf",
+"ref": "org860bbd0",
 "drawer": {
 
 },
@@ -2708,7 +2708,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org4103a97",
+"ref": "org3e817b9",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 3006
@@ -2717,7 +2717,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org3340019",
+"ref": "org8af8d72",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 3006
@@ -2726,7 +2726,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "timestamp",
-"ref": "org9371043",
+"ref": "org4f60bde",
 "properties": {
 "type": "active",
 "raw-value": "<2022-11-17 Thu 21:00 +1w>",
@@ -2749,7 +2749,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgbb34020",
+"ref": "org42d85ba",
 "drawer": {
 
 },
@@ -2809,7 +2809,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org52bb844",
+"ref": "orgc486cbd",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 3079
@@ -2821,7 +2821,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org86490c0",
+"ref": "org6c51f4d",
 "drawer": {
 
 },
@@ -2881,7 +2881,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org7c8b178",
+"ref": "orgf2664fa",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 3177
@@ -2893,7 +2893,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org33a5531",
+"ref": "org761aafd",
 "drawer": {
 
 },
@@ -2953,7 +2953,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgc62a1d5",
+"ref": "orgc523f4c",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 3253
@@ -2965,7 +2965,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org40d2832",
+"ref": "org89238a4",
 "drawer": {
 
 },
@@ -2991,7 +2991,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org9bcc466",
+"ref": "org5200b9d",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 3345
@@ -3000,7 +3000,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orgb6fe1ae",
+"ref": "org4f6605a",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 3345
@@ -3009,7 +3009,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "timestamp",
-"ref": "org6f1fc45",
+"ref": "org0e782f9",
 "properties": {
 "type": "active",
 "raw-value": "<2023-01-19 Thu 21:00>",
@@ -3029,7 +3029,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orga4a4e8c",
+"ref": "org3ec5b69",
 "drawer": {
 
 },
@@ -3072,7 +3072,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org8514c63",
+"ref": "org06317f3",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 3439
@@ -3084,7 +3084,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgd38855c",
+"ref": "org96cd332",
 "drawer": {
 
 },
@@ -3127,7 +3127,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org59553ba",
+"ref": "org3712152",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 3500
