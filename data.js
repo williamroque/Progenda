@@ -6,9 +6,9 @@ const data = {
 ],
 "filetags": [],
 "author": [
-"William Aguiar Roque"
+"William Roque"
 ],
-"creator": "Emacs 30.0.50 (Org mode 9.5.4)",
+"creator": "Emacs 29.4 (Org mode 9.6.15)",
 "date": [],
 "description": [],
 "email": "william.aroque@gmail.com",
@@ -18,33 +18,41 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org56754a6",
+"ref": "orge806ef6",
 "properties": {
+"robust-begin": 1,
+"robust-end": 30,
 "post-blank": 1,
-"post-affiliated": 1
+"post-affiliated": 1,
+"mode": "first-section",
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "keyword",
-"ref": "org9d1fcb1",
+"ref": "org4d88e8d",
 "properties": {
 "key": "TITLE",
 "value": "Schedule",
 "post-blank": 0,
-"post-affiliated": 1
+"post-affiliated": 1,
+"mode": "top-comment",
+"granularity": null
 },
 "contents": []
 },
 {
 "$$data_type": "org-node",
 "type": "keyword",
-"ref": "org8752749",
+"ref": "orgb9c2ca6",
 "properties": {
 "key": "DFREE",
 "value": "nil",
 "post-blank": 0,
-"post-affiliated": 19
+"post-affiliated": 19,
+"mode": null,
+"granularity": null
 },
 "contents": []
 }
@@ -53,7 +61,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org9881c48",
+"ref": "org0eab446",
 "drawer": {
 
 },
@@ -61,6 +69,8 @@ const data = {
 "tags-all": [],
 "raw-value": "Timetable",
 "pre-blank": 1,
+"robust-begin": 48,
+"robust-end": 1878,
 "level": 1,
 "priority": null,
 "tags": [],
@@ -73,44 +83,54 @@ const data = {
 "post-affiliated": 33,
 "title": [
 "Timetable"
-]
+],
+"mode": null,
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org067bac7",
+"ref": "orgcf1ffc3",
 "properties": {
+"robust-begin": 46,
+"robust-end": 1862,
 "post-blank": 1,
-"post-affiliated": 46
+"post-affiliated": 46,
+"mode": "section",
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "table",
-"ref": "org3f7bcc9",
+"ref": "orgcfee05d",
 "properties": {
 "type": "org",
 "tblfm": null,
 "value": null,
 "post-blank": 0,
-"post-affiliated": 46
+"post-affiliated": 46,
+"mode": "planning",
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "orgc7a540d",
+"ref": "org9f57d69",
 "properties": {
 "type": "standard",
 "post-blank": 0,
-"post-affiliated": 46
+"post-affiliated": 46,
+"mode": "table-row",
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgde7894f",
+"ref": "org1615384",
 "properties": {
 "post-blank": 0
 },
@@ -121,7 +141,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org6033ca3",
+"ref": "org30f4138",
 "properties": {
 "post-blank": 0
 },
@@ -132,7 +152,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org7c5f1c8",
+"ref": "org982d17b",
 "properties": {
 "post-blank": 0
 },
@@ -143,7 +163,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org9f82ad9",
+"ref": "org81b35ab",
 "properties": {
 "post-blank": 0
 },
@@ -154,7 +174,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org9b88d6d",
+"ref": "org7468076",
 "properties": {
 "post-blank": 0
 },
@@ -165,7 +185,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org0190201",
+"ref": "org5ffde9b",
 "properties": {
 "post-blank": 0
 },
@@ -176,7 +196,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgb80428e",
+"ref": "org0679992",
 "properties": {
 "post-blank": 0
 },
@@ -187,7 +207,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org3523a8b",
+"ref": "org8d4f04d",
 "properties": {
 "post-blank": 0
 },
@@ -200,28 +220,32 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "orgd7a118f",
+"ref": "org8f92654",
 "properties": {
 "type": "rule",
 "post-blank": 0,
-"post-affiliated": 147
+"post-affiliated": 147,
+"mode": "table-row",
+"granularity": null
 },
 "contents": []
 },
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "org9ed8d51",
+"ref": "org0e70064",
 "properties": {
 "type": "standard",
 "post-blank": 0,
-"post-affiliated": 248
+"post-affiliated": 248,
+"mode": "table-row",
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org482d2cf",
+"ref": "org96e3dbf",
 "properties": {
 "post-blank": 0
 },
@@ -232,7 +256,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org3287dab",
+"ref": "org07d6a96",
 "properties": {
 "post-blank": 0
 },
@@ -243,7 +267,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orga252b74",
+"ref": "org3f68bd4",
 "properties": {
 "post-blank": 0
 },
@@ -254,7 +278,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org99cb351",
+"ref": "org3dfdfd1",
 "properties": {
 "post-blank": 0
 },
@@ -265,7 +289,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgaa85254",
+"ref": "orgf91988d",
 "properties": {
 "post-blank": 0
 },
@@ -276,7 +300,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgf98eabd",
+"ref": "org0c7416c",
 "properties": {
 "post-blank": 0
 },
@@ -287,7 +311,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org5bb43ba",
+"ref": "org9f97198",
 "properties": {
 "post-blank": 0
 },
@@ -296,7 +320,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org39f92c4",
+"ref": "orgd393414",
 "properties": {
 "post-blank": 0
 },
@@ -307,17 +331,19 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "orgc8c950e",
+"ref": "org674d18c",
 "properties": {
 "type": "standard",
 "post-blank": 0,
-"post-affiliated": 349
+"post-affiliated": 349,
+"mode": "table-row",
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgfe0ff5f",
+"ref": "org9a08c85",
 "properties": {
 "post-blank": 0
 },
@@ -328,7 +354,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org005d307",
+"ref": "orgd1c56ab",
 "properties": {
 "post-blank": 0
 },
@@ -339,7 +365,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org20e02d0",
+"ref": "org3a34a00",
 "properties": {
 "post-blank": 0
 },
@@ -350,7 +376,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org96143c0",
+"ref": "org3fec4c2",
 "properties": {
 "post-blank": 0
 },
@@ -361,7 +387,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org8f6d33e",
+"ref": "org2a589e8",
 "properties": {
 "post-blank": 0
 },
@@ -372,7 +398,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orga06418c",
+"ref": "orge075c09",
 "properties": {
 "post-blank": 0
 },
@@ -383,7 +409,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgf29effd",
+"ref": "orgf488a14",
 "properties": {
 "post-blank": 0
 },
@@ -392,7 +418,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org317e690",
+"ref": "org378d14f",
 "properties": {
 "post-blank": 0
 },
@@ -403,17 +429,19 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "org122b646",
+"ref": "org69439b4",
 "properties": {
 "type": "standard",
 "post-blank": 0,
-"post-affiliated": 450
+"post-affiliated": 450,
+"mode": "table-row",
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orga0b0c28",
+"ref": "orge6ab063",
 "properties": {
 "post-blank": 0
 },
@@ -424,7 +452,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org9eb8500",
+"ref": "orgfaf9ec8",
 "properties": {
 "post-blank": 0
 },
@@ -435,7 +463,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org18707c2",
+"ref": "org2a0d42c",
 "properties": {
 "post-blank": 0
 },
@@ -446,7 +474,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org80a1714",
+"ref": "orge181518",
 "properties": {
 "post-blank": 0
 },
@@ -457,7 +485,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgdd96c29",
+"ref": "org82e4858",
 "properties": {
 "post-blank": 0
 },
@@ -468,7 +496,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org6273e2c",
+"ref": "orgbd4c25f",
 "properties": {
 "post-blank": 0
 },
@@ -479,7 +507,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org441ddfc",
+"ref": "orgc40c88b",
 "properties": {
 "post-blank": 0
 },
@@ -488,7 +516,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgf8a9e51",
+"ref": "orgc2adb3a",
 "properties": {
 "post-blank": 0
 },
@@ -499,17 +527,19 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "org2c64d72",
+"ref": "org8f2ee32",
 "properties": {
 "type": "standard",
 "post-blank": 0,
-"post-affiliated": 551
+"post-affiliated": 551,
+"mode": "table-row",
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgd4a667d",
+"ref": "orgd8a3d44",
 "properties": {
 "post-blank": 0
 },
@@ -520,7 +550,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org055ff18",
+"ref": "org23b7f47",
 "properties": {
 "post-blank": 0
 },
@@ -531,7 +561,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org49ee5d7",
+"ref": "orgaed8cd0",
 "properties": {
 "post-blank": 0
 },
@@ -542,7 +572,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org1d2c82f",
+"ref": "orge3a28c3",
 "properties": {
 "post-blank": 0
 },
@@ -553,7 +583,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org0d1a898",
+"ref": "org31d06ea",
 "properties": {
 "post-blank": 0
 },
@@ -564,7 +594,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgcd80776",
+"ref": "org95d4e6d",
 "properties": {
 "post-blank": 0
 },
@@ -575,7 +605,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orged7e8f1",
+"ref": "orgbb6c213",
 "properties": {
 "post-blank": 0
 },
@@ -586,7 +616,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org06d34d7",
+"ref": "org9e818a1",
 "properties": {
 "post-blank": 0
 },
@@ -599,17 +629,19 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "orgbdf63c2",
+"ref": "orgd237a7c",
 "properties": {
 "type": "standard",
 "post-blank": 0,
-"post-affiliated": 652
+"post-affiliated": 652,
+"mode": "table-row",
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org2980735",
+"ref": "org800b237",
 "properties": {
 "post-blank": 0
 },
@@ -620,7 +652,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org0b2b4e8",
+"ref": "org5506160",
 "properties": {
 "post-blank": 0
 },
@@ -631,7 +663,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgcfdab8a",
+"ref": "org0e96c72",
 "properties": {
 "post-blank": 0
 },
@@ -642,7 +674,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org37c787e",
+"ref": "org95421e9",
 "properties": {
 "post-blank": 0
 },
@@ -653,7 +685,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgee4b6a5",
+"ref": "orgbfaa902",
 "properties": {
 "post-blank": 0
 },
@@ -664,7 +696,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgd7bc32e",
+"ref": "orgc4a2b9d",
 "properties": {
 "post-blank": 0
 },
@@ -675,7 +707,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orga07e744",
+"ref": "org2a21b44",
 "properties": {
 "post-blank": 0
 },
@@ -684,7 +716,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org389f5ea",
+"ref": "org1d4371d",
 "properties": {
 "post-blank": 0
 },
@@ -695,17 +727,19 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "orga51192e",
+"ref": "orgee84883",
 "properties": {
 "type": "standard",
 "post-blank": 0,
-"post-affiliated": 753
+"post-affiliated": 753,
+"mode": "table-row",
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgc9bcc87",
+"ref": "org47d79c5",
 "properties": {
 "post-blank": 0
 },
@@ -716,7 +750,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org685ed61",
+"ref": "org4b0de6f",
 "properties": {
 "post-blank": 0
 },
@@ -725,7 +759,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org021730f",
+"ref": "orga8afbea",
 "properties": {
 "post-blank": 0
 },
@@ -734,7 +768,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgbb0e890",
+"ref": "org4267174",
 "properties": {
 "post-blank": 0
 },
@@ -743,7 +777,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org4797624",
+"ref": "org4608aee",
 "properties": {
 "post-blank": 0
 },
@@ -752,7 +786,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org2dae1ec",
+"ref": "orgdc73400",
 "properties": {
 "post-blank": 0
 },
@@ -761,7 +795,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org92dd2d8",
+"ref": "org037d429",
 "properties": {
 "post-blank": 0
 },
@@ -770,7 +804,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org79938b5",
+"ref": "orgd3456c9",
 "properties": {
 "post-blank": 0
 },
@@ -781,17 +815,19 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "orgaeb48bc",
+"ref": "org7677177",
 "properties": {
 "type": "standard",
 "post-blank": 0,
-"post-affiliated": 854
+"post-affiliated": 854,
+"mode": "table-row",
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org86ef91c",
+"ref": "org46bcc6c",
 "properties": {
 "post-blank": 0
 },
@@ -802,7 +838,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orge532c34",
+"ref": "org6a1a591",
 "properties": {
 "post-blank": 0
 },
@@ -813,7 +849,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org2220b98",
+"ref": "org51a413c",
 "properties": {
 "post-blank": 0
 },
@@ -824,7 +860,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgd7f37e4",
+"ref": "org7679903",
 "properties": {
 "post-blank": 0
 },
@@ -835,7 +871,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgde118d6",
+"ref": "org367d347",
 "properties": {
 "post-blank": 0
 },
@@ -846,7 +882,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org661792f",
+"ref": "orgc71a228",
 "properties": {
 "post-blank": 0
 },
@@ -857,7 +893,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org3fd3a55",
+"ref": "org8d73f9a",
 "properties": {
 "post-blank": 0
 },
@@ -866,7 +902,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org7f51629",
+"ref": "orgf19f749",
 "properties": {
 "post-blank": 0
 },
@@ -877,17 +913,19 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "orgea2355a",
+"ref": "orgbe4b453",
 "properties": {
 "type": "standard",
 "post-blank": 0,
-"post-affiliated": 955
+"post-affiliated": 955,
+"mode": "table-row",
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgf8c666f",
+"ref": "orgeebc38c",
 "properties": {
 "post-blank": 0
 },
@@ -898,7 +936,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org2efc1bf",
+"ref": "org9d69da5",
 "properties": {
 "post-blank": 0
 },
@@ -909,7 +947,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org6f79b78",
+"ref": "org5c9eeac",
 "properties": {
 "post-blank": 0
 },
@@ -920,7 +958,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org590c7a5",
+"ref": "orgb060862",
 "properties": {
 "post-blank": 0
 },
@@ -931,7 +969,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org1c99852",
+"ref": "org9c84d9b",
 "properties": {
 "post-blank": 0
 },
@@ -942,7 +980,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org819fda3",
+"ref": "orga26e497",
 "properties": {
 "post-blank": 0
 },
@@ -953,7 +991,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org4d5b849",
+"ref": "org16cc98f",
 "properties": {
 "post-blank": 0
 },
@@ -962,7 +1000,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org6cae2bc",
+"ref": "org57d7d61",
 "properties": {
 "post-blank": 0
 },
@@ -973,17 +1011,19 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "orgcba1dca",
+"ref": "org7b0e6e0",
 "properties": {
 "type": "standard",
 "post-blank": 0,
-"post-affiliated": 1056
+"post-affiliated": 1056,
+"mode": "table-row",
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org6c995ce",
+"ref": "org8776865",
 "properties": {
 "post-blank": 0
 },
@@ -994,7 +1034,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org8b311bb",
+"ref": "orgdffccb4",
 "properties": {
 "post-blank": 0
 },
@@ -1005,7 +1045,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orga8c4e39",
+"ref": "org293b14e",
 "properties": {
 "post-blank": 0
 },
@@ -1016,7 +1056,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgcfb83ae",
+"ref": "orge1b69c7",
 "properties": {
 "post-blank": 0
 },
@@ -1027,7 +1067,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org0485105",
+"ref": "org14cc281",
 "properties": {
 "post-blank": 0
 },
@@ -1038,7 +1078,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org6992731",
+"ref": "orgc409aeb",
 "properties": {
 "post-blank": 0
 },
@@ -1049,7 +1089,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org9f79a99",
+"ref": "orgaa180b8",
 "properties": {
 "post-blank": 0
 },
@@ -1058,7 +1098,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org7f51e8d",
+"ref": "org224974e",
 "properties": {
 "post-blank": 0
 },
@@ -1069,17 +1109,19 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "org9bf37d0",
+"ref": "org75f3d50",
 "properties": {
 "type": "standard",
 "post-blank": 0,
-"post-affiliated": 1157
+"post-affiliated": 1157,
+"mode": "table-row",
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org6f2ec42",
+"ref": "orgcd6e24f",
 "properties": {
 "post-blank": 0
 },
@@ -1090,7 +1132,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgbc13ac1",
+"ref": "org44b1e26",
 "properties": {
 "post-blank": 0
 },
@@ -1101,7 +1143,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org8116dcb",
+"ref": "orgef0bce6",
 "properties": {
 "post-blank": 0
 },
@@ -1112,7 +1154,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org2dcc580",
+"ref": "org41f96ed",
 "properties": {
 "post-blank": 0
 },
@@ -1123,7 +1165,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org0dc46b5",
+"ref": "orgc2ee7db",
 "properties": {
 "post-blank": 0
 },
@@ -1134,7 +1176,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org99d3285",
+"ref": "org547e8fc",
 "properties": {
 "post-blank": 0
 },
@@ -1145,7 +1187,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org1c207c0",
+"ref": "orgb8ae448",
 "properties": {
 "post-blank": 0
 },
@@ -1154,7 +1196,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org1a70683",
+"ref": "orgc9f5fb4",
 "properties": {
 "post-blank": 0
 },
@@ -1165,17 +1207,19 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "orgb91504f",
+"ref": "org226cee1",
 "properties": {
 "type": "standard",
 "post-blank": 0,
-"post-affiliated": 1258
+"post-affiliated": 1258,
+"mode": "table-row",
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgc01691c",
+"ref": "orgbecf79f",
 "properties": {
 "post-blank": 0
 },
@@ -1186,7 +1230,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgfc8f848",
+"ref": "orge5f52b9",
 "properties": {
 "post-blank": 0
 },
@@ -1197,7 +1241,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org7cd058c",
+"ref": "orga3ddfa0",
 "properties": {
 "post-blank": 0
 },
@@ -1208,7 +1252,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org5743f9a",
+"ref": "org6476092",
 "properties": {
 "post-blank": 0
 },
@@ -1219,7 +1263,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org823c417",
+"ref": "org721dd57",
 "properties": {
 "post-blank": 0
 },
@@ -1230,7 +1274,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org60d7114",
+"ref": "org0284257",
 "properties": {
 "post-blank": 0
 },
@@ -1241,7 +1285,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org26b86af",
+"ref": "org9cf9cbe",
 "properties": {
 "post-blank": 0
 },
@@ -1250,7 +1294,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgfa79d27",
+"ref": "orgb461357",
 "properties": {
 "post-blank": 0
 },
@@ -1261,17 +1305,19 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "orgdeb9742",
+"ref": "org848dbc9",
 "properties": {
 "type": "standard",
 "post-blank": 0,
-"post-affiliated": 1359
+"post-affiliated": 1359,
+"mode": "table-row",
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org4b79084",
+"ref": "org9ff1434",
 "properties": {
 "post-blank": 0
 },
@@ -1282,7 +1328,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgb4e83f2",
+"ref": "org68d6311",
 "properties": {
 "post-blank": 0
 },
@@ -1291,7 +1337,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org8e29ca0",
+"ref": "org9c32518",
 "properties": {
 "post-blank": 0
 },
@@ -1300,7 +1346,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgb613e35",
+"ref": "org79b31d1",
 "properties": {
 "post-blank": 0
 },
@@ -1309,7 +1355,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orge1e5fd1",
+"ref": "orgac5078f",
 "properties": {
 "post-blank": 0
 },
@@ -1318,7 +1364,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgf32dc4e",
+"ref": "orgcfdf95e",
 "properties": {
 "post-blank": 0
 },
@@ -1327,7 +1373,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org3df5f67",
+"ref": "org40f38d4",
 "properties": {
 "post-blank": 0
 },
@@ -1336,7 +1382,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org1e2f396",
+"ref": "orgaa00ff2",
 "properties": {
 "post-blank": 0
 },
@@ -1347,17 +1393,19 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "org753aefd",
+"ref": "org64db3a1",
 "properties": {
 "type": "standard",
 "post-blank": 0,
-"post-affiliated": 1460
+"post-affiliated": 1460,
+"mode": "table-row",
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org2d6c381",
+"ref": "orgd70448d",
 "properties": {
 "post-blank": 0
 },
@@ -1368,7 +1416,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgb7fcd10",
+"ref": "org0b90c6d",
 "properties": {
 "post-blank": 0
 },
@@ -1377,7 +1425,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org0e3b009",
+"ref": "orgbe18975",
 "properties": {
 "post-blank": 0
 },
@@ -1386,7 +1434,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org610cb50",
+"ref": "org56270ff",
 "properties": {
 "post-blank": 0
 },
@@ -1395,7 +1443,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgb878efa",
+"ref": "org405364f",
 "properties": {
 "post-blank": 0
 },
@@ -1404,7 +1452,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org5f4c200",
+"ref": "org39da445",
 "properties": {
 "post-blank": 0
 },
@@ -1413,7 +1461,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgd4c304d",
+"ref": "orgcfd8957",
 "properties": {
 "post-blank": 0
 },
@@ -1422,7 +1470,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org679e6a3",
+"ref": "orgc6750d0",
 "properties": {
 "post-blank": 0
 },
@@ -1433,17 +1481,19 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "org35fc0b9",
+"ref": "org8b00b98",
 "properties": {
 "type": "standard",
 "post-blank": 0,
-"post-affiliated": 1561
+"post-affiliated": 1561,
+"mode": "table-row",
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org74c053a",
+"ref": "org554add7",
 "properties": {
 "post-blank": 0
 },
@@ -1454,7 +1504,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgc4eb2a2",
+"ref": "org21a9fe6",
 "properties": {
 "post-blank": 0
 },
@@ -1463,7 +1513,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org73c84cc",
+"ref": "org0e47fb7",
 "properties": {
 "post-blank": 0
 },
@@ -1472,7 +1522,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org8d4f2cb",
+"ref": "org1bdf9a8",
 "properties": {
 "post-blank": 0
 },
@@ -1481,7 +1531,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org61886f6",
+"ref": "org00e5561",
 "properties": {
 "post-blank": 0
 },
@@ -1490,7 +1540,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgc8ab9d3",
+"ref": "org6115fd3",
 "properties": {
 "post-blank": 0
 },
@@ -1499,7 +1549,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgac2106e",
+"ref": "orga33fc34",
 "properties": {
 "post-blank": 0
 },
@@ -1508,7 +1558,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgb86b577",
+"ref": "orgae86c67",
 "properties": {
 "post-blank": 0
 },
@@ -1519,17 +1569,19 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "org6267079",
+"ref": "org2c1f098",
 "properties": {
 "type": "standard",
 "post-blank": 0,
-"post-affiliated": 1662
+"post-affiliated": 1662,
+"mode": "table-row",
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgb756d5b",
+"ref": "orgb7d9996",
 "properties": {
 "post-blank": 0
 },
@@ -1540,7 +1592,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orga2b1140",
+"ref": "org8ed83d2",
 "properties": {
 "post-blank": 0
 },
@@ -1551,7 +1603,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org671dd73",
+"ref": "org8fe9f01",
 "properties": {
 "post-blank": 0
 },
@@ -1562,7 +1614,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org48b20fe",
+"ref": "orgf0afb57",
 "properties": {
 "post-blank": 0
 },
@@ -1573,7 +1625,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org07a0744",
+"ref": "org04c462d",
 "properties": {
 "post-blank": 0
 },
@@ -1584,7 +1636,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org7dc231b",
+"ref": "orgc2f1664",
 "properties": {
 "post-blank": 0
 },
@@ -1595,7 +1647,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org735438d",
+"ref": "org28f8ab7",
 "properties": {
 "post-blank": 0
 },
@@ -1606,7 +1658,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org72e56ff",
+"ref": "org91a108b",
 "properties": {
 "post-blank": 0
 },
@@ -1619,17 +1671,19 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-row",
-"ref": "orged6be9b",
+"ref": "org72b2de0",
 "properties": {
 "type": "standard",
 "post-blank": 0,
-"post-affiliated": 1763
+"post-affiliated": 1763,
+"mode": "table-row",
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgc301784",
+"ref": "org2b70bf0",
 "properties": {
 "post-blank": 0
 },
@@ -1640,7 +1694,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org36ea857",
+"ref": "orgda14a77",
 "properties": {
 "post-blank": 0
 },
@@ -1649,7 +1703,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "orgcef1c00",
+"ref": "orga960957",
 "properties": {
 "post-blank": 0
 },
@@ -1658,7 +1712,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org68a6299",
+"ref": "orgad67afb",
 "properties": {
 "post-blank": 0
 },
@@ -1667,7 +1721,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org79f9873",
+"ref": "orgef3b28e",
 "properties": {
 "post-blank": 0
 },
@@ -1676,7 +1730,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org215aaae",
+"ref": "org5239c81",
 "properties": {
 "post-blank": 0
 },
@@ -1685,7 +1739,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org5a24848",
+"ref": "org4bd8961",
 "properties": {
 "post-blank": 0
 },
@@ -1694,7 +1748,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "table-cell",
-"ref": "org1032450",
+"ref": "org1f1509f",
 "properties": {
 "post-blank": 0
 },
@@ -1709,7 +1763,7 @@ const data = {
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgc6f3a2d",
+"ref": "org60f3c8d",
 "drawer": {
 
 },
@@ -1717,34 +1771,42 @@ const data = {
 "tags-all": [],
 "raw-value": "Classes",
 "pre-blank": 1,
+"robust-begin": null,
+"robust-end": null,
 "level": 2,
 "priority": null,
 "tags": [],
 "todo-keyword": null,
 "todo-type": null,
-"post-blank": 0,
+"post-blank": 1,
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
 "post-affiliated": 1865,
 "title": [
 "Classes"
-]
+],
+"mode": null,
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org96dc973",
+"ref": "org9e5c441",
 "properties": {
+"robust-begin": 1877,
+"robust-end": 1878,
 "post-blank": 1,
-"post-affiliated": 1877
+"post-affiliated": 1877,
+"mode": "section",
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "plain-list",
-"ref": "org598053d",
+"ref": "org79a5447",
 "properties": {
 "type": "unordered",
 "structure": [
@@ -1759,13 +1821,15 @@ null,
 ]
 ],
 "post-blank": 0,
-"post-affiliated": 1877
+"post-affiliated": 1877,
+"mode": "planning",
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "item",
-"ref": "org686e9bc",
+"ref": "org509860b",
 "properties": {
 "bullet": "- ",
 "checkbox": null,
@@ -1773,7 +1837,9 @@ null,
 "pre-blank": 0,
 "post-blank": 1,
 "post-affiliated": 1877,
-"tag": []
+"tag": [],
+"mode": "item",
+"granularity": null
 },
 "contents": []
 }
@@ -1788,7 +1854,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgb30a72b",
+"ref": "orgae105c8",
 "drawer": {
 "CATEGORY": "General"
 },
@@ -1796,6 +1862,8 @@ null,
 "tags-all": [],
 "raw-value": "General",
 "pre-blank": 0,
+"robust-begin": 1928,
+"robust-end": 2020,
 "level": 1,
 "priority": null,
 "tags": [],
@@ -1808,23 +1876,29 @@ null,
 "post-affiliated": 1881,
 "title": [
 "General"
-]
+],
+"mode": null,
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org6b5ed82",
+"ref": "orgaac0c06",
 "properties": {
+"robust-begin": 1891,
+"robust-end": 1927,
 "post-blank": 0,
-"post-affiliated": 1891
+"post-affiliated": 1891,
+"mode": "section",
+"granularity": null
 },
 "contents": []
 },
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgadba0d1",
+"ref": "org1b1e283",
 "drawer": {
 
 },
@@ -1832,6 +1906,8 @@ null,
 "tags-all": [],
 "raw-value": "Meeting with Dr. Mosenkov",
 "pre-blank": 0,
+"robust-begin": 2001,
+"robust-end": 2020,
 "level": 2,
 "priority": null,
 "tags": [
@@ -1846,31 +1922,39 @@ null,
 "post-affiliated": 1929,
 "title": [
 "Meeting with Dr. Mosenkov"
-]
+],
+"mode": null,
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org82b25ea",
+"ref": "orgfdbb185",
 "properties": {
+"robust-begin": 1999,
+"robust-end": 2020,
 "post-blank": 0,
-"post-affiliated": 1999
+"post-affiliated": 1999,
+"mode": "section",
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org7a55271",
+"ref": "org5bc7f7d",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 1999
+"post-affiliated": 1999,
+"mode": "planning",
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "timestamp",
-"ref": "orgb564f0c",
+"ref": "orgb2d7e0c",
 "properties": {
 "type": "active",
 "raw-value": "<2023-02-09 Thu 21:00>",
@@ -1892,7 +1976,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org20d18e0",
+"ref": "orgb8d14d8",
 "drawer": {
 "CATEGORY": "Mission"
 },
@@ -1900,6 +1984,8 @@ null,
 "tags-all": [],
 "raw-value": "Mission Prep",
 "pre-blank": 0,
+"robust-begin": 2074,
+"robust-end": 2458,
 "level": 1,
 "priority": null,
 "tags": [],
@@ -1912,23 +1998,29 @@ null,
 "post-affiliated": 2022,
 "title": [
 "Mission Prep"
-]
+],
+"mode": null,
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgec901c0",
+"ref": "orga3cb41e",
 "properties": {
+"robust-begin": 2037,
+"robust-end": 2073,
 "post-blank": 0,
-"post-affiliated": 2037
+"post-affiliated": 2037,
+"mode": "section",
+"granularity": null
 },
 "contents": []
 },
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org53fa29a",
+"ref": "org3fb26c9",
 "drawer": {
 
 },
@@ -1936,6 +2028,8 @@ null,
 "tags-all": [],
 "raw-value": "Call BYU to defer",
 "pre-blank": 0,
+"robust-begin": null,
+"robust-end": null,
 "level": 2,
 "priority": null,
 "tags": [],
@@ -1982,16 +2076,22 @@ null,
 },
 "title": [
 "Call BYU to defer"
-]
+],
+"mode": null,
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgc8e01e0",
+"ref": "org23c7094",
 "properties": {
+"robust-begin": 2101,
+"robust-end": 2160,
 "post-blank": 0,
-"post-affiliated": 2101
+"post-affiliated": 2101,
+"mode": "section",
+"granularity": null
 },
 "contents": []
 }
@@ -2000,7 +2100,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org99ac79f",
+"ref": "orgde4d300",
 "drawer": {
 
 },
@@ -2008,6 +2108,8 @@ null,
 "tags-all": [],
 "raw-value": "Contact DMV",
 "pre-blank": 0,
+"robust-begin": null,
+"robust-end": null,
 "level": 2,
 "priority": null,
 "tags": [],
@@ -2054,16 +2156,22 @@ null,
 },
 "title": [
 "Contact DMV"
-]
+],
+"mode": null,
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org4cd5f1f",
+"ref": "org1659b09",
 "properties": {
+"robust-begin": 2182,
+"robust-end": 2241,
 "post-blank": 0,
-"post-affiliated": 2182
+"post-affiliated": 2182,
+"mode": "section",
+"granularity": null
 },
 "contents": []
 }
@@ -2072,7 +2180,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org80cc92a",
+"ref": "org7130565",
 "drawer": {
 
 },
@@ -2080,6 +2188,8 @@ null,
 "tags-all": [],
 "raw-value": "Finish Genesis",
 "pre-blank": 0,
+"robust-begin": null,
+"robust-end": null,
 "level": 2,
 "priority": null,
 "tags": [],
@@ -2126,16 +2236,22 @@ null,
 },
 "title": [
 "Finish Genesis"
-]
+],
+"mode": null,
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org1cef268",
+"ref": "org5d92de6",
 "properties": {
+"robust-begin": 2266,
+"robust-end": 2319,
 "post-blank": 0,
-"post-affiliated": 2266
+"post-affiliated": 2266,
+"mode": "section",
+"granularity": null
 },
 "contents": []
 }
@@ -2144,7 +2260,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org25691fd",
+"ref": "org6cf5c88",
 "drawer": {
 
 },
@@ -2152,6 +2268,8 @@ null,
 "tags-all": [],
 "raw-value": "Read temple prep scriptures",
 "pre-blank": 0,
+"robust-begin": null,
+"robust-end": null,
 "level": 2,
 "priority": null,
 "tags": [],
@@ -2198,16 +2316,22 @@ null,
 },
 "title": [
 "Read temple prep scriptures"
-]
+],
+"mode": null,
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org265141d",
+"ref": "org0d6ee32",
 "properties": {
+"robust-begin": 2357,
+"robust-end": 2410,
 "post-blank": 0,
-"post-affiliated": 2357
+"post-affiliated": 2357,
+"mode": "section",
+"granularity": null
 },
 "contents": []
 }
@@ -2216,7 +2340,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org27bffdf",
+"ref": "org6a2ccca",
 "drawer": {
 
 },
@@ -2224,6 +2348,8 @@ null,
 "tags-all": [],
 "raw-value": "Read Exodus",
 "pre-blank": 0,
+"robust-begin": null,
+"robust-end": null,
 "level": 2,
 "priority": null,
 "tags": [],
@@ -2253,16 +2379,22 @@ null,
 },
 "title": [
 "Read Exodus"
-]
+],
+"mode": null,
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org721ad60",
+"ref": "org1ba64c3",
 "properties": {
+"robust-begin": 2432,
+"robust-end": 2458,
 "post-blank": 0,
-"post-affiliated": 2432
+"post-affiliated": 2432,
+"mode": "section",
+"granularity": null
 },
 "contents": []
 }
@@ -2273,7 +2405,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgcad00f8",
+"ref": "orgaeab69a",
 "drawer": {
 "CATEGORY": "Ethos"
 },
@@ -2281,6 +2413,8 @@ null,
 "tags-all": [],
 "raw-value": "Ethos",
 "pre-blank": 0,
+"robust-begin": 2503,
+"robust-end": 2696,
 "level": 1,
 "priority": null,
 "tags": [],
@@ -2293,23 +2427,29 @@ null,
 "post-affiliated": 2460,
 "title": [
 "Ethos"
-]
+],
+"mode": null,
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org01c5111",
+"ref": "org48ff1e7",
 "properties": {
+"robust-begin": 2468,
+"robust-end": 2502,
 "post-blank": 0,
-"post-affiliated": 2468
+"post-affiliated": 2468,
+"mode": "section",
+"granularity": null
 },
 "contents": []
 },
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org042c816",
+"ref": "orgc050447",
 "drawer": {
 
 },
@@ -2317,6 +2457,8 @@ null,
 "tags-all": [],
 "raw-value": "Get lady to talk",
 "pre-blank": 0,
+"robust-begin": null,
+"robust-end": null,
 "level": 2,
 "priority": null,
 "tags": [],
@@ -2346,16 +2488,22 @@ null,
 },
 "title": [
 "Get lady to talk"
-]
+],
+"mode": null,
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org0d6317d",
+"ref": "orga1420b5",
 "properties": {
+"robust-begin": 2529,
+"robust-end": 2555,
 "post-blank": 0,
-"post-affiliated": 2529
+"post-affiliated": 2529,
+"mode": "section",
+"granularity": null
 },
 "contents": []
 }
@@ -2364,7 +2512,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org3b47e82",
+"ref": "org9e7287b",
 "drawer": {
 
 },
@@ -2372,6 +2520,8 @@ null,
 "tags-all": [],
 "raw-value": "Create a robust framework to read spreadsheets",
 "pre-blank": 0,
+"robust-begin": null,
+"robust-end": null,
 "level": 2,
 "priority": null,
 "tags": [],
@@ -2401,16 +2551,22 @@ null,
 },
 "title": [
 "Create a robust framework to read spreadsheets"
-]
+],
+"mode": null,
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org17fdd8e",
+"ref": "org38aa54c",
 "properties": {
+"robust-begin": 2612,
+"robust-end": 2638,
 "post-blank": 0,
-"post-affiliated": 2612
+"post-affiliated": 2612,
+"mode": "section",
+"granularity": null
 },
 "contents": []
 }
@@ -2419,7 +2575,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orga55a003",
+"ref": "orgb38e271",
 "drawer": {
 
 },
@@ -2427,6 +2583,8 @@ null,
 "tags-all": [],
 "raw-value": "Reconciliation report",
 "pre-blank": 0,
+"robust-begin": null,
+"robust-end": null,
 "level": 2,
 "priority": null,
 "tags": [],
@@ -2456,16 +2614,22 @@ null,
 },
 "title": [
 "Reconciliation report"
-]
+],
+"mode": null,
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org18a4507",
+"ref": "org4e2c0c5",
 "properties": {
+"robust-begin": 2670,
+"robust-end": 2696,
 "post-blank": 0,
-"post-affiliated": 2670
+"post-affiliated": 2670,
+"mode": "section",
+"granularity": null
 },
 "contents": []
 }
@@ -2476,7 +2640,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org9b82a03",
+"ref": "org10698d3",
 "drawer": {
 "CATEGORY": "Major"
 },
@@ -2484,6 +2648,8 @@ null,
 "tags-all": [],
 "raw-value": "Major",
 "pre-blank": 0,
+"robust-begin": null,
+"robust-end": null,
 "level": 1,
 "priority": null,
 "tags": [],
@@ -2496,16 +2662,22 @@ null,
 "post-affiliated": 2698,
 "title": [
 "Major"
-]
+],
+"mode": null,
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgdb9e4f0",
+"ref": "org322ffdb",
 "properties": {
+"robust-begin": 2706,
+"robust-end": 2740,
 "post-blank": 0,
-"post-affiliated": 2706
+"post-affiliated": 2706,
+"mode": "section",
+"granularity": null
 },
 "contents": []
 }
@@ -2514,7 +2686,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org0374078",
+"ref": "orgb094b1c",
 "drawer": {
 "CATEGORY": "Work"
 },
@@ -2522,6 +2694,8 @@ null,
 "tags-all": [],
 "raw-value": "Work",
 "pre-blank": 0,
+"robust-begin": null,
+"robust-end": null,
 "level": 1,
 "priority": null,
 "tags": [],
@@ -2534,16 +2708,22 @@ null,
 "post-affiliated": 2742,
 "title": [
 "Work"
-]
+],
+"mode": null,
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org59d1b5a",
+"ref": "org8b229b4",
 "properties": {
+"robust-begin": 2749,
+"robust-end": 2782,
 "post-blank": 0,
-"post-affiliated": 2749
+"post-affiliated": 2749,
+"mode": "section",
+"granularity": null
 },
 "contents": []
 }
@@ -2552,7 +2732,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orge5a1ea2",
+"ref": "org1b04832",
 "drawer": {
 
 },
@@ -2560,6 +2740,8 @@ null,
 "tags-all": [],
 "raw-value": "Emacs",
 "pre-blank": 0,
+"robust-begin": null,
+"robust-end": null,
 "level": 1,
 "priority": null,
 "tags": [],
@@ -2572,14 +2754,16 @@ null,
 "post-affiliated": 2784,
 "title": [
 "Emacs"
-]
+],
+"mode": null,
+"granularity": null
 },
 "contents": []
 },
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org0cc0218",
+"ref": "org64e4ea8",
 "drawer": {
 "CATEGORY": "Research"
 },
@@ -2587,6 +2771,8 @@ null,
 "tags-all": [],
 "raw-value": "Research",
 "pre-blank": 0,
+"robust-begin": 2841,
+"robust-end": 3526,
 "level": 1,
 "priority": null,
 "tags": [],
@@ -2599,23 +2785,29 @@ null,
 "post-affiliated": 2792,
 "title": [
 "Research"
-]
+],
+"mode": null,
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org5bfa713",
+"ref": "org59dfca2",
 "properties": {
+"robust-begin": 2803,
+"robust-end": 2840,
 "post-blank": 0,
-"post-affiliated": 2803
+"post-affiliated": 2803,
+"mode": "section",
+"granularity": null
 },
 "contents": []
 },
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgacc0683",
+"ref": "org7f6856a",
 "drawer": {
 
 },
@@ -2623,6 +2815,8 @@ null,
 "tags-all": [],
 "raw-value": "P. Mosenkov Research",
 "pre-blank": 0,
+"robust-begin": 2958,
+"robust-end": 2981,
 "level": 2,
 "priority": null,
 "tags": [],
@@ -2635,31 +2829,39 @@ null,
 "post-affiliated": 2842,
 "title": [
 "P. Mosenkov Research"
-]
+],
+"mode": null,
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org8e6b50e",
+"ref": "orgf155bdd",
 "properties": {
+"robust-begin": 2956,
+"robust-end": 2981,
 "post-blank": 0,
-"post-affiliated": 2956
+"post-affiliated": 2956,
+"mode": "section",
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orgfbc8ace",
+"ref": "org0c14e57",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 2956
+"post-affiliated": 2956,
+"mode": "planning",
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "timestamp",
-"ref": "org0aac02c",
+"ref": "org35b40bf",
 "properties": {
 "type": "active",
 "raw-value": "<2022-09-27 Tue 20:00 +2w>",
@@ -2682,7 +2884,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org901c704",
+"ref": "orgd6ce496",
 "drawer": {
 
 },
@@ -2690,6 +2892,8 @@ null,
 "tags-all": [],
 "raw-value": "P. Mosenkov Meeting",
 "pre-blank": 0,
+"robust-begin": 3008,
+"robust-end": 3031,
 "level": 2,
 "priority": null,
 "tags": [],
@@ -2702,31 +2906,39 @@ null,
 "post-affiliated": 2983,
 "title": [
 "P. Mosenkov Meeting"
-]
+],
+"mode": null,
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgd5f8811",
+"ref": "orge1a73a7",
 "properties": {
+"robust-begin": 3006,
+"robust-end": 3031,
 "post-blank": 0,
-"post-affiliated": 3006
+"post-affiliated": 3006,
+"mode": "section",
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orgaaf24f6",
+"ref": "org772972c",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 3006
+"post-affiliated": 3006,
+"mode": "planning",
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "timestamp",
-"ref": "orgd0086b2",
+"ref": "orga5992f6",
 "properties": {
 "type": "active",
 "raw-value": "<2022-11-17 Thu 21:00 +1w>",
@@ -2749,7 +2961,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org8098f86",
+"ref": "org5a765c2",
 "drawer": {
 
 },
@@ -2757,6 +2969,8 @@ null,
 "tags-all": [],
 "raw-value": "Finish adversarial profile generation",
 "pre-blank": 0,
+"robust-begin": null,
+"robust-end": null,
 "level": 2,
 "priority": null,
 "tags": [],
@@ -2803,16 +3017,22 @@ null,
 },
 "title": [
 "Finish adversarial profile generation"
-]
+],
+"mode": null,
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org4ba3d37",
+"ref": "org7ec8d90",
 "properties": {
+"robust-begin": 3079,
+"robust-end": 3132,
 "post-blank": 0,
-"post-affiliated": 3079
+"post-affiliated": 3079,
+"mode": "section",
+"granularity": null
 },
 "contents": []
 }
@@ -2821,7 +3041,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org6fce98c",
+"ref": "org4bd28be",
 "drawer": {
 
 },
@@ -2829,6 +3049,8 @@ null,
 "tags-all": [],
 "raw-value": "Schedule meeting with Dr. Mosenkov",
 "pre-blank": 0,
+"robust-begin": null,
+"robust-end": null,
 "level": 2,
 "priority": null,
 "tags": [],
@@ -2875,16 +3097,22 @@ null,
 },
 "title": [
 "Schedule meeting with Dr. Mosenkov"
-]
+],
+"mode": null,
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org196f604",
+"ref": "orgd7b9fb6",
 "properties": {
+"robust-begin": 3177,
+"robust-end": 3230,
 "post-blank": 0,
-"post-affiliated": 3177
+"post-affiliated": 3177,
+"mode": "section",
+"granularity": null
 },
 "contents": []
 }
@@ -2893,7 +3121,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orga76180c",
+"ref": "org4d1581d",
 "drawer": {
 
 },
@@ -2901,6 +3129,8 @@ null,
 "tags-all": [],
 "raw-value": "Moment 2 map",
 "pre-blank": 0,
+"robust-begin": null,
+"robust-end": null,
 "level": 2,
 "priority": null,
 "tags": [],
@@ -2947,16 +3177,22 @@ null,
 },
 "title": [
 "Moment 2 map"
-]
+],
+"mode": null,
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org8966cfc",
+"ref": "org2e2bbcf",
 "properties": {
+"robust-begin": 3253,
+"robust-end": 3306,
 "post-blank": 0,
-"post-affiliated": 3253
+"post-affiliated": 3253,
+"mode": "section",
+"granularity": null
 },
 "contents": []
 }
@@ -2965,7 +3201,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org01837ce",
+"ref": "org2e9aa34",
 "drawer": {
 
 },
@@ -2973,6 +3209,8 @@ null,
 "tags-all": [],
 "raw-value": "Library meeting with Dr. Mosenkov",
 "pre-blank": 0,
+"robust-begin": 3347,
+"robust-end": 3366,
 "level": 2,
 "priority": null,
 "tags": [],
@@ -2985,31 +3223,39 @@ null,
 "post-affiliated": 3308,
 "title": [
 "Library meeting with Dr. Mosenkov"
-]
+],
+"mode": null,
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org302b296",
+"ref": "orgbfce4bb",
 "properties": {
+"robust-begin": 3345,
+"robust-end": 3366,
 "post-blank": 0,
-"post-affiliated": 3345
+"post-affiliated": 3345,
+"mode": "section",
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orgde0ca28",
+"ref": "org8232632",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 3345
+"post-affiliated": 3345,
+"mode": "planning",
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "timestamp",
-"ref": "org1694385",
+"ref": "org3149aac",
 "properties": {
 "type": "active",
 "raw-value": "<2023-01-19 Thu 21:00>",
@@ -3029,7 +3275,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org39804f1",
+"ref": "orgc481eef",
 "drawer": {
 
 },
@@ -3037,6 +3283,8 @@ null,
 "tags-all": [],
 "raw-value": "Push beta version with adding, editing, removing in Paperstack",
 "pre-blank": 0,
+"robust-begin": null,
+"robust-end": null,
 "level": 2,
 "priority": null,
 "tags": [],
@@ -3066,16 +3314,22 @@ null,
 },
 "title": [
 "Push beta version with adding, editing, removing in Paperstack"
-]
+],
+"mode": null,
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org4620d83",
+"ref": "org1b59a01",
 "properties": {
+"robust-begin": 3439,
+"robust-end": 3465,
 "post-blank": 0,
-"post-affiliated": 3439
+"post-affiliated": 3439,
+"mode": "section",
+"granularity": null
 },
 "contents": []
 }
@@ -3084,7 +3338,7 @@ null,
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org193722c",
+"ref": "orgf8356ea",
 "drawer": {
 
 },
@@ -3092,6 +3346,8 @@ null,
 "tags-all": [],
 "raw-value": "List view for Paperstack",
 "pre-blank": 0,
+"robust-begin": null,
+"robust-end": null,
 "level": 2,
 "priority": null,
 "tags": [],
@@ -3121,16 +3377,22 @@ null,
 },
 "title": [
 "List view for Paperstack"
-]
+],
+"mode": null,
+"granularity": null
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org5ffb257",
+"ref": "org90e05b3",
 "properties": {
+"robust-begin": 3500,
+"robust-end": 3526,
 "post-blank": 0,
-"post-affiliated": 3500
+"post-affiliated": 3500,
+"mode": "section",
+"granularity": null
 },
 "contents": []
 }
